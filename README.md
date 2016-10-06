@@ -84,12 +84,19 @@
 
 Different ideas:
 
-* Meet & Greet: Present your vision/idea for the meetup, invite others to help organise.
-* Lightning talks: Short talks of 5 minutes on a range of topics. Low barrier to
-  participate.
+* Kickoff/Meet & Greet: Present your vision/idea for the meetup, invite others to help
+  organise.
+* Lightning talks: Short talks of 5 minutes on a range of topics. This format usually
+  also has a low barrier to participate.
 * Survey: Some chapters have set up an online questionnaire before their first meeting to
   find out what people were looking for in the meetup. Here is an
-  [example from Paris](https://docs.google.com/forms/d/e/1FAIpQLSfPHTc1CuMHFmisaR53kM0G5iReXZfZH6CcKV6wsX0Gww5m3Q/viewform?c=0&w=1). 
+  [example from Paris](https://docs.google.com/forms/d/e/1FAIpQLSfPHTc1CuMHFmisaR53kM0G5iReXZfZH6CcKV6wsX0Gww5m3Q/viewform?c=0&w=1).
+* Making your group/event known: you can reach out to some other meetups in the area which
+  might have overlapping audiences (e.g., data science meetup and R user groups) and
+  universities (e.g., statistics departments).
+* Finding co-organisers: Some chapters have found their organising team at the launch
+  event, others have included a question on who would be interested in organising in the
+  initial survey.
 
 ### (Further) Events
 
