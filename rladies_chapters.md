@@ -13,7 +13,7 @@ To try and summarise, here a (most likely) incomplete list of who's here and whi
 Gabriela de Queiroz (@gdequeiroz) and Erin LeDell (@erin)
 
 - meetup: https://www.meetup.com/rladies-san-francisco/
-- twiiter: https://twitter.com/RladiesSF
+- twitter: https://twitter.com/RladiesSF
 - email: sf@rladies.org
 
 **Los Angeles** 
@@ -202,6 +202,15 @@ Julia Gustavsen (@jooolia)
 - twitter:
 - email:
 
+## Peru
+
+**Lima**
+
+Ivonne Rentería
+
+- meetup:
+- twitter: https://twitter.com/RLadiesLima
+- email:
 
 ========================================================
 
