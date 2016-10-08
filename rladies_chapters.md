@@ -222,6 +222,6 @@ NY owns: NY, Boston
 Istanbul owns: Istanbul, Berlin
 RTP owns: RTP
 Melbourne owns: Melbourne
-Nashiville owns: Nashiville
+Nashville owns: Nashville, Columbus
 
 *Each Subscription costs ~$180/year*
