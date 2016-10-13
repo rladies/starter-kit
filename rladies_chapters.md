@@ -160,6 +160,16 @@ Christin Zasada (@chrissy_berlin)
 - twitter: https://twitter.com/RLadiesBerlin
 - email: berlin@rladies.org
 
+## Peru
+
+**Lima**
+
+Ivonne Rentería (@irenteria)
+
+- meetup:
+- twitter: https://twitter.com/RLadiesLima
+- email:
+
 
 ## Spain
 
@@ -177,9 +187,27 @@ Bea Hernández (@b)
 Maëlle Salmon (@maelle) and Rebeca Huerga (@rebitt)
 
 - meetup: 
+- twitter: https://twitter.com/RLadiesBCN
+- email:
+
+
+## Switzerland
+
+Julia Gustavsen (@jooolia)
+
+- meetup: 
 - twitter:
 - email:
 
+## Taiwan
+
+**Taipei** 
+
+Juyin Tang (@juyin), Chiayi Yen (@chiayiyen) and Ning Chen (@agogomei)
+
+- meetup: 
+- twitter: 
+- email:
 
 
 ## Turkey
@@ -194,23 +222,7 @@ Hazel Kavili (@hazel)
 
 
 
-## Switzerland
 
-Julia Gustavsen (@jooolia)
-
-- meetup: 
-- twitter:
-- email:
-
-## Peru
-
-**Lima**
-
-Ivonne Rentería
-
-- meetup:
-- twitter: https://twitter.com/RLadiesLima
-- email:
 
 ========================================================
 
