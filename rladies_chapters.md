@@ -52,7 +52,7 @@ Jennifer Thompson (@jenniferthompson) and Lucy D'Agostino McGowan (@lucy)
 
 - meetup: https://www.meetup.com/rladies-nashville/
 - twitter: https://twitter.com/RLadiesNash
-- email:
+- email: nashville@rladies.org
 
 
 ### New York
