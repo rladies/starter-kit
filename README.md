@@ -35,7 +35,7 @@
 * You can get your personal email name@rladies.org and one for your chapter, e.g.,
   boston@rladies.org, which forwards to all organisers of a chapter.
   Erin (erin@rladies.org) can create those for you.
-* Set-up in an email client: see appendix (FIXME)
+* Set-up in an email client: see [wiki](https://github.com/rladies/starter-kit/wiki/How-to-access-your-rladies-email-address)
 
 #### Meetup 
 
@@ -43,7 +43,7 @@
   a grant from the R-Consortium. We have been sharing accounts so that we can put three
   meetups on one account for the same price, or rather, someone who is paying $15/mo for
   a meetup.com account sets up three groups under their account (that’s the limit). Ask
-  in the #seed_groups channel on Slack if anybody has any groups left on their account.
+  in the #new_chapters channel on Slack if anybody has any groups left on their account.
   We are trying to cluster groups geographically.
 * Form a group on the [meetup.com](meetup.com) site with the name
   “R-Ladies [your location]”, for example: “R-Ladies San Francisco” or “R-Ladies London”.
@@ -62,8 +62,8 @@
 #### GitHub
 
 * There is a [global organisation](http://github.com/rladies) to which you can add
-  repositories as needed. Contact any of the admins of the GitHub organisation to be
-  added as a member.
+  repositories as needed. Contact any of the admins (e.g., @hannah) of the GitHub
+  organisation to be added as a member.
 * Local GitHub organisation (optional) should also use the “R-Ladies [your location]”
   format for the organisation name, for example: “R-Ladies San Francisco” or
   “R-Ladies London”, and “rladies-your-location” for the URL.
