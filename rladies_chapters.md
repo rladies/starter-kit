@@ -1,10 +1,7 @@
-To try and summarise, here a (most likely) incomplete list of who's here and which city/chapter they are associated with:
-
 # Current chapters
 
 
 ## USA 
-
 
 ### California
 
@@ -33,7 +30,8 @@ Marianna Foos (@mfoos)
 
 - meetup: https://www.meetup.com/R-Ladies-Boston/
 - twitter: https://twitter.com/RLadiesBoston
-- email:
+- email: boston@rladies.org
+
 
 ### Minnesota
 
@@ -59,7 +57,7 @@ Jennifer Thompson (@jenniferthompson) and Lucy D'Agostino McGowan (@lucy)
 
 **New York** 
 
-Soumya Kalra (@sokal1456) and Vivian Zhang (@vivianzhang)
+Soumya Kalra (@sokal1456)
 
 - meetup: https://www.meetup.com/rladies-newyork/
 - twitter: https://twitter.com/RLadiesNYC
@@ -76,6 +74,7 @@ Elaine McVey (@eamcvey) and Mine Cetinkaya-Rundel (@mine)
 - twitter: https://twitter.com/RLadiesRTP
 - email: rtp@rladies.org
 
+
 ### Ohio
 
 **Columbus** 
@@ -87,18 +86,6 @@ Mine Dogucu (@mdogucu)
 - email: columbus@rladies.org
 
 
-
-### Washington, DC
-
-**DC** 
-
-Pri Oberoi (@prioberoi)
-
-- meetup: 
-- twitter:
-- email:
-
-
 ## UK
 
 **London** 
@@ -108,13 +95,6 @@ Alice Daish (@adaish), Chiin Tan (@chiin), Claudia Vitolo (@claudia), Hannah Fri
 - meetup: https://www.meetup.com/rladies-london/
 - twitter: https://twitter.com/RLadiesLondon
 - email: london@rladies.org
-
-
-**Manchester** Tatjana Kecojevic (@tatjana_kec)
-
-- meetup: 
-- twitter:
-- email:
 
 
 ## Australia
@@ -139,24 +119,13 @@ Christina Bergmann (@chbergma)
 - twitter: https://twitter.com/RLadiesParis
 - email: paris@rladies.org
 
-## Georgia
-
-**Tbilisi** 
-
-Liili Abuladze (@liili), Alessandra Carioli (@acarioli), Nino Macharashvili (@nino)
-
-- meetup: 
-- twitter:
-- email:
-
-
 ## Germany
 
 **Berlin** 
 
-Christin Zasada (@chrissy_berlin)
+Christin Zasada (@chrissy_berlin), Noa Tamir (@noa)
 
-- meetup: https://www.meetup.com/R-Ladies-Berlin/
+- meetup: 
 - twitter: https://twitter.com/RLadiesBerlin
 - email: berlin@rladies.org
 
@@ -186,18 +155,10 @@ Bea Hernández (@b)
 
 Maëlle Salmon (@maelle) and Rebeca Huerga (@rebitt)
 
-- meetup: 
+- meetup: http://www.meetup.com/rladies-barcelona/
 - twitter: https://twitter.com/RLadiesBCN
-- email:
+- email: bcn@rladies.org
 
-
-## Switzerland
-
-Julia Gustavsen (@jooolia)
-
-- meetup: 
-- twitter:
-- email:
 
 ## Taiwan
 
@@ -220,16 +181,33 @@ Hazel Kavili (@hazel)
 - twitter: https://twitter.com/RLadiesIstanbul
 - email:
 
+**Izmir**
+
+Necla Kayaalp (@nkayaalp)
+
+- meetup: https://www.meetup.com/R-Ladies-%C4%B0zmiR/
+- twitter:
+- email:
+
+
+## Poland
+
+**Warsaw**
+
+Olga Mierzwa-Sulima (@olga)
+
+- meetup:
+- twitter:
+- email:
 
 
 
+--------------------------------------------
 
-========================================================
-
-## Accounts 
+## Meetup accounts 
 
 SF owns: SF, LA, Paris    
-London owns: London, Madrid   
+London owns: London, Madrid, Barcelona  
 NY owns: NY, Boston   
 Istanbul owns: Istanbul, Berlin   
 RTP owns: RTP   
@@ -237,3 +215,73 @@ Melbourne owns: Melbourne
 Nashville owns: Nashville, Columbus   
 
 *Each Subscription costs ~$180/year*
+
+--------------------------------------------
+
+
+
+## In the works / People who expressed interest in starting a new chapter
+
+## USA
+
+### Texas
+
+**Houston** Melineh Richard (@melineh1)
+
+**Dallas** Catherine Spann (@catherinespann)
+
+
+### Washington, DC
+
+Pri Oberoi (@prioberoi), Nisha Iyer (@nriyer25), Kelly O'Briant (@kellyo)
+
+
+### Illinois
+
+**Chicago** Janet Wesner (@yahwes), Manju Rupani (@manju)
+
+
+## California
+
+**Orange County** Layla Tadjpour (@layla)
+
+
+
+## Canada
+
+### Ontario
+
+**London** Thea Knowles (@thea)
+
+
+
+## UK
+
+**Manchester** Tatjana Kecojevic (@tatjana_kec)
+
+
+
+## Ireland
+
+**Dublin** Joanna Nieć (@jo_niec)
+
+
+
+## Georgia
+
+**Tbilisi** Liili Abuladze (@liili), Alessandra Carioli (@acarioli), Nino Macharashvili (@nino)
+
+
+
+## Switzerland
+
+**Neuchâtel/Lausanne** Julia Gustavsen (@jooolia)
+
+
+
+## Portugal
+
+**Lisbon** Andreia Carlos (@andreia.carlos), Carolina Frias (@carolinafrias)
+
+**Porto** Bárbara Borges (@barbara)
+
