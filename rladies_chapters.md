@@ -214,7 +214,7 @@ London owns: London, Madrid, Barcelona
 NY owns: NY, Boston   
 Istanbul owns: Istanbul, Berlin   
 RTP owns: RTP   
-Melbourne owns: Melbourne   
+Melbourne owns: Melbourne, Izmir  
 Nashville owns: Nashville, Columbus   
 
 *Each Subscription costs ~$180/year*
@@ -288,3 +288,8 @@ Pri Oberoi (@prioberoi), Nisha Iyer (@nriyer25), Kelly O'Briant (@kellyo)
 
 **Porto** Bárbara Borges (@barbara)
 
+
+
+## Spain
+
+**Valencia** Lidia Contreras
