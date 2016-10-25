@@ -1,5 +1,6 @@
 # Current chapters
 
+The current active chapters of [R-Ladies Global](http://rladies.org) are listed below.  The chapters are grouped by country and the names of the organizers are listed as well.  The @names below indicate usernames in the R-Ladies Slack group (not Twitter handles).
 
 ## USA 
 
@@ -9,17 +10,17 @@
 
 Gabriela de Queiroz (@gdequeiroz) and Erin LeDell (@erin)
 
-- meetup: https://www.meetup.com/rladies-san-francisco/
-- twitter: https://twitter.com/RladiesSF
+- meetup: [https://www.meetup.com/rladies-san-francisco/](https://www.meetup.com/rladies-san-francisco/)
+- twitter: [https://twitter.com/RladiesSF](https://twitter.com/RladiesSF)
 - email: sf@rladies.org
 
 **Los Angeles** 
 
 Katie Scranton (@kscranto)
 
-- meetup: https://www.meetup.com/rladies-la/
-- twitter: https://twitter.com/RLadiesLA
-- email:
+- meetup: [https://www.meetup.com/rladies-la/](https://www.meetup.com/rladies-la/)
+- twitter: [https://twitter.com/RLadiesLA](https://twitter.com/RLadiesLA)
+- email: la@rladies.org
 
 
 ### Massachusetts
@@ -28,8 +29,8 @@ Katie Scranton (@kscranto)
 
 Marianna Foos (@mfoos)
 
-- meetup: https://www.meetup.com/R-Ladies-Boston/
-- twitter: https://twitter.com/RLadiesBoston
+- meetup: [https://www.meetup.com/R-Ladies-Boston/](https://www.meetup.com/R-Ladies-Boston/)
+- twitter: [https://twitter.com/RLadiesBoston](https://twitter.com/RLadiesBoston)
 - email: boston@rladies.org
 
 
@@ -37,8 +38,10 @@ Marianna Foos (@mfoos)
 
 **Minneapolis**
 
-- meetup: http://www.meetup.com/RLadiesTC/
-- twitter: https://twitter.com/RLadiesTC
+Organizer: somewhat inactive, looking for new organizers to help host events
+
+- meetup: [http://www.meetup.com/RLadiesTC/](http://www.meetup.com/RLadiesTC/)
+- twitter: [https://twitter.com/RLadiesTC](https://twitter.com/RLadiesTC])
 - email:
 
 
@@ -48,8 +51,8 @@ Marianna Foos (@mfoos)
 
 Jennifer Thompson (@jenniferthompson) and Lucy D'Agostino McGowan (@lucy)
 
-- meetup: https://www.meetup.com/rladies-nashville/
-- twitter: https://twitter.com/RLadiesNash
+- meetup: [https://www.meetup.com/rladies-nashville/](https://www.meetup.com/rladies-nashville/)
+- twitter: [https://twitter.com/RLadiesNash](https://twitter.com/RLadiesNash)
 - email: nashville@rladies.org
 
 
@@ -59,19 +62,19 @@ Jennifer Thompson (@jenniferthompson) and Lucy D'Agostino McGowan (@lucy)
 
 Soumya Kalra (@sokal1456)
 
-- meetup: https://www.meetup.com/rladies-newyork/
-- twitter: https://twitter.com/RLadiesNYC
+- meetup: [https://www.meetup.com/rladies-newyork/](https://www.meetup.com/rladies-newyork/)
+- twitter: [https://twitter.com/RLadiesNYC](https://twitter.com/RLadiesNYC)
 - email:
 
 
 ### North Carolina
 
-**RTP** 
+**RTP (Research Triangle Park)** 
 
 Elaine McVey (@eamcvey) and Mine Cetinkaya-Rundel (@mine)
 
-- meetup: https://www.meetup.com/R-Ladies-RTP/
-- twitter: https://twitter.com/RLadiesRTP
+- meetup: [https://www.meetup.com/R-Ladies-RTP/](https://www.meetup.com/R-Ladies-RTP/)
+- twitter: [https://twitter.com/RLadiesRTP](https://twitter.com/RLadiesRTP)
 - email: rtp@rladies.org
 
 
@@ -81,8 +84,8 @@ Elaine McVey (@eamcvey) and Mine Cetinkaya-Rundel (@mine)
 
 Mine Dogucu (@mdogucu)
 
-- meetup: https://www.meetup.com/R-Ladies-Columbus/
-- twitter: https://twitter.com/RLadiesColumbus
+- meetup: [https://www.meetup.com/R-Ladies-Columbus/](https://www.meetup.com/R-Ladies-Columbus/)
+- twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
 - email: columbus@rladies.org
 
 
@@ -92,8 +95,8 @@ Mine Dogucu (@mdogucu)
 
 Alice Daish (@adaish), Chiin Tan (@chiin), Claudia Vitolo (@claudia), Hannah Frick (@hannah), Rachel Kirkham (@r_grrrl)
 
-- meetup: https://www.meetup.com/rladies-london/
-- twitter: https://twitter.com/RLadiesLondon
+- meetup: [https://www.meetup.com/rladies-london/](https://www.meetup.com/rladies-london/)
+- twitter: [https://twitter.com/RLadiesLondon](https://twitter.com/RLadiesLondon)
 - email: london@rladies.org
 
 
@@ -103,8 +106,8 @@ Alice Daish (@adaish), Chiin Tan (@chiin), Claudia Vitolo (@claudia), Hannah Fri
 
 Goknur Giner (@goknur) and Sepideh Foroutan (@sepideh)
 
-- meetup: https://www.meetup.com/R-Ladies-Melbourne/
-- twitter: https://twitter.com/RLadiesAU
+- meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
+- twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
 - email:
 
 
@@ -115,8 +118,8 @@ Goknur Giner (@goknur) and Sepideh Foroutan (@sepideh)
 Diane Beldame (@diane), Page Piccinini (@pagepiccinini) and 
 Christina Bergmann (@chbergma)
 
-- meetup: https://www.meetup.com/rladies-paris/
-- twitter: https://twitter.com/RLadiesParis
+- meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
+- twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
 - email: paris@rladies.org
 
 ## Germany
@@ -125,8 +128,8 @@ Christina Bergmann (@chbergma)
 
 Christin Zasada (@chrissy_berlin), Noa Tamir (@noa)
 
-- meetup: 
-- twitter: https://twitter.com/RLadiesBerlin
+- meetup: no meetup page yet, in progress
+- twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - email: berlin@rladies.org
 
 ## Peru
@@ -135,8 +138,8 @@ Christin Zasada (@chrissy_berlin), Noa Tamir (@noa)
 
 Ivonne Rentería (@irenteria)
 
-- meetup:
-- twitter: https://twitter.com/RLadiesLima
+- meetup: no meetup page yet, in progress
+- twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
 - email:
 
 
@@ -146,17 +149,17 @@ Ivonne Rentería (@irenteria)
 
 Bea Hernández (@b)
 
-- meetup: https://www.meetup.com/rladies-mad/
-- twitter: https://twitter.com/RLadiesMAD
-- email:
+- meetup: [https://www.meetup.com/rladies-mad/](https://www.meetup.com/rladies-mad/)
+- twitter: [https://twitter.com/RLadiesMAD](https://twitter.com/RLadiesMAD)
+- email: madrid@rladies.org
 
 
 **Barcelona** 
 
 Maëlle Salmon (@maelle) and Rebeca Huerga (@rebitt)
 
-- meetup: http://www.meetup.com/rladies-barcelona/
-- twitter: https://twitter.com/RLadiesBCN
+- meetup: [http://www.meetup.com/rladies-barcelona/](http://www.meetup.com/rladies-barcelona/)
+- twitter: [https://twitter.com/RLadiesBCN](https://twitter.com/RLadiesBCN)
 - email: bcn@rladies.org
 
 
@@ -168,7 +171,7 @@ Juyin Tang (@juyin), Chiayi Yen (@chiayiyen) and Ning Chen (@agogomei)
 
 - meetup: 
 - twitter: 
-- email:
+- email: 
 
 
 ## Turkey
@@ -177,15 +180,15 @@ Juyin Tang (@juyin), Chiayi Yen (@chiayiyen) and Ning Chen (@agogomei)
 
 Hazel Kavili (@hazel)
 
-- meetup: https://www.meetup.com/R-Ladies-Istanbul/
-- twitter: https://twitter.com/RLadiesIstanbul
+- meetup: [https://www.meetup.com/R-Ladies-Istanbul/](https://www.meetup.com/R-Ladies-Istanbul/)
+- twitter: [https://twitter.com/RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
 - email:
 
 **Izmir**
 
 Necla Kayaalp (@nkayaalp)
 
-- meetup: https://www.meetup.com/R-Ladies-%C4%B0zmiR/
+- meetup: [https://www.meetup.com/R-Ladies-%C4%B0zmiR/](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
 - twitter:
 - email:
 
@@ -220,7 +223,7 @@ Nashville owns: Nashville, Columbus
 
 
 
-## In the works / People who expressed interest in starting a new chapter
+# In the works / People who expressed interest in starting a new chapter
 
 ## USA
 
@@ -241,7 +244,7 @@ Pri Oberoi (@prioberoi), Nisha Iyer (@nriyer25), Kelly O'Briant (@kellyo)
 **Chicago** Janet Wesner (@yahwes), Manju Rupani (@manju)
 
 
-## California
+### California
 
 **Orange County** Layla Tadjpour (@layla)
 
