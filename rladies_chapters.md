@@ -182,15 +182,15 @@ Hazel Kavili (@hazel)
 
 - meetup: [https://www.meetup.com/R-Ladies-Istanbul/](https://www.meetup.com/R-Ladies-Istanbul/)
 - twitter: [https://twitter.com/RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
-- email:
+- email: istanbul@rladies.org
 
 **Izmir**
 
 Necla Kayaalp (@nkayaalp)
 
 - meetup: [https://www.meetup.com/R-Ladies-%C4%B0zmiR/](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
-- twitter:
-- email:
+- twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
+- email: izmir@rladies.org
 
 
 ## Poland
