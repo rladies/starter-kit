@@ -199,9 +199,9 @@ Necla Kayaalp (@nkayaalp)
 
 Olga Mierzwa-Sulima (@olga)
 
-- meetup:
+- meetup: http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/
 - twitter:
-- email:
+- email: warsaw@rladies.org
 
 
 
