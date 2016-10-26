@@ -169,7 +169,10 @@ Maëlle Salmon (@maelle) and Rebeca Huerga (@rebitt)
 
 Juyin Tang (@juyin), Chiayi Yen (@chiayiyen) and Ning Chen (@agogomei)
 
-- meetup: 
+Currently a subgroup of the Taiwan R Users Group meetup.
+
+- facebook: [https://www.facebook.com/groups/twrladies](https://www.facebook.com/groups/twrladies)
+- meetup: [http://www.meetup.com/Taiwan-R/](http://www.meetup.com/Taiwan-R/)
 - twitter: 
 - email: 
 
@@ -199,7 +202,9 @@ Necla Kayaalp (@nkayaalp)
 
 Olga Mierzwa-Sulima (@olga)
 
-- meetup: http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/
+Currently a subgroup of the Warsaw R Users Group meetup.
+
+- meetup: [http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/](http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
 - twitter:
 - email: warsaw@rladies.org
 
