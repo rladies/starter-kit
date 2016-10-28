@@ -240,6 +240,11 @@ Nashville owns: Nashville, Columbus
 
 ## USA
 
+### Connecticut
+
+**Hartford / New Haven** Jasmine Dumas (@jasdumas)
+
+
 ### Texas
 
 **Houston** Melineh Richard (@melineh1)
