@@ -249,6 +249,10 @@ Pri Oberoi (@prioberoi), Nisha Iyer (@nriyer25), Kelly O'Briant (@kellyo)
 **Orange County** Layla Tadjpour (@layla)
 
 
+### Pennsylvania
+
+**Philadelphia** Elea McDonnell Feit 
+
 
 ## Canada
 
