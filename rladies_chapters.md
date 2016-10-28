@@ -209,6 +209,14 @@ Currently a subgroup of the Warsaw R Users Group meetup.
 - email: warsaw@rladies.org
 
 
+## Portugal
+
+**Lisbon** Andreia Carlos (@andreia.carlos), Carolina Frias (@carolinafrias)
+
+- meetup: [https://www.meetup.com/R-Ladies-Lisboa/](https://www.meetup.com/R-Ladies-Lisboa/)
+- twitter: [https://twitter.com/RLadiesLx](https://twitter.com/RLadiesLx)
+- email: lisbon@rladies.org
+
 
 --------------------------------------------
 
@@ -292,8 +300,6 @@ Pri Oberoi (@prioberoi), Nisha Iyer (@nriyer25), Kelly O'Briant (@kellyo)
 
 
 ## Portugal
-
-**Lisbon** Andreia Carlos (@andreia.carlos), Carolina Frias (@carolinafrias)
 
 **Porto** Bárbara Borges (@barbara)
 
