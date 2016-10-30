@@ -174,7 +174,7 @@ Currently a subgroup of the Taiwan R Users Group meetup.
 - facebook: [https://www.facebook.com/groups/twrladies](https://www.facebook.com/groups/twrladies)
 - meetup: [http://www.meetup.com/Taiwan-R/](http://www.meetup.com/Taiwan-R/)
 - twitter: 
-- email: 
+- email: taipei@rladies.org
 
 
 ## Turkey
