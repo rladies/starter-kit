@@ -128,7 +128,7 @@ Christina Bergmann (@chbergma)
 
 Christin Zasada (@chrissy_berlin), Noa Tamir (@noa)
 
-- meetup: no meetup page yet, in progress
+- meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - email: berlin@rladies.org
 
