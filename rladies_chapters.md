@@ -269,7 +269,13 @@ Pri Oberoi (@prioberoi), Nisha Iyer (@nriyer25), Kelly O'Briant (@kellyo)
 
 ### Pennsylvania
 
-**Philadelphia** Elea McDonnell Feit 
+**Philadelphia** Elea McDonnell Feit (@eleafeit)
+
+
+### Iowa
+
+**Ames** Samantha Tyner, Heike Hofmann
+
 
 
 ## Canada
