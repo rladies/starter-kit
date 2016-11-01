@@ -149,7 +149,7 @@ Ivonne Rentería (@irenteria)
 
 Bea Hernández (@b)
 
-- meetup: [https://www.meetup.com/rladies-mad/](https://www.meetup.com/rladies-mad/)
+- meetup: [https://www.meetup.com/rladies-madrid/](https://www.meetup.com/rladies-madrid/)
 - twitter: [https://twitter.com/RLadiesMAD](https://twitter.com/RLadiesMAD)
 - email: madrid@rladies.org
 
