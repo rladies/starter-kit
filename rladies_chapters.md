@@ -225,7 +225,8 @@ Currently a subgroup of the Warsaw R Users Group meetup.
 SF owns: SF, LA, Paris    
 London owns: London, Madrid, Barcelona  
 NY owns: NY, Boston   
-Istanbul owns: Istanbul, Berlin   
+Istanbul owns: Istanbul
+Berlin owns: Berlin
 RTP owns: RTP   
 Melbourne owns: Melbourne, Izmir  
 Nashville owns: Nashville, Columbus   
