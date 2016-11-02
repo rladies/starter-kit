@@ -38,4 +38,4 @@ More information can be found in the [wiki](https://github.com/rladies/starter-k
 
 <br>
 
-![](https://github.com/rladies/starter-kit/blob/master/figures/wiki.png)
+![](https://github.com/rladies/starter-kit/blob/master/figures/wikibutton.png)
