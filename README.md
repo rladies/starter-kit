@@ -1,13 +1,11 @@
+<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 # R-Ladies Starter Kit for New Chapters
 
 
 
 ## Overview of R-Ladies Global
 
-* **Mission Statement**:
-  increasing female representation in global R community in every role, from learners to
-  leaders, through establishing local communities providing mentorship, collaborative
-  learning & support. 
+###**Mission** : R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community
 * **Accessibility**:
   Provision of FREE events based on a combination of volunteering and
   funding/sponsorship where available
