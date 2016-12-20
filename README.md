@@ -30,7 +30,7 @@ More information can be found in the [wiki](https://github.com/rladies/starter-k
 
 - [Tech Infrastructure for Chapters](https://github.com/rladies/starter-kit/wiki/Tech-Infrastructure-for-Chapters) (E-Mail, Meetup, Twitter, GitHub, Slack)
 - [Organising Events](https://github.com/rladies/starter-kit/wiki/Organising-Events) (Launch Event and Further Events)
-- [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct)
+- [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct) - EN/ES
 - [Centralised Resources](https://github.com/rladies/starter-kit/wiki/Centralised-Resources)
 - [Contribute](https://github.com/rladies/starter-kit/wiki/Contribute) to Rladies repositories
 - [Further Ideas](https://github.com/rladies/starter-kit/wiki/Further-Ideas)
