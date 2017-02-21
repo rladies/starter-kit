@@ -79,8 +79,7 @@ Nina Jakobsen
 
 **Paris** 
 
-Diane Beldame (@diane), Page Piccinini (@pagepiccinini) and 
-Christina Bergmann (@chbergma)
+Diane Beldame (@diane), Page Piccinini (@pagepiccinini), Christina Bergmann (@chbergma), Sarah Hosking (@limegimlet), Stéphanie Terrasse (@stephanie)
 
 - meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
 - twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
