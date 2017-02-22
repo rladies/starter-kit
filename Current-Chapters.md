@@ -1,11 +1,11 @@
-The current active chapters of [R-Ladies Global](http://rladies.org) are listed below.  The chapters are grouped by country and the names of the organizers are listed as well.  The @names below indicate usernames in the R-Ladies Slack group (not Twitter handles).
+The current active and prospective chapters of [R-Ladies Global](http://rladies.org) are listed below.  The chapters are grouped by country and the names of the organizers are listed as well.
 
 
 ## Argentina
 
 **Buenos Aires** 
 
-Laura Acion (@lacion), Paloma Rojas (@palolili), Daniela Vazquez (@daniela.vazquez), Sonia Benítez
+Laura Acion, Paloma Rojas, Daniela Vazquez, Sonia Benítez
 
 - meetup: [https://www.meetup.com/rladies-buenos-aires/](https://www.meetup.com/rladies-buenos-aires/)
 - twitter: [https://twitter.com/RLadiesBA](https://twitter.com/RLadiesBA)
@@ -13,11 +13,12 @@ Laura Acion (@lacion), Paloma Rojas (@palolili), Daniela Vazquez (@daniela.vazqu
 - email: buenosaires@rladies.org
 
 
+
 ## Australia
 
 **Melbourne** 
 
-Goknur Giner (@goknur) and Sepideh Foroutan (@sepideh)
+Goknur Giner, Sepideh Foroutan
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
 - twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
@@ -32,11 +33,12 @@ Marija Dmitrijeva
 - email:
 
 
+
 ## Brazil
 
 **Rio de Janeiro**
 
-Celina Rebello(@celrebello) and Thais Viana (@thaisviana)
+Celina Rebello, Thais Viana
 
 - meetup: 
 - twitter: [https://twitter.com/RLadiesRio](https://twitter.com/RLadiesRio)
@@ -44,11 +46,12 @@ Celina Rebello(@celrebello) and Thais Viana (@thaisviana)
 
 **São Paulo**
 
-Natalia Murgel (@nmurgel) and Haydée Svab (@hsvab)
+Natalia Murgel, Haydée Svab
 
 - meetup: 
 - twitter: 
 - email: 
+
 
 
 ## Canada
@@ -64,6 +67,7 @@ Thea Knowles
 - email: 
 
 
+
 ## Denmark
 
 **Copenhagen**
@@ -75,25 +79,29 @@ Nina Jakobsen
 - email: 
 
 
+
 ## France
 
 **Paris** 
 
-Diane Beldame (@diane), Page Piccinini (@pagepiccinini), Christina Bergmann (@chbergma), Sarah Hosking (@limegimlet), Stéphanie Terrasse (@stephanie)
+Diane Beldame, Page Piccinini, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse)
 
 - meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
 - twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
 - email: paris@rladies.org
 
+
+
 ## Germany
 
 **Berlin** 
 
-Christin Zasada (@chrissy_berlin), Noa Tamir (@noa)
+Christin Zasada, Noa Tamir
 
 - meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - email: berlin@rladies.org
+
 
 
 ## Hungary
@@ -108,15 +116,17 @@ Christin Zasada (@chrissy_berlin), Noa Tamir (@noa)
 - email: budapest@rladies.org
 
 
+
 ## Ireland
 
 **Dublin**
 
-Christin Zasada, Jo Nieć
+Jo Nieć
 
 - meetup: [https://www.meetup.com/R-Ladies-Dublin/](https://www.meetup.com/R-Ladies-Dublin/)
 - twitter: [https://twitter.com/RLadiesDublin](https://twitter.com/RLadiesDublin)
 - email:
+
 
 
 ## Italy
@@ -130,6 +140,7 @@ Teresa Del Bianco
 - email:
 
 
+
 ## Norway
 
 **Oslo**
@@ -141,21 +152,24 @@ Anne Claire Fouilloux
 - email: 
 
 
+
 ## Peru
 
 **Lima**
 
-Ivonne Rentería (@irenteria)
+Ivonne Rentería
 
 - meetup: no meetup page yet, in progress
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
 - email:
 
+
+
 ## Poland
 
 **Warsaw**
 
-Olga Mierzwa-Sulima (@olga), Natalia Potocka
+Olga Mierzwa-Sulima, Natalia Potocka
 
 Currently a subgroup of the Warsaw R Users Group meetup.
 
@@ -164,11 +178,12 @@ Currently a subgroup of the Warsaw R Users Group meetup.
 - email: warsaw@rladies.org
 
 
+
 ## Portugal
 
 **Lisbon** 
 
-Andreia Carlos (@andreia.carlos), Carolina Frias (@carolinafrias)
+Andreia Carlos, Carolina Frias
 
 - meetup: [https://www.meetup.com/R-Ladies-Lisboa/](https://www.meetup.com/R-Ladies-Lisboa/)
 - twitter: [https://twitter.com/RLadiesLx](https://twitter.com/RLadiesLx)
@@ -180,16 +195,15 @@ Andreia Carlos (@andreia.carlos), Carolina Frias (@carolinafrias)
 
 **Madrid** 
 
-Bea Hernández (@b), Inés Huertas (@ines) and Leticia Martín-Fuertes (@nimbusaeta)
+Bea Hernández, Inés Huertas, Leticia Martín-Fuertes
 
 - meetup: [https://www.meetup.com/rladies-madrid/](https://www.meetup.com/rladies-madrid/)
 - twitter: [https://twitter.com/RLadiesMAD](https://twitter.com/RLadiesMAD)
 - email: madrid@rladies.org
 
-
 **Barcelona** 
 
-Maëlle Salmon (@maelle) and Rebeca Huerga (@rebitt)
+Maëlle Salmon, Rebeca Huerga
 
 - meetup: [http://www.meetup.com/rladies-barcelona/](http://www.meetup.com/rladies-barcelona/)
 - twitter: [https://twitter.com/RLadiesBCN](https://twitter.com/RLadiesBCN)
@@ -197,18 +211,19 @@ Maëlle Salmon (@maelle) and Rebeca Huerga (@rebitt)
 
 **Valencia** 
 
-Lidia Contreras (@liconoc) 
+Lidia Contreras
 
 - meetup: They are still working on the organization
 - twitter: [https://twitter.com/RLadiesValencia](https://twitter.com/RLadiesValencia)
 - email: valencia@rladies.org
 
 
+
 ## Taiwan
 
 **Taipei** 
 
-Juyin Tang (@juyin), Chiayi Yen (@chiayiyen) and Ning Chen (@agogomei)
+Juyin Tang, Chiayi Yen, Ning Chen
 
 Currently a subgroup of the Taiwan R Users Group meetup.
 
@@ -218,11 +233,12 @@ Currently a subgroup of the Taiwan R Users Group meetup.
 - email: taipei@rladies.org
 
 
+
 ## Turkey
 
 **Istanbul** 
 
-Hazel Kavili (@hazel)
+Hazel Kavili
 
 - meetup: [https://www.meetup.com/R-Ladies-Istanbul/](https://www.meetup.com/R-Ladies-Istanbul/)
 - twitter: [https://twitter.com/RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
@@ -230,7 +246,7 @@ Hazel Kavili (@hazel)
 
 **Izmir**
 
-Necla Kayaalp (@nkayaalp)
+Necla Kayaalp
 
 - meetup: [https://www.meetup.com/R-Ladies-%C4%B0zmiR/](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
 - twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
@@ -241,7 +257,7 @@ Necla Kayaalp (@nkayaalp)
 
 **London** 
 
-Chiin-Rui Tan (@chiin), Alice Daish (@adaish), Claudia Vitolo (@claudia), Hannah Frick (@hannah), Rachel Kirkham (@r_grrrl)
+Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Rachel Kirkham
 
 - meetup: [https://www.meetup.com/rladies-london/](https://www.meetup.com/rladies-london/)
 - twitter: [https://twitter.com/RLadiesLondon](https://twitter.com/RLadiesLondon)
@@ -256,13 +272,15 @@ Tatjana Kecojevic
 - email:
 
 
+
 ## USA 
+
 
 ### California
 
 **San Francisco** 
 
-Gabriela de Queiroz (@gdequeiroz) and Erin LeDell (@erin)
+Gabriela de Queiroz, Erin LeDell
 
 - meetup: [https://www.meetup.com/rladies-san-francisco/](https://www.meetup.com/rladies-san-francisco/)
 - twitter: [https://twitter.com/RladiesSF](https://twitter.com/RladiesSF)
@@ -270,11 +288,12 @@ Gabriela de Queiroz (@gdequeiroz) and Erin LeDell (@erin)
 
 **Los Angeles** 
 
-Katie Scranton (@kscranto)
+Katie Scranton
 
 - meetup: [https://www.meetup.com/rladies-la/](https://www.meetup.com/rladies-la/)
 - twitter: [https://twitter.com/RLadiesLA](https://twitter.com/RLadiesLA)
 - email: la@rladies.org
+
 
 ### Connecticut
 
@@ -287,7 +306,6 @@ Erica Holdridge, Jasmine Dumas
 - email: 
 
 
-
 ### Idaho
 
 **Moscow**
@@ -297,6 +315,7 @@ Adrienne Marshall
 - meetup: 
 - twitter: 
 - email: 
+
 
 ### Indiana
 
@@ -308,15 +327,17 @@ Myrthe Faber, Kelsey M. Reese
 - twitter:
 - email:
 
+
 ### Iowa
 
 **Ames**
 
-Samantha Tyner (@sctyner), Tesia Posekany, Jacqueline Farrell 
+Samantha Tyner, Tesia Posekany, Jacqueline Farrell 
 
 - meetup: [https://www.meetup.com/R-Ladies-Ames/](https://www.meetup.com/R-Ladies-Ames/)
 - twitter: [https://twitter.com/RLadiesAmes](https://twitter.com/RLadiesAmes)
 - email: ames@rladies.org
+
 
 ### Massachusetts
 
@@ -344,7 +365,7 @@ Organizer: somewhat inactive, looking for new organizers to help host events
 
 **New York** 
 
-Soumya Kalra (@sokal1456)
+Soumya Kalra
 
 - meetup: [https://www.meetup.com/rladies-newyork/](https://www.meetup.com/rladies-newyork/)
 - twitter: [https://twitter.com/RLadiesNYC](https://twitter.com/RLadiesNYC)
@@ -355,7 +376,7 @@ Soumya Kalra (@sokal1456)
 
 **RTP (Research Triangle Park)** 
 
-Mine Cetinkaya-Rundel (@mine) and Elaine McVey (@eamcvey) 
+Mine Cetinkaya-Rundel, Elaine McVey
 
 - meetup: [https://www.meetup.com/R-Ladies-RTP/](https://www.meetup.com/R-Ladies-RTP/)
 - twitter: [https://twitter.com/RLadiesRTP](https://twitter.com/RLadiesRTP)
@@ -366,21 +387,23 @@ Mine Cetinkaya-Rundel (@mine) and Elaine McVey (@eamcvey)
 
 **Columbus** 
 
-Mine Dogucu (@mdogucu)
+Mine Dogucu
 
 - meetup: [https://www.meetup.com/R-Ladies-Columbus/](https://www.meetup.com/R-Ladies-Columbus/)
 - twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
 - email: columbus@rladies.org
 
+
 ### Tennessee 
 
 **Nashville**
 
-Jennifer Thompson (@jenniferthompson) and Lucy D'Agostino McGowan (@lucy)
+Jennifer Thompson, Lucy D'Agostino McGowan
 
 - meetup: [https://www.meetup.com/rladies-nashville/](https://www.meetup.com/rladies-nashville/)
 - twitter: [https://twitter.com/RLadiesNash](https://twitter.com/RLadiesNash)
 - email: nashville@rladies.org
+
 
 ### Texas
 
@@ -395,11 +418,12 @@ Victoria Valencia
 
 ### Washington D.C.
 
-Kelly Obriant (@kellyo) and Pri Oberoi (@prioberoi)
+Kelly Obriant, Pri Oberoi
 
 - meetup: [https://www.meetup.com/rladies-dc/](https://www.meetup.com/rladies-dc)
 - twitter: [https://twitter.com/RLadiesDC](https://twitter.com/RLadiesDC)
 - email: dc@rladies.org
+
 
 
 ## South Africa
@@ -412,17 +436,19 @@ Theoni Photopoulou
 - twitter:
 - email:
 
+
 --------------------------------------------
+
 
 ## Meetup account ownership
 
-SF owns: SF, LA, Paris (Gabriela de Queiroz)   
-London owns: London, Madrid, Barcelona (Chiin)    
-NY owns: NY, Boston, DC (Soumya Kalra)     
-Istanbul owns: Istanbul (Hazel)    
-Berlin owns: Berlin, Dublin, Tbilisi (Christin Zasada)	
-RTP owns: RTP, Ames, Connecticut (Mine Cetinkaya-Rundel)	
-Melbourne owns: Melbourne, Izmir, Buenos Aires (Göknur)      
-Nashville owns: Nashville, Columbus, Manchester (Jennifer Thompson)    
-Lisbon owns: Lisbon (Carolina Frias)
-Budapest owns: Budapest (Ágnes Salánki)
+SF (Gabriela de Queiroz) owns: SF, LA, Paris 
+London (Chiin-Rui Tan) owns: London, Madrid, Barcelona 
+NY (Soumya Kalra) owns: NY, Boston, DC
+Istanbul (Hazel Kavili) owns: Istanbul
+Berlin (Christin Zasada) owns: Berlin, Dublin, Tbilisi 
+RTP (Mine Cetinkaya-Rundel) owns: RTP, Ames, Connecticut
+Melbourne (Göknur Giner) owns: Melbourne, Izmir, Buenos Aires
+Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
+Lisbon (Carolina Frias) owns: Lisbon 
+Budapest (Ágnes Salánki) owns: Budapest 
