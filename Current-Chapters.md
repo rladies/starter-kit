@@ -29,7 +29,7 @@ Goknur Giner, Sepideh Foroutan
 Marija Dmitrijeva
 
 - meetup: [https://www.meetup.com/rladies-adelaide/](https://www.meetup.com/rladies-adelaide/)
-- twitter: 
+- twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
 - email:
 
 
@@ -451,4 +451,5 @@ RTP (Mine Cetinkaya-Rundel) owns: RTP, Ames, Connecticut
 Melbourne (Göknur Giner) owns: Melbourne, Izmir, Buenos Aires
 Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
 Lisbon (Carolina Frias) owns: Lisbon 
-Budapest (Ágnes Salánki) owns: Budapest 
+Budapest (Ágnes Salánki) owns: Budapest
+Adelaide (Marija Dmitrijeva) owns: Adelaide
