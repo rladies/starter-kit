@@ -433,7 +433,7 @@ Kelly Obriant, Pri Oberoi
 Theoni Photopoulou
 
 - meetup:
-- twitter:
+- twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
 - email:
 
 
