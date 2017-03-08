@@ -409,11 +409,19 @@ Jennifer Thompson, Lucy D'Agostino McGowan
 
 **Austin**
 
-Victoria Valencia
+Victoria Valencia, Caitlin Hudon
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Austin/](https://www.meetup.com/R-Ladies-Austin/)
 - twitter: [https://twitter.com/RLadiesAustin](https://twitter.com/RLadiesAustin)
 - email: 
+
+**Houston**
+
+Erin Hodgess
+
+- meetup:
+- twitter:
+- email:
 
 
 ### Washington D.C.
@@ -443,7 +451,7 @@ Theoni Photopoulou
 ## Meetup account ownership
 
 SF (Gabriela de Queiroz) owns: SF, LA, Paris 
-London (Chiin-Rui Tan) owns: London, Madrid, Barcelona 
+London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 NY (Soumya Kalra) owns: NY, Boston, DC
 Istanbul (Hazel Kavili) owns: Istanbul
 Berlin (Christin Zasada) owns: Berlin, Dublin, Tbilisi 
@@ -453,3 +461,4 @@ Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester
 Lisbon (Carolina Frias) owns: Lisbon 
 Budapest (Ágnes Salánki) owns: Budapest
 Adelaide (Marija Dmitrijeva) owns: Adelaide
+FIXME () owns: Valencia, London (Ontario), Austin
