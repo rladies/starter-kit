@@ -90,6 +90,14 @@ Diane Beldame, Page Piccinini, Christina Bergmann, Sarah Hosking, Stéphanie Ter
 - twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
 - email: paris@rladies.org
 
+**Strasbourg**
+
+Rita Giordano
+
+- meetup:
+- twitter:
+- email:
+
 
 
 ## Germany
