@@ -110,6 +110,13 @@ Christin Zasada, Noa Tamir
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - email: berlin@rladies.org
 
+**Munich**
+
+Daloha Rodriguez, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Chak
+
+- meetup:
+- twitter:
+- email:
 
 
 ## Hungary
