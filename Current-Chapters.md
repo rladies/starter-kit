@@ -40,7 +40,7 @@ Marija Dmitrijeva
 
 Celina Rebello, Thais Viana
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Rio-de-Janeiro/](https://www.meetup.com/R-Ladies-Rio-de-Janeiro/)
 - twitter: [https://twitter.com/RLadiesRio](https://twitter.com/RLadiesRio)
 - email: rio@rladies.org
 
@@ -112,7 +112,7 @@ Christin Zasada, Noa Tamir
 
 **Munich**
 
-Daloha Rodriguez, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Chak
+Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie Chak
 
 - meetup:
 - twitter:
@@ -455,7 +455,7 @@ Kelly Obriant, Pri Oberoi
 
 Theoni Photopoulou
 
-- meetup:
+- meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/R-Ladies-Cape-Town/)
 - twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
 - email:
 
@@ -473,7 +473,7 @@ Berlin (Christin Zasada) owns: Berlin, Dublin, Tbilisi
 RTP (Mine Cetinkaya-Rundel) owns: RTP, Ames, Connecticut
 Melbourne (Göknur Giner) owns: Melbourne, Izmir, Buenos Aires
 Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
-Lisbon (Carolina Frias) owns: Lisbon 
-Budapest (Ágnes Salánki) owns: Budapest
+Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro
+Budapest (Ágnes Salánki) owns: Budapest, Cape Town
 Adelaide (Marija Dmitrijeva) owns: Adelaide
 FIXME () owns: Valencia, London (Ontario), Austin
