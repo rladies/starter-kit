@@ -434,7 +434,7 @@ Jennifer Thompson, Lucy D'Agostino McGowan
 
 Victoria Valencia, Caitlin Hudon
 
-- meetup: [https://www.meetup.com/R-Ladies-Austin/](https://www.meetup.com/R-Ladies-Austin/)
+- meetup: [https://www.meetup.com/rladies-austin/](https://www.meetup.com/rladies-austin/)
 - twitter: [https://twitter.com/RLadiesAustin](https://twitter.com/RLadiesAustin)
 - email: austin@rladies.org
 
@@ -484,4 +484,5 @@ Theoni Photopoulou
 - Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro
 - Budapest (Ágnes Salánki) owns: Budapest, Cape Town
 - Adelaide (Marija Dmitrijeva) owns: Adelaide
-- FIXME () owns: Valencia, London (Ontario), Austin
+- Austin (Victoria Valencia) owns: Austin
+- FIXME () owns: Valencia, London (Ontario)
