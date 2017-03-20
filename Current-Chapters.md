@@ -22,7 +22,7 @@ Goknur Giner, Sepideh Foroutan
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
 - twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
-- email:
+- email: melbourne@rladies.org
 
 **Adelaide**
 
@@ -30,7 +30,7 @@ Marija Dmitrijeva
 
 - meetup: [https://www.meetup.com/rladies-adelaide/](https://www.meetup.com/rladies-adelaide/)
 - twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
-- email:
+- email: adelaide@rladies.org
 
 
 
@@ -64,7 +64,7 @@ Thea Knowles
 
 - meetup: [https://www.meetup.com/rladies-ldnont/](https://www.meetup.com/rladies-ldnont/)
 - twitter: [https://twitter.com/RLadiesLdnOnt](https://twitter.com/RLadiesLdnOnt)
-- email: 
+- email: ldnont@rladies.org
 
 
 
@@ -116,7 +116,7 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 - meetup:
 - twitter:
-- email:
+- email: munich@rladies.org
 
 
 ## Hungary
@@ -140,7 +140,7 @@ Jo Nieć
 
 - meetup: [https://www.meetup.com/R-Ladies-Dublin/](https://www.meetup.com/R-Ladies-Dublin/)
 - twitter: [https://twitter.com/RLadiesDublin](https://twitter.com/RLadiesDublin)
-- email:
+- email: dublin@rladies.org
 
 
 
@@ -267,6 +267,14 @@ Necla Kayaalp
 - twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
 - email: izmir@rladies.org
 
+## Georgia
+
+**Tbilisi**
+
+- meetup: [https://www.meetup.com/R-Ladies-Tbilisi/](https://www.meetup.com/R-Ladies-Tbilisi/)
+- twitter: [https://twitter.com/RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
+- email: tbilisi@rladies.org
+
 
 ## UK
 
@@ -284,7 +292,7 @@ Tatjana Kecojevic
 
 - meetup: 
 - twitter: [https://twitter.com/RLadiesManchest](https://twitter.com/RLadiesManchest)
-- email:
+- email: manchester@rladies.org
 
 
 
@@ -318,7 +326,7 @@ Erica Holdridge, Jasmine Dumas
 
 - meetup: [https://www.meetup.com/rladies-connecticut/](https://www.meetup.com/rladies-connecticut/)
 - twitter: [https://twitter.com/RLadiesCT](https://twitter.com/RLadiesCT)
-- email: 
+- email: connecticut@rladies.org
 
 
 ### Idaho
@@ -384,7 +392,7 @@ Soumya Kalra
 
 - meetup: [https://www.meetup.com/rladies-newyork/](https://www.meetup.com/rladies-newyork/)
 - twitter: [https://twitter.com/RLadiesNYC](https://twitter.com/RLadiesNYC)
-- email:
+- email: nyc@rladies.org
 
 
 ### North Carolina
@@ -428,7 +436,7 @@ Victoria Valencia, Caitlin Hudon
 
 - meetup: [https://www.meetup.com/R-Ladies-Austin/](https://www.meetup.com/R-Ladies-Austin/)
 - twitter: [https://twitter.com/RLadiesAustin](https://twitter.com/RLadiesAustin)
-- email: 
+- email: austin@rladies.org
 
 **Houston**
 
@@ -457,7 +465,7 @@ Theoni Photopoulou
 
 - meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/R-Ladies-Cape-Town/)
 - twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
-- email:
+- email: capetown@rladies.org
 
 
 --------------------------------------------
@@ -465,15 +473,15 @@ Theoni Photopoulou
 
 ## Meetup account ownership
 
-SF (Gabriela de Queiroz) owns: SF, LA, Paris 
-London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
-NY (Soumya Kalra) owns: NY, Boston, DC
-Istanbul (Hazel Kavili) owns: Istanbul
-Berlin (Christin Zasada) owns: Berlin, Dublin, Tbilisi 
-RTP (Mine Cetinkaya-Rundel) owns: RTP, Ames, Connecticut
-Melbourne (Göknur Giner) owns: Melbourne, Izmir, Buenos Aires
-Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
-Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro
-Budapest (Ágnes Salánki) owns: Budapest, Cape Town
-Adelaide (Marija Dmitrijeva) owns: Adelaide
-FIXME () owns: Valencia, London (Ontario), Austin
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris 
+- London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
+- NY (Soumya Kalra) owns: NY, Boston, DC
+- Istanbul (Hazel Kavili) owns: Istanbul
+- Berlin (Christin Zasada) owns: Berlin, Dublin, Tbilisi 
+- RTP (Mine Cetinkaya-Rundel) owns: RTP, Ames, Connecticut
+- Melbourne (Göknur Giner) owns: Melbourne, Izmir, Buenos Aires
+- Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
+- Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro
+- Budapest (Ágnes Salánki) owns: Budapest, Cape Town
+- Adelaide (Marija Dmitrijeva) owns: Adelaide
+- FIXME () owns: Valencia, London (Ontario), Austin
