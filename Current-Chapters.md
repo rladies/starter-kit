@@ -114,8 +114,8 @@ Christin Zasada, Noa Tamir
 
 Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie Chak
 
-- meetup:
-- twitter:
+- meetup: [https://www.meetup.com/rladies-munich/](https://www.meetup.com/rladies-munich/)
+- twitter: [https://twitter.com/RLadiesMunich](https://twitter.com/RLadiesMunich)
 - email: munich@rladies.org
 
 
@@ -486,3 +486,4 @@ Theoni Photopoulou
 - Adelaide (Marija Dmitrijeva) owns: Adelaide
 - Austin (Victoria Valencia) owns: Austin
 - FIXME () owns: Valencia, London (Ontario)
+- Munich (Daloha Rodriguez-Molina) owns: Munich
