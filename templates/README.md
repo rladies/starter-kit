@@ -7,7 +7,7 @@
  
 ## Word Document
 
-- [A4 Word doc] (https://github.com/rladies/starter-kit/blob/master/templates/R-Ladies_Global_A4_template.docx)
+- [A4 Word doc](https://github.com/rladies/starter-kit/blob/master/templates/R-Ladies_Global_A4_template.docx)
 
 ## Brand Guide
 
