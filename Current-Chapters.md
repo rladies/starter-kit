@@ -303,7 +303,7 @@ Tatjana Kecojevic
 
 **San Francisco** 
 
-Gabriela de Queiroz, Erin LeDell
+Gabriela de Queiroz, Erin LeDell, Ciera Martinez
 
 - meetup: [https://www.meetup.com/rladies-san-francisco/](https://www.meetup.com/rladies-san-francisco/)
 - twitter: [https://twitter.com/RladiesSF](https://twitter.com/RladiesSF)
