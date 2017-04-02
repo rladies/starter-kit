@@ -5,12 +5,20 @@ The current active and prospective chapters of [R-Ladies Global](http://rladies.
 
 **Buenos Aires** 
 
-Laura Acion, Paloma Rojas, Daniela Vazquez, Sonia Benítez
+Laura Acion, Paloma Rojas, Daniela Vazquez, Sonia Benítez, Fabiana Flores
 
 - meetup: [https://www.meetup.com/rladies-buenos-aires/](https://www.meetup.com/rladies-buenos-aires/)
 - twitter: [https://twitter.com/RLadiesBA](https://twitter.com/RLadiesBA)
 - facebook: [https://www.facebook.com/RladiesBA/](https://www.facebook.com/RladiesBA/)
 - email: buenosaires@rladies.org
+
+**Santa Rosa**
+
+Yanina Bellini Saibene
+
+- meetup:
+- twitter:
+- email:
 
 
 
@@ -316,6 +324,17 @@ Katie Scranton
 - meetup: [https://www.meetup.com/rladies-la/](https://www.meetup.com/rladies-la/)
 - twitter: [https://twitter.com/RLadiesLA](https://twitter.com/RLadiesLA)
 - email: la@rladies.org
+
+
+### Colorado
+
+**Boulder/Denver**
+
+Lisa Moller
+
+- meetup:
+- twitter:
+- email:
 
 
 ### Connecticut
