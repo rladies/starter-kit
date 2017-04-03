@@ -74,6 +74,16 @@ Thea Knowles
 - twitter: [https://twitter.com/RLadiesLdnOnt](https://twitter.com/RLadiesLdnOnt)
 - email: ldnont@rladies.org
 
+### Québec
+
+**Montréal**
+
+Corinne Riddell
+
+- meetup:
+- twitter:
+- email:
+
 
 
 ## Denmark
