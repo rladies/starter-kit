@@ -18,7 +18,7 @@ Yanina Bellini Saibene
 
 - meetup:
 - twitter:
-- email:
+- email: santarosa@rladies.org
 
 
 
