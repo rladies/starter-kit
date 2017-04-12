@@ -16,8 +16,8 @@ Laura Acion, Paloma Rojas, Daniela Vazquez, Sonia Benítez, Fabiana Flores
 
 Yanina Bellini Saibene
 
-- meetup:
-- twitter:
+- meetup: [https://www.meetup.com/rladies-santa-rosa/](https://www.meetup.com/rladies-santa-rosa/)
+- twitter: [https://twitter.com/RladiesSR](https://twitter.com/RladiesSR)
 - email: santarosa@rladies.org
 
 
