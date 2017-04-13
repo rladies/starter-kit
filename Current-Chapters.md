@@ -82,7 +82,7 @@ Corinne Riddell
 
 - meetup:
 - twitter:
-- email:
+- email: montreal@rladies.org
 
 
 
