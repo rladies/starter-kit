@@ -78,7 +78,7 @@ Thea Knowles
 
 **Montréal**
 
-Corinne Riddell
+Corinne Riddell, Kathryn Morrison
 
 - meetup:
 - twitter:
