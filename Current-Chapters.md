@@ -150,6 +150,21 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 
 
+## India
+
+
+### Maharashtra
+
+**Pune**
+
+Namita Joseph
+
+- meetup:
+- twitter:
+- email:
+
+
+
 ## Ireland
 
 **Dublin**
