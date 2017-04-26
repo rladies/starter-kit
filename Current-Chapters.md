@@ -373,6 +373,18 @@ Erica Holdridge, Jasmine Dumas
 - email: connecticut@rladies.org
 
 
+### Florida
+
+
+**Miami**
+
+Laura Gabrysiak Gómez
+
+- meetup:
+- twitter:
+- email:
+
+
 ### Idaho
 
 **Moscow**
