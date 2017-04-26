@@ -323,7 +323,7 @@ Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Rachel Kirkham
 
 Tatjana Kecojevic
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Manchester/](https://www.meetup.com/R-Ladies-Manchester/)
 - twitter: [https://twitter.com/RLadiesManchest](https://twitter.com/RLadiesManchest)
 - email: manchester@rladies.org
 
@@ -529,5 +529,5 @@ Theoni Photopoulou
 - Budapest (Ágnes Salánki) owns: Budapest, Cape Town
 - Adelaide (Marija Dmitrijeva) owns: Adelaide
 - Austin (Victoria Valencia) owns: Austin
-- FIXME () owns: Valencia, London (Ontario)
+- London Ontario (Thea Knowles) owns: London (Ontario)
 - Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa
