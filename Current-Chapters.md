@@ -473,6 +473,17 @@ Mine Dogucu
 - email: columbus@rladies.org
 
 
+### Pennsylvania
+
+**Philadelphia**
+
+Alice Walsh
+
+- meetup:
+- twitter:
+- email:
+
+
 ### Tennessee 
 
 **Nashville**
