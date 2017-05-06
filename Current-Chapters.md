@@ -289,6 +289,18 @@ Lidia Contreras
 
 
 
+## Switzerland
+
+**Lausanne*
+
+Sina Rueegger
+
+- meetup:
+- twitter:
+- email:
+
+
+
 ## Taiwan
 
 **Taipei** 
@@ -523,6 +535,17 @@ Victoria Valencia, Caitlin Hudon
 **Houston**
 
 Erin Hodgess
+
+- meetup:
+- twitter:
+- email:
+
+
+### Washington
+
+**Seattle**
+
+Chaya Eastwood Jones
 
 - meetup:
 - twitter:
