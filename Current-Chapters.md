@@ -118,6 +118,16 @@ Rita Giordano
 
 
 
+## Georgia
+
+**Tbilisi**
+
+- meetup: [https://www.meetup.com/R-Ladies-Tbilisi/](https://www.meetup.com/R-Ladies-Tbilisi/)
+- twitter: [https://twitter.com/RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
+- email: tbilisi@rladies.org
+
+
+
 ## Germany
 
 **Berlin** 
@@ -239,6 +249,18 @@ Andreia Carlos, Carolina Frias
 
 
 
+## South Africa
+
+**Cape Town**
+
+Theoni Photopoulou
+
+- meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/R-Ladies-Cape-Town/)
+- twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
+- email: capetown@rladies.org
+
+
+
 ## Spain
 
 **Madrid** 
@@ -300,13 +322,6 @@ Necla Kayaalp
 - twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
 - email: izmir@rladies.org
 
-## Georgia
-
-**Tbilisi**
-
-- meetup: [https://www.meetup.com/R-Ladies-Tbilisi/](https://www.meetup.com/R-Ladies-Tbilisi/)
-- twitter: [https://twitter.com/RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
-- email: tbilisi@rladies.org
 
 
 ## UK
@@ -522,17 +537,6 @@ Kelly Obriant, Pri Oberoi
 - twitter: [https://twitter.com/RLadiesDC](https://twitter.com/RLadiesDC)
 - email: dc@rladies.org
 
-
-
-## South Africa
-
-**Cape Town**
-
-Theoni Photopoulou
-
-- meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/R-Ladies-Cape-Town/)
-- twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
-- email: capetown@rladies.org
 
 
 --------------------------------------------
