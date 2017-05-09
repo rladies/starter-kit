@@ -19,7 +19,7 @@ Por lo tanto, el foco primario de R-Ladies está dado en dar apoyo a las entusia
 ### Estructura de Organización de R-Ladies
 
 
-! [Estructura de R-Ladies] (https://github.com/rladies/starter-kit/blob/master/figures/EsquemaRLadies.png)
+!(/figures/EsquemaRLadies.png)
 
 
 ### Reglas y pautas de funcionamiento de R-Ladies
