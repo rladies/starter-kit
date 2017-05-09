@@ -405,7 +405,7 @@ Erica Holdridge, Jasmine Dumas
 
 **Miami**
 
-Laura Gabrysiak Gómez
+Laura Gabrysiak Gómez, Catalina Arango
 
 - meetup:
 - twitter:
@@ -469,7 +469,16 @@ Organizer: somewhat inactive, looking for new organizers to help host events
 
 ### New York
 
-**New York** 
+**Buffalo**
+
+Lori Shepherd
+
+- meetup:
+- twitter:
+- email:
+
+
+**New York City** 
 
 Soumya Kalra
 
