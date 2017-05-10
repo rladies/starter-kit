@@ -5,7 +5,7 @@ The current active and prospective chapters of [R-Ladies Global](http://rladies.
 
 **Buenos Aires** 
 
-Laura Acion, Paloma Rojas, Daniela Vazquez, Sonia Benítez, Fabiana Flores
+Laura Acion, Paloma Rojas, Daniela Vazquez, Fabiana Flores
 
 - meetup: [https://www.meetup.com/rladies-buenos-aires/](https://www.meetup.com/rladies-buenos-aires/)
 - twitter: [https://twitter.com/RLadiesBA](https://twitter.com/RLadiesBA)
