@@ -6,5 +6,7 @@ The psd has a bleed area (3mm, and it is an editable file so you can customize t
 
 Every file with *hex-* has hex dimensions (see [StickerConstructorSpec](https://github.com/terinjokes/StickerConstructorSpec)).
 
-- [hex-only_logo.png](https://github.com/rladies/starter-kit/blob/master/stickers/hex-only_logo.png) is a png with **no bleed area** and hex dimensions.
-- [hex-only_logo_3mmbleed.psd](https://github.com/rladies/starter-kit/blob/master/stickers/hex-only_logo_3mmbleed.psd) is a editable psd with a 3mm bleed area and the sticker has hex dimensions..
+- [hex-only_logo.png](https://github.com/rladies/starter-kit/blob/master/stickers/hex-only_logo.png) is a png with **no bleed area** and hex dimensions. The image is only the R.
+- [hex-only_logo_3mmbleed.psd](https://github.com/rladies/starter-kit/blob/master/stickers/hex-only_logo_3mmbleed.psd) is a editable psd with a 3mm bleed area and the sticker has hex dimensions. The image is only the R.
+- [hex-only_logo-text_3mmbleed.psd](https://github.com/rladies/starter-kit/blob/master/stickers/hex-only_logo-text_3mmbleed.psd) is a editable psd with a 3mm bleed area and the sticker has hex dimensions. The image is the R with Ladies Text.
+- [hex-only_logo-text.png](https://github.com/rladies/starter-kit/blob/master/stickers/hex-only_logo-text.png) is a png with **no bleed area** and hex dimensions. The image is the R with Ladies Text.
