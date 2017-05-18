@@ -17,7 +17,7 @@
 - **Overview of R Consortium Proposal & Project Goals**: 
 - **Relationship between local groups & global framework**, e.g., project finance
 - **Web presence**:
-    - Website: [http://www.rladies.org](http://www.rladies.org)
+    - Website: [https://www.rladies.org](https://www.rladies.org)
     - E-mail: info@rladies.org
     - Twitter: [RLadiesGlobal](https://twitter.com/RLadiesGlobal)
     - Slack: [http://r-ladies.slack.com](http://r-ladies.slack.com)
