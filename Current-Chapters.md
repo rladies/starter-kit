@@ -14,7 +14,7 @@ Laura Acion, Paloma Rojas, Daniela Vazquez, Fabiana Flores
 
 **Santa Rosa**
 
-Yanina Bellini Saibene
+Yanina Bellini Saibene, Marina Cock
 
 - meetup: [https://www.meetup.com/rladies-santa-rosa/](https://www.meetup.com/rladies-santa-rosa/)
 - twitter: [https://twitter.com/RladiesSR](https://twitter.com/RladiesSR)
