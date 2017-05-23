@@ -220,6 +220,17 @@ Teresa Del Bianco
 - email:
 
 
+## Mexico
+
+**Mexico City**
+
+Silvia Eunice Gutiérrez de la Torre
+
+- meetup:
+- twitter:
+- email:
+
+
 
 ## Norway
 
