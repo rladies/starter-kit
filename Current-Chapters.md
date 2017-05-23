@@ -44,13 +44,7 @@ Marija Dmitrijeva
 
 ## Brazil
 
-**Americana, São Paulo**
-
-Mariana Mendes 
-
-- meetup: 
-- twitter: 
-- email: 
+### Rio de Janeiro
 
 **Rio de Janeiro**
 
@@ -60,9 +54,29 @@ Celina Rebello, Thais Viana
 - twitter: [https://twitter.com/RLadiesRio](https://twitter.com/RLadiesRio)
 - email: rio@rladies.org
 
+### São Paulo
+
+**Americana**
+
+Mariana Mendes 
+
+- meetup: 
+- twitter: 
+- email: 
+
 **São Paulo**
 
 Natalia Murgel, Haydée Svab
+
+- meetup: 
+- twitter: 
+- email: 
+
+### Tocantins
+
+**Palmas**
+
+Katiuscia Martos
 
 - meetup: 
 - twitter: 
