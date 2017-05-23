@@ -82,6 +82,13 @@ Katiuscia Martos
 - twitter: 
 - email: 
 
+**Natal**
+
+Lumi Mevi
+
+- meetup: 
+- twitter: 
+- email: natal@rladies.org
 
 
 ## Canada
@@ -508,7 +515,7 @@ Lori Shepherd
 
 - meetup:
 - twitter:
-- email:
+- email: buffalo@rladies.org
 
 
 **New York City** 
@@ -591,7 +598,7 @@ Chaya Eastwood Jones
 
 - meetup:
 - twitter:
-- email:
+- email: seattle@rladies.org
 
 
 ### Washington D.C.
