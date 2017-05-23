@@ -44,6 +44,14 @@ Marija Dmitrijeva
 
 ## Brazil
 
+**Americana, São Paulo**
+
+Mariana Mendes 
+
+- meetup: 
+- twitter: 
+- email: 
+
 **Rio de Janeiro**
 
 Celina Rebello, Thais Viana
