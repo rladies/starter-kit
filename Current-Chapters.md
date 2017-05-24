@@ -231,7 +231,7 @@ Teresa Del Bianco
 
 **Mexico City**
 
-Silvia Eunice Gutiérrez de la Torre
+Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
 - meetup:
 - twitter:
