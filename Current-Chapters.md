@@ -257,7 +257,7 @@ Anne Claire Fouilloux
 
 Ivonne Rentería
 
-- meetup: no meetup page yet, in progress
+- meetup: 
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
 - email:
 
@@ -331,7 +331,7 @@ Lidia Contreras
 
 ## Switzerland
 
-**Lausanne*
+**Lausanne**
 
 Sina Rueegger
 
