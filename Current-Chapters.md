@@ -451,6 +451,14 @@ Laura Gabrysiak Gómez, Catalina Arango
 - twitter:
 - email:
 
+**Orlando**
+
+Kathy Joshi
+
+- meetup:
+- twitter:
+- email: orlando@rladies.org
+
 
 ### Idaho
 
