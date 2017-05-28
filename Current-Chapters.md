@@ -30,6 +30,7 @@ Goknur Giner, Sepideh Foroutan
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
 - twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
+- facebook: [https://www.facebook.com/RladiesMelbourne](https://www.facebook.com/RladiesMelbourne)
 - email: melbourne@rladies.org
 
 **Adelaide**
