@@ -26,7 +26,7 @@ Yanina Bellini Saibene, Marina Cock
 
 **Melbourne** 
 
-Goknur Giner, Sepideh Foroutan
+Goknur Giner, Sepideh Foroutan, Marie Trussart 
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
 - twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
