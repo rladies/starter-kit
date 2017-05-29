@@ -154,6 +154,7 @@ Rita Giordano
 
 - meetup: [https://www.meetup.com/R-Ladies-Tbilisi/](https://www.meetup.com/R-Ladies-Tbilisi/)
 - twitter: [https://twitter.com/RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
+- facebook: [https://m.facebook.com/rladiestbilisi](https://m.facebook.com/rladiestbilisi)
 - email: tbilisi@rladies.org
 
 
