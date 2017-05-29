@@ -458,7 +458,7 @@ Laura Gabrysiak Gómez, Catalina Arango
 Kathy Joshi
 
 - meetup:
-- twitter:
+- twitter: @RladiesOrlando
 - email: orlando@rladies.org
 
 
