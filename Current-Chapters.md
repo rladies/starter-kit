@@ -523,8 +523,8 @@ Organizer: somewhat inactive, looking for new organizers to help host events
 
 Lori Shepherd
 
-- meetup:
-- twitter:
+- meetup: [https://www.meetup.com/RLadies-Buffalo/](https://www.meetup.com/RLadies-Buffalo/)
+- twitter: [https://twitter.com/RLadiesBuff](https://twitter.com/RLadiesBuff)
 - email: buffalo@rladies.org
 
 
