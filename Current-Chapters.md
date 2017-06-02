@@ -398,6 +398,18 @@ Tatjana Kecojevic
 
 
 
+## Uruguay
+
+**Montevideo** 
+
+Daniela Vazquez, Natalia da Silva
+
+- meetup: [https://www.meetup.com/rladies-montevideo/](https://www.meetup.com/rladies-montevideo/)
+- twitter: [https://twitter.com/RLadiesMVD](https://twitter.com/RLadiesMVD)
+- email: montevideo@rladies.org
+
+
+
 ## USA 
 
 
