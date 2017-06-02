@@ -651,4 +651,4 @@ Kelly Obriant, Pri Oberoi
 - Adelaide (Marija Dmitrijeva) owns: Adelaide
 - Austin (Victoria Valencia) owns: Austin
 - London Ontario (Thea Knowles) owns: London (Ontario)
-- Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa
+- Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa, Montevideo
