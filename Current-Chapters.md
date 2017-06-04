@@ -461,7 +461,7 @@ Erica Holdridge, Jasmine Dumas
 
 Laura Gabrysiak Gómez, Catalina Arango
 
-- meetup:
+- meetup: [https://www.meetup.com/R-Ladies-Miami/](https://www.meetup.com/R-Ladies-Miami/)
 - twitter: [https://twitter.com/RLadiesMiami](https://twitter.com/RLadiesMiami)
 - email: miami@rladies.org
 
