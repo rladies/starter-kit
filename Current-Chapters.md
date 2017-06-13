@@ -169,7 +169,7 @@ Christin Zasada, Noa Tamir, Hannah Tillmann
 
 - meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
-- facebook: [https://www.facebook.com/RLadiesBerlin/?ref=bookmarks](https://www.facebook.com/RLadiesBerlin/?ref=bookmarks)
+- facebook: [https://www.facebook.com/RLadiesBerlin](https://www.facebook.com/RLadiesBerlin/?ref=bookmarks)
 - email: berlin@rladies.org
 
 **Munich**
