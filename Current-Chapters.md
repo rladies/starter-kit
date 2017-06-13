@@ -134,7 +134,7 @@ Nina Jakobsen
 
 **Paris** 
 
-Diane Beldame, Page Piccinini, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse)
+Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse)
 
 - meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
 - twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
@@ -432,6 +432,14 @@ Katie Scranton
 - meetup: [https://www.meetup.com/rladies-la/](https://www.meetup.com/rladies-la/)
 - twitter: [https://twitter.com/RLadiesLA](https://twitter.com/RLadiesLA)
 - email: la@rladies.org
+
+**San Diego** 
+
+Page Piccinini
+
+- meetup: 
+- twitter: 
+- email: sandiego@rladies.org
 
 
 ### Colorado
