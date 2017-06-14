@@ -134,7 +134,7 @@ Nina Jakobsen
 
 **Paris** 
 
-Diane Beldame, Page Piccinini, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse)
+Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse)
 
 - meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
 - twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
@@ -165,10 +165,11 @@ Rita Giordano
 
 **Berlin** 
 
-Christin Zasada, Noa Tamir
+Christin Zasada, Noa Tamir, Hannah Tillmann
 
 - meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
+- facebook: [https://www.facebook.com/RLadiesBerlin](https://www.facebook.com/RLadiesBerlin/?ref=bookmarks)
 - email: berlin@rladies.org
 
 **Munich**
@@ -433,6 +434,14 @@ Katie Scranton
 - twitter: [https://twitter.com/RLadiesLA](https://twitter.com/RLadiesLA)
 - email: la@rladies.org
 
+**San Diego** 
+
+Page Piccinini
+
+- meetup: 
+- twitter: [https://twitter.com/RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
+- email: sandiego@rladies.org
+
 
 ### Colorado
 
@@ -622,6 +631,15 @@ Chaya Eastwood Jones
 - meetup:
 - twitter:
 - email: seattle@rladies.org
+
+**Tacoma**
+
+Alexandra Gore
+
+- meetup:
+- twitter:
+- email: 
+
 
 
 ### Washington D.C.
