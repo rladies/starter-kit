@@ -539,6 +539,17 @@ Organizer: somewhat inactive, looking for new organizers to help host events
 - email:
 
 
+### Missouri
+
+**St.Louis**
+
+Jenine Harris
+
+- meetup:
+- twitter:
+- email:
+
+
 ### New York
 
 **Buffalo**
