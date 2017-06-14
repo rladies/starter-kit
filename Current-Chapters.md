@@ -633,6 +633,15 @@ Chaya Eastwood Jones
 - twitter:
 - email: seattle@rladies.org
 
+**Tacoma**
+
+Alexandra Gore
+
+- meetup:
+- twitter:
+- email: 
+
+
 
 ### Washington D.C.
 
