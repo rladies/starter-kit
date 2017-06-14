@@ -458,10 +458,9 @@ Erica Holdridge, Jasmine Dumas
 
 ### Florida
 
-
 **Miami**
 
-Laura Gabrysiak Gómez, Catalina Arango
+Laura Gabrysiak Gómez, Catalina Arango, Cris Vidal
 
 - meetup: [https://www.meetup.com/R-Ladies-Miami/](https://www.meetup.com/R-Ladies-Miami/)
 - twitter: [https://twitter.com/RLadiesMiami](https://twitter.com/RLadiesMiami)
