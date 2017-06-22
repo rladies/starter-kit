@@ -240,7 +240,7 @@ Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
 - meetup:
 - twitter:
-- email:
+- email: cdmx@rladies.org
 
 
 
