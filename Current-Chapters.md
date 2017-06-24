@@ -600,6 +600,16 @@ Mine Dogucu
 - twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
 - email: columbus@rladies.org
 
+### Oregon
+
+**Portland** 
+
+Augustina Ragwitz, Deeksha Thati
+
+- meetup: 
+- twitter: 
+- email: 
+
 
 ### Pennsylvania
 
