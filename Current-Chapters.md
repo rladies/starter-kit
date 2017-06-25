@@ -138,6 +138,16 @@ Nina Jakobsen
 - email: 
 
 
+## Ecuador
+
+**Quito** 
+
+Elena Chicaiza
+
+- meetup: 
+- twitter:
+- email: 
+
 
 ## France
 
