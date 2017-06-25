@@ -447,7 +447,7 @@ Katie Scranton
 
 Page Piccinini
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-san-diego/](https://www.meetup.com/rladies-san-diego/)
 - twitter: [https://twitter.com/RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
 - email: sandiego@rladies.org
 
