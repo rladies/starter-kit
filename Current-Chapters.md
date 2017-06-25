@@ -488,7 +488,7 @@ Laura Gabrysiak Gómez, Catalina Arango, Cris Vidal
 
 Kathy Joshi
 
-- meetup:
+- meetup:[https://www.meetup.com/R-Ladies-Orlando/](https://www.meetup.com/R-Ladies-Orlando/)
 - twitter: [https://twitter.com/RLadiesOrlando](https://twitter.com/RLadiesOrlando)
 - email: orlando@rladies.org
 
