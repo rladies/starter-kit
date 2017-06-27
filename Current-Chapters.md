@@ -71,7 +71,7 @@ Natalia Murgel, Haydée Svab
 
 - meetup: 
 - twitter: 
-- email: 
+- email: saopaulo@rladies.org
 
 ### Tocantins
 
