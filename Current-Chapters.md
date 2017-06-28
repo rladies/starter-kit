@@ -258,8 +258,9 @@ Teresa Del Bianco
 Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
 - meetup:
-- twitter:
+- twitter: [https://twitter.com/RLadiesCDMX](https://twitter.com/RLadiesCDMX)
 - email: cdmx@rladies.org
+- slack: [rladiescdmx.slack.com](rladiescdmx.slack.com)
 
 
 
