@@ -18,7 +18,7 @@
 - **Relationship between local groups & global framework**, e.g., project finance
 - **Web presence**:
     - Website: [https://www.rladies.org](https://www.rladies.org)
-    - E-mail: info@rladies.org
+    - E-mail: info [at] rladies [dot] org
     - Twitter: [RLadiesGlobal](https://twitter.com/RLadiesGlobal)
     - Slack: [http://r-ladies.slack.com](http://r-ladies.slack.com)
     - GitHub: [http://github.com/rladies](http://github.com/rladies)
