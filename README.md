@@ -19,8 +19,8 @@
 - **Web presence**:
     - Website: [https://www.rladies.org](https://www.rladies.org)
     - E-mail: info [at] rladies [dot] org
-    - Twitter: [RLadiesGlobal](https://twitter.com/RLadiesGlobal)
-    - Slack: [http://r-ladies.slack.com](http://r-ladies.slack.com)
+    - Twitter: [@RLadiesGlobal](https://twitter.com/RLadiesGlobal)
+    - Slack (for chapter organizers): [http://r-ladies.slack.com](http://r-ladies.slack.com)
     - GitHub: [http://github.com/rladies](http://github.com/rladies)
     - Global directory of female R practitioners / speakers: [https://rladies.org/ladies/](https://rladies.org/ladies/)
 
