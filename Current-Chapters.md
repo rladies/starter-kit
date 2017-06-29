@@ -250,6 +250,16 @@ Teresa Del Bianco
 - twitter:
 - email:
 
+**Milan**
+
+Parvaneh Shafiei
+
+- meetup:
+- twitter:
+- email:
+
+
+
 
 ## Mexico
 
