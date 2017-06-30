@@ -116,6 +116,16 @@ Corinne Riddell, Kathryn Morrison
 - twitter:
 - email: montreal [at] rladies [dot] org
 
+## Colombia
+
+**Bucaramanga** 
+
+Viviana Romero Alarcon
+
+- meetup: 
+- twitter:
+- email: 
+
 ## Chile
 
 **Santiago de Chile** 
