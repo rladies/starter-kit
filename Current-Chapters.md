@@ -534,6 +534,15 @@ Adrienne Marshall
 - twitter: 
 - email: 
 
+### Georgia
+
+**Atlanta**
+
+Melinda Higgins
+
+- meetup: 
+- twitter:
+- email: 
 
 ### Indiana
 
