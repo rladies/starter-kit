@@ -163,7 +163,7 @@ Elena Chicaiza
 
 **Paris** 
 
-Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse)
+Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse
 
 - meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
 - twitter: [https://twitter.com/RLadiesParis](https://twitter.com/RLadiesParis)
@@ -570,7 +570,7 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 
 **Boston** 
 
-Marianna Foos (@mfoos)
+Marianna Foos
 
 - meetup: [https://www.meetup.com/R-Ladies-Boston/](https://www.meetup.com/R-Ladies-Boston/)
 - twitter: [https://twitter.com/RLadiesBoston](https://twitter.com/RLadiesBoston)
