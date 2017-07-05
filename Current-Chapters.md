@@ -282,6 +282,13 @@ Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 - email: cdmx [at] rladies [dot] org
 - slack: [rladiescdmx.slack.com](rladiescdmx.slack.com)
 
+**Queretaro**
+
+Alejandra Medina-Rivera
+
+- meetup:
+- twitter:
+- email: 
 
 
 ## Norway
