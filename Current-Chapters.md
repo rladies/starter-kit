@@ -333,6 +333,16 @@ Andreia Carlos, Carolina Frias
 - email: lisbon [at] rladies [dot] org
 
 
+## Serbia
+
+**Belgrade** 
+
+Nadica Miljković
+
+- meetup: 
+- twitter:
+- email:
+
 
 ## South Africa
 
@@ -524,6 +534,17 @@ Kathy Joshi
 - email: orlando [at] rladies [dot] org
 
 
+### Georgia
+
+**Atlanta**
+
+Melinda Higgins
+
+- meetup: 
+- twitter:
+- email: 
+
+
 ### Idaho
 
 **Moscow**
@@ -534,15 +555,17 @@ Adrienne Marshall
 - twitter: 
 - email: 
 
-### Georgia
 
-**Atlanta**
+### Illinois
 
-Melinda Higgins
+**Chicago**
+
+Angela Li
 
 - meetup: 
-- twitter:
+- twitter: 
 - email: 
+
 
 ### Indiana
 
