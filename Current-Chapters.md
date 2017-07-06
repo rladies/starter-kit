@@ -771,3 +771,4 @@ Kelly Obriant, Pri Oberoi
 - Austin (Victoria Valencia) owns: Austin, San Diego, Chicago
 - London Ontario (Thea Knowles) owns: London (Ontario)
 - Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa, Montevideo
+- Milan (Parvaneh Shafiei) owns: Milan
