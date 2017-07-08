@@ -577,7 +577,7 @@ Adrienne Marshall
 
 Angela Li
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-chicago/](https://www.meetup.com/rladies-chicago/)
 - twitter: 
 - email: 
 
