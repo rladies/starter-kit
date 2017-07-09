@@ -5,43 +5,43 @@ April 2017
 ## _R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community._
 
 The R community suffers from an underrepresentation of Women\* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users ([see recent stats](http://forwards.github.io/data/)).
-As a diversity initiative, R-Ladiesí mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladiesí primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
+As a diversity initiative, R-Ladies‚Äô mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies‚Äô primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
 
-_***Please note all references to ëW/womení and ëF/femaleí within this document are used fully inclusively w.r.t trans women, genderqueer women, and non-binary people who are significantly female-identified.**_
+_***Please note all references to ‚ÄòW/women‚Äô and ‚ÄòF/female‚Äô within this document are used fully inclusively w.r.t trans women, genderqueer women, and non-binary people who are significantly female-identified.**_
 
 ## R-Ladies Organization Structure
 
-![](https://github.com/rladies/starter-kit/blob/master/figures/RLadiesStructure.png)
+![](https://raw.githubusercontent.com/rladies/starter-kit/master/figures/RladiesStructure.png)
 
 ## R-Ladies Rules & Guidelines
 
 - **Free:** Public events run by R-Ladies are always offered free of charge to participants.
 
-- **R Language/Environment specific:** The contextual subject/domain scope of R-Ladiesí diversity initiative is specifically the open source R community.
+- **R Language/Environment specific:** The contextual subject/domain scope of R-Ladies‚Äô diversity initiative is specifically the open source R community.
 
-- **Leadership, Mentorship, Membership, Presenters/Speakers & Prioritization of Underrepresented/Minority Genders :** In line with R-Ladiesí Mission Statement,
+- **Leadership, Mentorship, Membership, Presenters/Speakers & Prioritization of Underrepresented/Minority Genders :** In line with R-Ladies‚Äô Mission Statement,
 community roles and participation is reserved and prioritised, respectively, for the genders who are currently underrepresented in the R community. As such, Leadership
 roles within R-Ladies communities, particularly Organiser and any Mentor roles, are to be held by Women*, as the known minority gender identity. Membership within
 R-Ladies communities are also, therefore, to be held by Women*. If there exists sufficient choice to have Presenters/Speakers at R-Ladies who identify as the minority
-genders, this is the preferred option. However, the choice of Presenters/Speakers is up to the relevant local Organisersí discretion, depending on availability and potential value/learning opportunity of those who volunteer.
+genders, this is the preferred option. However, the choice of Presenters/Speakers is up to the relevant local Organisers‚Äô discretion, depending on availability and potential value/learning opportunity of those who volunteer.
 
-- **Rules for Participation of Represented/Majority Gender:** In line with R-Ladiesí Mission Statement, the genders/identities which are not underrepresented in the R
-community are not within the scope of this diversity initiative. The known majority gender group, those identifying as Male, can participate in an R-Ladiesí community
-within an appropriately designed framework, as per the relevant local Organisersí discretion, e.g., as an invited guest of/sponsored by a Member, as a full Member etc.
-The majority of the speakers at any R-Ladies chapter needs to be of a minority gender and there is a strong recommendation for maximum one male speaker per event. Given this majority genderís dominance in the general R community, there is no obligation for R-Ladies to focus/provide/allow comparable support or engage with this majority identity, particularly at the expense of the target minority gender groups - as such, it is feasible to enable, for example, Meetup membership requests to require Organizer approval, and allowing only those identifying as the target minorities to join the R-Ladies.
+- **Rules for Participation of Represented/Majority Gender:** In line with R-Ladies‚Äô Mission Statement, the genders/identities which are not underrepresented in the R
+community are not within the scope of this diversity initiative. The known majority gender group, those identifying as Male, can participate in an R-Ladies‚Äô community
+within an appropriately designed framework, as per the relevant local Organisers‚Äô discretion, e.g., as an invited guest of/sponsored by a Member, as a full Member etc.
+The majority of the speakers at any R-Ladies chapter needs to be of a minority gender and there is a strong recommendation for maximum one male speaker per event. Given this majority gender‚Äôs dominance in the general R community, there is no obligation for R-Ladies to focus/provide/allow comparable support or engage with this majority identity, particularly at the expense of the target minority gender groups - as such, it is feasible to enable, for example, Meetup membership requests to require Organizer approval, and allowing only those identifying as the target minorities to join the R-Ladies.
 
     - **Note:** Please do be aware of the relevant Equality Legislation in your jurisdiction, e.g the Equality Act 2010 in the UK, when designing participation frameworks for the majority gender, to ensure your procedures are not infringing local laws re. potential discrimination.*
 
 - **R-Ladies Code of Conduct :** All members must follow the [Code of Conduct](#CoCEN).
 
 - **Community-Driven administration, independent of External influences:** R-Ladies does not have permanent ties or links to external sponsors or parties. Appropriate
-sponsorship and support which does not seek to dictate or influence R-Ladies Mission-driven activities/decision-making but enhances the communityís operations and impact is welcomed. Local R-Ladies Organisers are encouraged to gain appropriate support which does not compromise the communityís independence.
+sponsorship and support which does not seek to dictate or influence R-Ladies Mission-driven activities/decision-making but enhances the community‚Äôs operations and impact is welcomed. Local R-Ladies Organisers are encouraged to gain appropriate support which does not compromise the community‚Äôs independence.
 
 ## Chapters
 
 Chapters are set up by female* R-Leaders in cities around the world. A [starter kit](https://github.com/rladies/starter-kit) is available for new chapters with guidance on how to get started. Each R-Ladies chapter is expected to conduct themselves in accordance with the following stipulations:
 
-- Use of the [Meetup](https://www.meetup.com/) platform to help organise and promote chapter events, with appropriate name, e.g. ìR-Ladies [Location]î
+- Use of the [Meetup](https://www.meetup.com/) platform to help organise and promote chapter events, with appropriate name, e.g. ‚ÄúR-Ladies [Location]‚Äù
 
 - Use of a Twitter account to help promote chapter events and publicise R-Ladies Global activities and news, with appropriate name, e.g. @RLadies[Location]
 
@@ -115,22 +115,22 @@ The logo of R-Ladies is a purple R and can be found in the starter-kit . Chapter
 
 ### Suggested Twitter Alignment
 
-* Bio of chapters : ìR-Ladies [Location] is part of a world-wide organization to promote gender diversity in the R communityÖ[Any other text]. #RLadies #rstatsî
+* Bio of chapters : ‚ÄúR-Ladies [Location] is part of a world-wide organization to promote gender diversity in the R community‚Ä¶[Any other text]. #RLadies #rstats‚Äù
 * Suggest you link to your meetup group
 * If you have space left over in your bio add the <rladies.org> hyperlink
 
 ### Suggested Meetup Alignment
 
 * Check that the URL is meetup.com/rladies-location
-* ìR-Ladies [Location] is part of a worldwide organization to promote Gender Diversity in the R communityî
+* ‚ÄúR-Ladies [Location] is part of a worldwide organization to promote Gender Diversity in the R community‚Äù
 * Intro text about your chapter meetup group
-* ìHere is our Code of Conduct î
-* ìTo find more details about R-Ladies global initiative by visiting [rladies.org](http://rladies.org/)î
-* ìFollow us on twitter @RLadies[Location] and @RLadiesGlobalî
-* ìCheck out our [R-Ladies Github](https://github.com/rladies)î
+* ‚ÄúHere is our Code of Conduct ‚Äù
+* ‚ÄúTo find more details about R-Ladies global initiative by visiting [rladies.org](http://rladies.org/)‚Äù
+* ‚ÄúFollow us on twitter @RLadies[Location] and @RLadiesGlobal‚Äù
+* ‚ÄúCheck out our [R-Ladies Github](https://github.com/rladies)‚Äù
 * Include statement about photography and filmings - this example is from London chapter:
 
-    ***ìPhotos, Films and all other media/recordings:* photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies London event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or otherpurposes to help achieve the communityís aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.î
+    ***‚ÄúPhotos, Films and all other media/recordings:* photographs and/or video/other media will be taken at events held by this community. By taking part in an R-Ladies London event you grant the community organisers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or otherpurposes to help achieve the community‚Äôs aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organiser.‚Äù
 
 ### Suggested Facebook Alignment
 
@@ -145,141 +145,141 @@ The logo of R-Ladies is a purple R and can be found in the starter-kit . Chapter
 # R-Ladies reglas y pautas de funcionamiento
 Mayo 2017
 
-## MisiÛn
-## _R-Ladies es una organizaciÛn mundial cuya misiÛn es promover la diversidad de gÈnero en la comunidad R._
+## Misi√≥n
+## _R-Ladies es una organizaci√≥n mundial cuya misi√≥n es promover la diversidad de g√©nero en la comunidad R._
 
-La comunidad R sufre de una baja representaciÛn de Mujeres\* en todos los roles y ·reas de participaciÛn, sea como lÌderes, desarrolladoras de paquetes, disertantes, participantes de conferencias, educadoras o usuarias ([ver las estadÌsticas recientes](http://forwards.github.io/data/)).
+La comunidad R sufre de una baja representaci√≥n de Mujeres\* en todos los roles y √°reas de participaci√≥n, sea como l√≠deres, desarrolladoras de paquetes, disertantes, participantes de conferencias, educadoras o usuarias ([ver las estad√≠sticas recientes](http://forwards.github.io/data/)).
 
-Como una iniciativa de diversidad, la misiÛn de R-Ladies es inspirar, entusiasmar y empoderar a las minorÌas actualmente subrepresentadas en la comunidad R para lograr una representaciÛn proporcionada. Por lo tanto, el foco primario de R-Ladies est· en dar apoyo a las entusiastas de R que se identifiquen como una minorÌa subrepresentada, para alcanzar su potencial de programaciÛn, por medio de la construcciÛn de una red colaborativa mundial de lÌderes, mentoras, estudiantes y desarrolladoras de R que faciliten el progreso colectivo e individual en todo el mundo.
-
-
-_***Toda menciÛn a Mujeres o Femenino en este documento es utilizada de forma inclusiva para referirse a mujeres, mujeres trans, mujeres genderqueers y personas no binarias que se identifican de forma significativa como mujeres.**_  
+Como una iniciativa de diversidad, la misi√≥n de R-Ladies es inspirar, entusiasmar y empoderar a las minor√≠as actualmente subrepresentadas en la comunidad R para lograr una representaci√≥n proporcionada. Por lo tanto, el foco primario de R-Ladies est√° en dar apoyo a las entusiastas de R que se identifiquen como una minor√≠a subrepresentada, para alcanzar su potencial de programaci√≥n, por medio de la construcci√≥n de una red colaborativa mundial de l√≠deres, mentoras, estudiantes y desarrolladoras de R que faciliten el progreso colectivo e individual en todo el mundo.
 
 
-## Estructura de OrganizaciÛn de R-Ladies
+_***Toda menci√≥n a Mujeres o Femenino en este documento es utilizada de forma inclusiva para referirse a mujeres, mujeres trans, mujeres genderqueers y personas no binarias que se identifican de forma significativa como mujeres.**_  
+
+
+## Estructura de Organizaci√≥n de R-Ladies
 
 ![](https://github.com/rladies/starter-kit/blob/master/figures/EsquemaRLadies.png)
 
 ## Reglas y pautas de funcionamiento de R-Ladies
 
-- **Gratuito:** los eventos p˙blicos realizados por R-Ladies siempre se ofrecer·n sin cargo a los participantes.
+- **Gratuito:** los eventos p√∫blicos realizados por R-Ladies siempre se ofrecer√°n sin cargo a los participantes.
 
-- **Lenguaje/Entorno R especÌfico:** el dominio, ·mbito y sujeto de estudio de la iniciativa de diversidad R-Ladies es especÌficamente la comunidad de cÛdigo abierto R.
+- **Lenguaje/Entorno R espec√≠fico:** el dominio, √°mbito y sujeto de estudio de la iniciativa de diversidad R-Ladies es espec√≠ficamente la comunidad de c√≥digo abierto R.
 
-- **Liderazgo, Mentoras, Miembros, Presentadoras/Oradoras y PriorizaciÛn de GÈneros sub-representados/minoritarios:** en lÌnea con la misiÛn de R-Ladies la participaciÛn y los roles dentro de la comunidad est·n reservados y se priorizan para los gÈneros que actualmente est·n subrepresentados en la comunidad R. De esta manera, los roles de liderazgo dentro de R-Ladies, en particular los de Organizadora y Mentora, ser·n ocupados por mujeres*, por ser la identidad de gÈnero minoritario. Por lo tanto, la pertenencia a las comunidades de R-Ladies tambiÈn queda reservada a de mujeres*. Si hay suficientes opciones, se priorizar· a las disertantes que se identifiquen con las minorÌas sub representadas. Sin embargo la elecciÛn de los oradores quedar· a criterio de las organizadoras locales, dependiendo de la disponibilidad y teniendo en cuenta el valor potencial y la oportunidad de aprendizaje de los que se ofrezcan como voluntarios.
+- **Liderazgo, Mentoras, Miembros, Presentadoras/Oradoras y Priorizaci√≥n de G√©neros sub-representados/minoritarios:** en l√≠nea con la misi√≥n de R-Ladies la participaci√≥n y los roles dentro de la comunidad est√°n reservados y se priorizan para los g√©neros que actualmente est√°n subrepresentados en la comunidad R. De esta manera, los roles de liderazgo dentro de R-Ladies, en particular los de Organizadora y Mentora, ser√°n ocupados por mujeres*, por ser la identidad de g√©nero minoritario. Por lo tanto, la pertenencia a las comunidades de R-Ladies tambi√©n queda reservada a de mujeres*. Si hay suficientes opciones, se priorizar√° a las disertantes que se identifiquen con las minor√≠as sub representadas. Sin embargo la elecci√≥n de los oradores quedar√° a criterio de las organizadoras locales, dependiendo de la disponibilidad y teniendo en cuenta el valor potencial y la oportunidad de aprendizaje de los que se ofrezcan como voluntarios.
 
-- **Reglas para la ParticipaciÛn del gÈnero mayoritario/representado:** En lÌnea con la misiÛn de R-Ladies aquellos gÈneros/identidades que no est·n subrepresentados en la Comunidad R *no est·n dentro del alcance de esta iniciativa de diversidad*. La mayorÌa conocida como gÈnero Masculino y los que se identifican con el mismo, pueden participar en una comunidad de R-Ladies dentro de un marco diseÒado apropiadamente, de acuerdo con las polÌticas locales determinadas por las organizadoras locales, por ejemplo, como invitado patrocinado por un miembro, como miembro de pleno derecho, etc. Los oradores de cualquier capÌtulo de R-Ladies deben corresponder, en su mayorÌa, a un gÈnero minoritario. Se recomienda fuertemente un m·ximo de un disertante masculino por evento. Dada esta predominancia de gÈnero en la comunidad R general, no hay ninguna obligaciÛn para R-Ladies de proporcionar un apoyo comparable o comprometerse con esta identidad mayoritaria, especialmente a expensas de los grupos minoritarios. Por eso se permite que las solicitudes de membresÌa al Meetup requieran la aprobaciÛn de las Organizadoras, permitiendo que sÛlo aquellas personas que se identifiquen con las minorÌas objetivo se unan.
+- **Reglas para la Participaci√≥n del g√©nero mayoritario/representado:** En l√≠nea con la misi√≥n de R-Ladies aquellos g√©neros/identidades que no est√°n subrepresentados en la Comunidad R *no est√°n dentro del alcance de esta iniciativa de diversidad*. La mayor√≠a conocida como g√©nero Masculino y los que se identifican con el mismo, pueden participar en una comunidad de R-Ladies dentro de un marco dise√±ado apropiadamente, de acuerdo con las pol√≠ticas locales determinadas por las organizadoras locales, por ejemplo, como invitado patrocinado por un miembro, como miembro de pleno derecho, etc. Los oradores de cualquier cap√≠tulo de R-Ladies deben corresponder, en su mayor√≠a, a un g√©nero minoritario. Se recomienda fuertemente un m√°ximo de un disertante masculino por evento. Dada esta predominancia de g√©nero en la comunidad R general, no hay ninguna obligaci√≥n para R-Ladies de proporcionar un apoyo comparable o comprometerse con esta identidad mayoritaria, especialmente a expensas de los grupos minoritarios. Por eso se permite que las solicitudes de membres√≠a al Meetup requieran la aprobaci√≥n de las Organizadoras, permitiendo que s√≥lo aquellas personas que se identifiquen con las minor√≠as objetivo se unan.
 
 
-    - **Nota:** Tener en cuenta la LegislaciÛn reacionada a Igualdad de GÈnero existente en su jurisdicciÛn, (ej: la Ley de Igualdad 2010 en el Reino Unido) al diseÒar marcos de participaciÛn para la mayorÌa de gÈnero para garantizar que dichos procedimientos no est·n infringiendo las leyes locales y evitar una discriminaciÛn potencial.*
+    - **Nota:** Tener en cuenta la Legislaci√≥n reacionada a Igualdad de G√©nero existente en su jurisdicci√≥n, (ej: la Ley de Igualdad 2010 en el Reino Unido) al dise√±ar marcos de participaci√≥n para la mayor√≠a de g√©nero para garantizar que dichos procedimientos no est√°n infringiendo las leyes locales y evitar una discriminaci√≥n potencial.*
 
-- **CÛdigo de Conducta de R-Ladies:** Todos los miembros deben seguir el [CÛdigo de Conducta](#CoC).
+- **C√≥digo de Conducta de R-Ladies:** Todos los miembros deben seguir el [C√≥digo de Conducta](#CoC).
 
-- **AdministraciÛn dirigida por la comunidad, independiente de las influencias externas:** R-Ladies no tiene vÌnculos permanentes con patrocinadores o terceras partes. El sponsoreo y apoyo externo es bienvenido, siempre y cuando no busque dictar o influir en la misiÛn, actividades y toma de decisiones de R-Ladies, sino que permita mejorar dichas actividades y ayude a lograr un mayor impacto en la comunidad. Se alienta a las organizadoras locales de R-Ladies a obtener apoyos adecuados que no comprometan la independencia de la comunidad.
+- **Administraci√≥n dirigida por la comunidad, independiente de las influencias externas:** R-Ladies no tiene v√≠nculos permanentes con patrocinadores o terceras partes. El sponsoreo y apoyo externo es bienvenido, siempre y cuando no busque dictar o influir en la misi√≥n, actividades y toma de decisiones de R-Ladies, sino que permita mejorar dichas actividades y ayude a lograr un mayor impacto en la comunidad. Se alienta a las organizadoras locales de R-Ladies a obtener apoyos adecuados que no comprometan la independencia de la comunidad.
 
-## CapÌtulos
+## Cap√≠tulos
 
-Los capÌtulos son creados por lÌderes femeninas\* en ciudades alrededor del mundo. Existe un [kit de inicio](https://github.com/rladies/starter-kit) para los nuevos capÌtulos que contiene instrucciones para poder empezar (todavÌa falta traducir al espaÒol algunas cosas). Se espera que cada capÌtulo de R-Ladies se comporte de acuerdo con las siguientes reglas:
+Los cap√≠tulos son creados por l√≠deres femeninas\* en ciudades alrededor del mundo. Existe un [kit de inicio](https://github.com/rladies/starter-kit) para los nuevos cap√≠tulos que contiene instrucciones para poder empezar (todav√≠a falta traducir al espa√±ol algunas cosas). Se espera que cada cap√≠tulo de R-Ladies se comporte de acuerdo con las siguientes reglas:
 
-- Uso de la plataforma [Meetup](https://www.meetup.com/) para ayudar a organizar y promover eventos del capÌtulo, con el nombre apropiado de la forma: "R-Ladies [UbicaciÛn]".
+- Uso de la plataforma [Meetup](https://www.meetup.com/) para ayudar a organizar y promover eventos del cap√≠tulo, con el nombre apropiado de la forma: "R-Ladies [Ubicaci√≥n]".
 
-- Uso de una cuenta de Twitter para ayudar a promover eventos del capÌtulo y dar a conocer las actividades y noticias de R-Ladies Global, con el nombre apropiado, de la forma @RLadies[UbicaciÛn], donde si [Ubicacion] supera el m·ximo de caracteres permitidos entonces la forma ser· @RLadies[Siglas_UbicaciÛn].
+- Uso de una cuenta de Twitter para ayudar a promover eventos del cap√≠tulo y dar a conocer las actividades y noticias de R-Ladies Global, con el nombre apropiado, de la forma @RLadies[Ubicaci√≥n], donde si [Ubicacion] supera el m√°ximo de caracteres permitidos entonces la forma ser√° @RLadies[Siglas_Ubicaci√≥n].
 
-- ParticipaciÛn proactiva de las lÌderes del capÌtulo en el Slack de R-Ladies como la principal plataforma para la confraternizaciÛn, la comunicaciÛn centralizada y la toma de decisiones colectiva.
+- Participaci√≥n proactiva de las l√≠deres del cap√≠tulo en el Slack de R-Ladies como la principal plataforma para la confraternizaci√≥n, la comunicaci√≥n centralizada y la toma de decisiones colectiva.
 
-- Las lideres del capÌtulo deben compartir de forma proactiva informaciÛn relevante sobre capacitaciones, conferencias,eventos, recursos, noticias, logros, ideas, proyectos y propuestas a travÈs del Slack de R-Ladies, Twitter y [GitHub](https://github.com/rladies).
+- Las lideres del cap√≠tulo deben compartir de forma proactiva informaci√≥n relevante sobre capacitaciones, conferencias,eventos, recursos, noticias, logros, ideas, proyectos y propuestas a trav√©s del Slack de R-Ladies, Twitter y [GitHub](https://github.com/rladies).
 
-Por cualquier pregunta, contactarse por correo electrÛnico a <info@rladies.org> o enviar un mensaje en los canales de Slack #new_chapters (u #organisers).
+Por cualquier pregunta, contactarse por correo electr√≥nico a <info@rladies.org> o enviar un mensaje en los canales de Slack #new_chapters (u #organisers).
 
-## <a name="CoC"/>CÛdigo de conducta</a>
+## <a name="CoC"/>C√≥digo de conducta</a>
 
 R-Ladies se dedica a proporcionar una experiencia libre de acoso para todos. Desde R-Ladies no toleramos el acoso de los participantes en ninguna de las formas posibles.
 
-Este cÛdigo de conducta aplica en todos los espacios de participaciÛn de R-Ladies, incluyendo reuniones, Twitter, Slack, listas de correo, tanto online como offline. Cualquier persona que viole este cÛdigo de conducta deber· ser sancionada o expulsada de estos espacios a discreciÛn de los miembros fundadores.
+Este c√≥digo de conducta aplica en todos los espacios de participaci√≥n de R-Ladies, incluyendo reuniones, Twitter, Slack, listas de correo, tanto online como offline. Cualquier persona que viole este c√≥digo de conducta deber√° ser sancionada o expulsada de estos espacios a discreci√≥n de los miembros fundadores.
 
-Algunos espacios de R-Ladies pueden tener reglas de conducta adicionales, las cuales ser·n de libre acceso y estar·n disponibles para los participantes.
+Algunos espacios de R-Ladies pueden tener reglas de conducta adicionales, las cuales ser√°n de libre acceso y estar√°n disponibles para los participantes.
 
 Los participantes en R-Ladies deben conocer, ser responsables y respetar las reglas de conducta.
 
 El acoso incluye:
 
-* Comentarios ofensivos relacionados con gÈnero, identidad y expresiÛn de gÈnero, orientaciÛn sexual, discapacidad, enfermedad mental, neuro (a) tipicidad, apariencia fÌsica, tamaÒo corporal, edad, raza o religiÛn.
-* Comentarios no deseados sobre las opciones y pr·cticas de estilo de vida de una persona, incluyendo aquellos relacionados con alimentos, salud, crianza de los hijos, drogas y empleo.
-* Deliberadamente referirse de forma equivocada al gÈnero de alguien, o uso de nombres "muertos" o despectivos.
-* Im·genes o comportamientos sexuales gratuitos o fuera de tema en espacios donde no son apropiados.
-* Contacto fÌsico y contacto fÌsico simulado (por ejemplo, descripciones textuales como "*abrazo*" o "*masaje*")  sin consentimiento o despuÈs de una solicitud de detenciÛn. 
+* Comentarios ofensivos relacionados con g√©nero, identidad y expresi√≥n de g√©nero, orientaci√≥n sexual, discapacidad, enfermedad mental, neuro (a) tipicidad, apariencia f√≠sica, tama√±o corporal, edad, raza o religi√≥n.
+* Comentarios no deseados sobre las opciones y pr√°cticas de estilo de vida de una persona, incluyendo aquellos relacionados con alimentos, salud, crianza de los hijos, drogas y empleo.
+* Deliberadamente referirse de forma equivocada al g√©nero de alguien, o uso de nombres "muertos" o despectivos.
+* Im√°genes o comportamientos sexuales gratuitos o fuera de tema en espacios donde no son apropiados.
+* Contacto f√≠sico y contacto f√≠sico simulado (por ejemplo, descripciones textuales como "*abrazo*" o "*masaje*")  sin consentimiento o despu√©s de una solicitud de detenci√≥n. 
 * Amenazas de violencia
-* IncitaciÛn a la violencia hacia cualquier individuo, incluyendo el alentar a una persona a suicidarse o agredirse a sÌ misma.
-* IntimidaciÛn deliberada
+* Incitaci√≥n a la violencia hacia cualquier individuo, incluyendo el alentar a una persona a suicidarse o agredirse a s√≠ misma.
+* Intimidaci√≥n deliberada
 * Acechamiento o seguimiento de forma que pueda ser intimidatorio para otra persona.
-* Acoso mediante fotografÌas o grabaciones, incluyendo registro de actividad en lÌnea con el propÛsito de acosar.
-* InterrupciÛn sostenida del debate y/o discusiones.
-* AtenciÛn sexual no deseada.
-* PatrÛn de contacto social inapropiado, como solicitar/asumir niveles inadecuados de intimidad con otros.
-* ContinuaciÛn de la comunicaciÛn uno-a-uno despuÈs de las solicitudes de cesaciÛn.
+* Acoso mediante fotograf√≠as o grabaciones, incluyendo registro de actividad en l√≠nea con el prop√≥sito de acosar.
+* Interrupci√≥n sostenida del debate y/o discusiones.
+* Atenci√≥n sexual no deseada.
+* Patr√≥n de contacto social inapropiado, como solicitar/asumir niveles inadecuados de intimidad con otros.
+* Continuaci√≥n de la comunicaci√≥n uno-a-uno despu√©s de las solicitudes de cesaci√≥n.
 * Deliberadamente "publicar" cualquier aspecto de la identidad de una persona sin su consentimiento, salvo cuando sea necesario para proteger a las personas vulnerables de abuso intencional.
-* PublicaciÛn de una comunicaciÛn privada no hostigadora. 
+* Publicaci√≥n de una comunicaci√≥n privada no hostigadora. 
 
-R-Ladies prioriza la seguridad de las personas marginadas sobre la comodidad de las personas privilegiadas. Los miembros fundadores no actuar·n sobre las quejas relativas a:
+R-Ladies prioriza la seguridad de las personas marginadas sobre la comodidad de las personas privilegiadas. Los miembros fundadores no actuar√°n sobre las quejas relativas a:
 
 * Los "inversos", como el racismo inverso, el sexismo inverso y la cisfobia.
-* La comunicaciÛn razonable de los lÌmites, como "dÈjame en paz", o ìNo estoy hablando de Èsto contigo".
-* La comunicaciÛn en un "tono" que pueda parecer no agradable.
-* CrÌtica a comportamientos o suposiciones racistas, sexistas, cissexistas o opresivas.
+* La comunicaci√≥n razonable de los l√≠mites, como "d√©jame en paz", o ‚ÄúNo estoy hablando de √©sto contigo".
+* La comunicaci√≥n en un "tono" que pueda parecer no agradable.
+* Cr√≠tica a comportamientos o suposiciones racistas, sexistas, cissexistas o opresivas.
 
 ### Reportar
 
-Si est·s siendo acosado por un miembro/invitado/participante de R-Ladies, o notas que alguien m·s est· siendo acosado, o tienes cualquier otra preocupaciÛn, por favor ponte en contacto con los miembros fundadores a travÈs de reporting@rladies.org. Las incidencias locales ser·n manejadas junto con las organizadoras locales. Si la persona que te est· acosando est· en el equipo, ella se recusar· de manejar tu incidente. Responderemos tan pronto como podamos. 
+Si est√°s siendo acosado por un miembro/invitado/participante de R-Ladies, o notas que alguien m√°s est√° siendo acosado, o tienes cualquier otra preocupaci√≥n, por favor ponte en contacto con los miembros fundadores a trav√©s de reporting@rladies.org. Las incidencias locales ser√°n manejadas junto con las organizadoras locales. Si la persona que te est√° acosando est√° en el equipo, ella se recusar√° de manejar tu incidente. Responderemos tan pronto como podamos. 
 
-Este cÛdigo de conducta se aplica a los espacios de R-Ladies, pero si usted est· siendo acosado por un miembro/invitado/participante de R-Ladies fuera de nuestros espacios, tambiÈn queremos saberlo. Tomaremos en serio todos los informes de buena fe de acoso de los miembros de R-Ladies, especialmente de los 5 miembros fundadores. Esto incluye el acoso fuera de nuestros espacios y sea cual sea el momento. Los miembros fundadores se reservan el derecho de excluir a las personas de R-Ladies sobre la base de su comportamiento pasado, incluyendo el comportamiento fuera de los espacios de R-Ladies y hacia las personas que no est·n en R-Ladies.
+Este c√≥digo de conducta se aplica a los espacios de R-Ladies, pero si usted est√° siendo acosado por un miembro/invitado/participante de R-Ladies fuera de nuestros espacios, tambi√©n queremos saberlo. Tomaremos en serio todos los informes de buena fe de acoso de los miembros de R-Ladies, especialmente de los 5 miembros fundadores. Esto incluye el acoso fuera de nuestros espacios y sea cual sea el momento. Los miembros fundadores se reservan el derecho de excluir a las personas de R-Ladies sobre la base de su comportamiento pasado, incluyendo el comportamiento fuera de los espacios de R-Ladies y hacia las personas que no est√°n en R-Ladies.
 
-Con el fin de proteger a los voluntarios contra el abuso y el agotamiento que este podrÌa generar, nos reservamos el derecho de rechazar cualquier informe que creamos haber sido hecho de mala fe. Los informes destinados a silenciar las crÌticas legÌtimas pueden ser eliminados sin respuesta. 
+Con el fin de proteger a los voluntarios contra el abuso y el agotamiento que este podr√≠a generar, nos reservamos el derecho de rechazar cualquier informe que creamos haber sido hecho de mala fe. Los informes destinados a silenciar las cr√≠ticas leg√≠timas pueden ser eliminados sin respuesta. 
 
-Respetaremos las solicitudes de confidencialidad con el propÛsito de proteger a las vÌctimas de abuso. A nuestra discreciÛn, podemos nombrar p˙blicamente a una persona sobre quien hemos recibido quejas de acoso, o advertir privadamente a terceros acerca de ellos, si creemos que hacerlo aumentar· la seguridad de los miembros de R-Ladies o del p˙blico en general. No nombraremos vÌctimas de acoso sin su consentimiento.
+Respetaremos las solicitudes de confidencialidad con el prop√≥sito de proteger a las v√≠ctimas de abuso. A nuestra discreci√≥n, podemos nombrar p√∫blicamente a una persona sobre quien hemos recibido quejas de acoso, o advertir privadamente a terceros acerca de ellos, si creemos que hacerlo aumentar√° la seguridad de los miembros de R-Ladies o del p√∫blico en general. No nombraremos v√≠ctimas de acoso sin su consentimiento.
 
 ### Consecuencias
 
 Se espera que los participantes a los que se les pida detener cualquier comportamiento de acoso, cumplan de inmediato.
 
-Si un participante se involucra en un comportamiento de acoso, los miembros fundadores podr·n tomar cualquier acciÛn que consideren apropiada, incluyendo la expulsiÛn de todos los espacios de R-Ladies y la identificaciÛn del participante como acosador frente a otros miembros de R-Ladies o al p˙blico en general.
+Si un participante se involucra en un comportamiento de acoso, los miembros fundadores podr√°n tomar cualquier acci√≥n que consideren apropiada, incluyendo la expulsi√≥n de todos los espacios de R-Ladies y la identificaci√≥n del participante como acosador frente a otros miembros de R-Ladies o al p√∫blico en general.
 
-_Esta polÌtica se encuentra bajo la licencia Creative Commons Zero._
+_Esta pol√≠tica se encuentra bajo la licencia Creative Commons Zero._
 
-## AlineaciÛn a la marca en espacios on line  
+## Alineaci√≥n a la marca en espacios on line  
 
 
 ### Isologotipo
 
-El logotipo de R-Ladies es una R violeta y se puede encontrar en el [kit de inicio](https://github.com/rladies/starter-kit/tree/master/logo). Los logotipos de los capÌtulos deben ser la R violeta de R-Ladies Global o una variante del mismo.
+El logotipo de R-Ladies es una R violeta y se puede encontrar en el [kit de inicio](https://github.com/rladies/starter-kit/tree/master/logo). Los logotipos de los cap√≠tulos deben ser la R violeta de R-Ladies Global o una variante del mismo.
 
-### AlineaciÛn sugerida de Twitter
+### Alineaci√≥n sugerida de Twitter
 
-- Bio de los capÌtulos: "R-Ladies [UbicaciÛn] es parte de una organizaciÛn mundial para promover la diversidad de gÈnero en la comunidad R...[Cualquier otro texto]. #RLadies #rstats".
+- Bio de los cap√≠tulos: "R-Ladies [Ubicaci√≥n] es parte de una organizaci√≥n mundial para promover la diversidad de g√©nero en la comunidad R...[Cualquier otro texto]. #RLadies #rstats".
 - Incluir el link al grupo en Meetup.
-- Si queda espacio en la bio, aÒadir el hipervÌnculo a [rladies.org](http://rladies.org/).
+- Si queda espacio en la bio, a√±adir el hiperv√≠nculo a [rladies.org](http://rladies.org/).
 
-### AlineaciÛn sugerida de Meetup
+### Alineaci√≥n sugerida de Meetup
 
-- Chequear que la direcciÛn del grupo sea meetup.com/rladies-ubicacion.
-- "R-Ladies [UbicaciÛn] es parte de una organizaciÛn mundial para promover la diversidad de gÈnero en la comunidad R".
-- Texto de introducciÛn sobre el capÌtulo del grupo de Meetup.
-- "AquÌ est· nuestro CÛdigo de Conducta".
-- "Para encontrar m·s detalles sobre la iniciativa global de R-Ladies, visite [rladies.org](http://rladies.org/)".
-- "SÌguenos en twitter @RLadies[UbicaciÛn] y @RLadiesGlobal" (Se pueden mencionar otros capÌtulos en tu paÌs o provincia/estado.) 
+- Chequear que la direcci√≥n del grupo sea meetup.com/rladies-ubicacion.
+- "R-Ladies [Ubicaci√≥n] es parte de una organizaci√≥n mundial para promover la diversidad de g√©nero en la comunidad R".
+- Texto de introducci√≥n sobre el cap√≠tulo del grupo de Meetup.
+- "Aqu√≠ est√° nuestro C√≥digo de Conducta".
+- "Para encontrar m√°s detalles sobre la iniciativa global de R-Ladies, visite [rladies.org](http://rladies.org/)".
+- "S√≠guenos en twitter @RLadies[Ubicaci√≥n] y @RLadiesGlobal" (Se pueden mencionar otros cap√≠tulos en tu pa√≠s o provincia/estado.) 
 - "Visita nuestro [R-Ladies Github](https://github.com/rladies)"
-- "Siguenos en Facebook RLadies [UbicaciÛn]" 
-- Incluir una declaraciÛn sobre fotografÌa y filmaciones, este es un ejemplo del capÌtulo de Londres: 
+- "Siguenos en Facebook RLadies [Ubicaci√≥n]" 
+- Incluir una declaraci√≥n sobre fotograf√≠a y filmaciones, este es un ejemplo del cap√≠tulo de Londres: 
 
-    ***"Fotos, pelÌculas y otros medios de comunicaciÛn/grabaciones:** fotografÌas y/o Video, fotografÌas y otros medios de registro: los videos, fotografÌas y cualquier otro medio de grabaciÛn ser·n utilizados en eventos celebrados por esta comunidad. Al participar en un evento de R-Ladies en Londres, usted otorga a los organizadores de la comunidad todos los derechos para usar las im·genes resultantes de la fotografÌa/grabaciÛn de video y cualquier otro medio de reproducciÛn o adaptaciÛn de las im·genes para publicidad, recaudaciÛn de fondos u otros propÛsitos que ayuden a conseguir los objetivos de R-Ladies.  Esto incluye (pero no est· limitado a), el derecho a usarlos en publicidad impresa y en lÌnea, medios de comunicaciÛn, redes sociales, comunicados de prensa y solicitudes de fondos. Si no desea ser registrado en estos medios por favor informe a un organizador de la comunidad."*
+    ***"Fotos, pel√≠culas y otros medios de comunicaci√≥n/grabaciones:** fotograf√≠as y/o Video, fotograf√≠as y otros medios de registro: los videos, fotograf√≠as y cualquier otro medio de grabaci√≥n ser√°n utilizados en eventos celebrados por esta comunidad. Al participar en un evento de R-Ladies en Londres, usted otorga a los organizadores de la comunidad todos los derechos para usar las im√°genes resultantes de la fotograf√≠a/grabaci√≥n de video y cualquier otro medio de reproducci√≥n o adaptaci√≥n de las im√°genes para publicidad, recaudaci√≥n de fondos u otros prop√≥sitos que ayuden a conseguir los objetivos de R-Ladies.  Esto incluye (pero no est√° limitado a), el derecho a usarlos en publicidad impresa y en l√≠nea, medios de comunicaci√≥n, redes sociales, comunicados de prensa y solicitudes de fondos. Si no desea ser registrado en estos medios por favor informe a un organizador de la comunidad."*
 
 
-## AlineaciÛn sugerida de Facebook
+## Alineaci√≥n sugerida de Facebook
 
-- Generar un perfil de facebook utilizando el correo oficial de R-Ladies (ubicacion@rladies.org) y nombrarlo R-Ladies[Ubicacion], @RLadies[UbicaciÛn]
-- Si se quiere generar una p·gina, hacerlo desde ese perfil con el nombre P·gina Oficial de RLadies[Ubicacion]
-- En la informaciÛn colocar: "R-Ladies [UbicaciÛn] es parte de una organizaciÛn mundial para promover la diversidad de gÈnero en la comunidad R ... [Cualquier otro texto]. #RLadies #rstats".
+- Generar un perfil de facebook utilizando el correo oficial de R-Ladies (ubicacion@rladies.org) y nombrarlo R-Ladies[Ubicacion], @RLadies[Ubicaci√≥n]
+- Si se quiere generar una p√°gina, hacerlo desde ese perfil con el nombre P√°gina Oficial de RLadies[Ubicacion]
+- En la informaci√≥n colocar: "R-Ladies [Ubicaci√≥n] es parte de una organizaci√≥n mundial para promover la diversidad de g√©nero en la comunidad R ... [Cualquier otro texto]. #RLadies #rstats".
 - Incluir el link al grupo en Meetup.
-- AÒadir el hipervÌnculo a rladies.org.
+- A√±adir el hiperv√≠nculo a rladies.org.
 - Incluir la cuenta de twitter local y la cuenta de twitter @RLadiesGlobal
-- Incluir la cuenta de Correo electrÛnico local 
+- Incluir la cuenta de Correo electr√≥nico local 
 
