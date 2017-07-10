@@ -340,6 +340,17 @@ Andreia Carlos, Carolina Frias
 - email: lisbon [at] rladies [dot] org
 
 
+## Russia
+
+**St. Petersburg** 
+
+Alina Bakhitova
+
+- meetup: 
+- twitter:
+- email: 
+
+
 ## Serbia
 
 **Belgrade** 
