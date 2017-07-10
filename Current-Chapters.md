@@ -368,7 +368,7 @@ Nadica Miljković
 
 Theoni Photopoulou
 
-- meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/R-Ladies-Cape-Town/)
+- meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/rladies-cape-town/)
 - twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
 - email: capetown [at] rladies [dot] org
 
