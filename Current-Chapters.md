@@ -126,6 +126,19 @@ Viviana Romero Alarcon
 - twitter:
 - email: 
 
+
+## Costa Rica
+
+**San José** 
+
+Marcela Alfaro-Córdoba
+
+- meetup: 
+- twitter:
+- email: 
+
+
+
 ## Chile
 
 **Santiago de Chile** 
@@ -372,6 +385,14 @@ Theoni Photopoulou
 - twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
 - email: capetown [at] rladies [dot] org
 
+
+**Johannesburg**
+
+Renee Schoeman
+
+- meetup: 
+- twitter: 
+- email:
 
 
 ## Spain
