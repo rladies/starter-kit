@@ -143,7 +143,7 @@ Marcela Alfaro-Córdoba
 
 **Santiago de Chile** 
 
-Gabriela Sandoval
+Gabriela Sandoval, Claudia Cifuentes, Carla Salinas, Joselyn Robledo, Riva Quiroga
 
 - meetup: 
 - twitter:
