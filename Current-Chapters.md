@@ -303,6 +303,16 @@ Alejandra Medina-Rivera
 - twitter:
 - email: 
 
+## Morocco
+
+**Fez** 
+
+Abir Alaoui
+
+- meetup: 
+- twitter:
+- email: 
+
 
 ## Norway
 
