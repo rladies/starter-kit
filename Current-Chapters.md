@@ -827,7 +827,7 @@ Kelly Obriant, Pri Oberoi
 - Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
 - Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro
 - Budapest (Ágnes Salánki) owns: Budapest, Cape Town
-- Adelaide (Marija Dmitrijeva) owns: Adelaide
+- Adelaide (Maria Dmitrieva) owns: Adelaide
 - Austin (Victoria Valencia) owns: Austin, San Diego, Chicago
 - London Ontario (Thea Knowles) owns: London (Ontario)
 - Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa, Montevideo
