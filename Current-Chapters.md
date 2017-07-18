@@ -165,7 +165,7 @@ Nina Jakobsen
 
 **Quito** 
 
-Elena Chicaiza
+Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 
 - meetup: 
 - twitter:
