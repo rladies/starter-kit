@@ -738,7 +738,7 @@ Augustina Ragwitz, Deeksha Thati
 
 - meetup: 
 - twitter: 
-- email: 
+- email: pdx@rladies.org
 
 
 ### Pennsylvania
