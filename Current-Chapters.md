@@ -639,8 +639,8 @@ Adrienne Marshall
 Angela Li
 
 - meetup: [https://www.meetup.com/rladies-chicago/](https://www.meetup.com/rladies-chicago/)
-- twitter: 
-- email: 
+- twitter: [https://twitter.com/RLadiesChicago](https://twitter.com/RLadiesChicago)
+- email: chicago [at] rladies [dot] org
 
 
 ### Indiana
