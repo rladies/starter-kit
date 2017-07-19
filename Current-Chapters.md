@@ -319,7 +319,7 @@ Ivana Kecojevic
 
 - meetup: 
 - twitter:
-- email: 
+- email: montenegro [at] rladies [dot] org
 
 
 ## Morocco
@@ -401,7 +401,7 @@ Nadica Miljković, Vesna Oro
 
 - meetup: 
 - twitter:
-- email:
+- email: belgrade [at] rladies [dot] org
 
 
 ## South Africa
@@ -747,7 +747,7 @@ Augustina Ragwitz, Deeksha Thati
 
 - meetup: 
 - twitter: 
-- email: pdx@rladies.org
+- email: pdx [at] rladies [dot] org
 
 
 ### Pennsylvania
