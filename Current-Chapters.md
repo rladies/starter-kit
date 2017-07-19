@@ -313,6 +313,15 @@ Alejandra Medina-Rivera
 - twitter:
 - email: 
 
+## Montenegro
+
+Ivana Kecojevic
+
+- meetup: 
+- twitter:
+- email: 
+
+
 ## Morocco
 
 **Fez** 
@@ -388,7 +397,7 @@ Alina Bakhitova
 
 **Belgrade** 
 
-Nadica Miljković
+Nadica Miljković, Vesna Oro
 
 - meetup: 
 - twitter:
