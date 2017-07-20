@@ -41,6 +41,15 @@ Marija Dmitrijeva
 - twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
 - email: adelaide [at] rladies [dot] org
 
+## Belgium
+
+**Brussels** 
+
+Marlene Marchena 
+
+- meetup: 
+- twitter: 
+- email: 
 
 
 ## Brazil
