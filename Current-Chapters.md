@@ -459,6 +459,16 @@ Lidia Contreras
 - twitter: [https://twitter.com/RLadiesValencia](https://twitter.com/RLadiesValencia)
 - email: valencia [at] rladies [dot] org
 
+## Sweden
+
+**Stockholm**
+
+Yuliya Leontyeva
+
+- meetup:
+- twitter:
+- email:
+
 
 
 ## Switzerland
