@@ -301,6 +301,16 @@ Parvaneh Shafiei
 - email: milan [at] rladies [dot] org
 
 
+## Lebanon
+
+**Beirut**
+
+Sondos Atwi
+
+- meetup:
+- twitter:
+- email:
+
 
 
 ## Mexico
@@ -774,6 +784,14 @@ Augustina Ragwitz, Deeksha Thati
 **Philadelphia**
 
 Alice Walsh
+
+- meetup:
+- twitter:
+- email:
+
+**Pittsburgh**
+
+Jane Kong
 
 - meetup:
 - twitter:
