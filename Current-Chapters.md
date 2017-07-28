@@ -875,6 +875,6 @@ Kelly Obriant, Pri Oberoi
 - Budapest (Ágnes Salánki) owns: Budapest, Cape Town
 - Adelaide (Maria Dmitrieva) owns: Adelaide
 - Austin (Victoria Valencia) owns: Austin, San Diego, Chicago
-- London Ontario (Thea Knowles) owns: London (Ontario)
+- London Ontario (Thea Knowles) owns: London (Ontario), PDX (Portland), Montenegro
 - Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa, Montevideo
 - Milan (Parvaneh Shafiei) owns: Milan
