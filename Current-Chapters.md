@@ -156,7 +156,7 @@ Gabriela Sandoval, Claudia Cifuentes, Carla Salinas, Joselyn Robledo, Riva Quiro
 
 - meetup: 
 - twitter:
-- email: 
+- email: santiago [at] rladies [dot] org
 
 
 ## Denmark
@@ -177,8 +177,8 @@ Nina Jakobsen
 Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 
 - meetup: 
-- twitter:
-- email: 
+- twitter: [https://twitter.com/RLadiesQuito](https://twitter.com/RLadiesQuito)
+- email: quito [at] rladies [dot] org
 
 
 ## France
@@ -319,7 +319,7 @@ Sondos Atwi
 
 - meetup:
 - twitter:
-- email:
+- email:  beirut [at] rladies.org
 
 
 
