@@ -465,7 +465,7 @@ Bea Hernández, Inés Huertas, Leticia Martín-Fuertes
 
 **Barcelona** 
 
-Maëlle Salmon, Rebeca Huerga
+Ania Alay, Mireia Ramos
 
 - meetup: [http://www.meetup.com/rladies-barcelona/](http://www.meetup.com/rladies-barcelona/)
 - twitter: [https://twitter.com/RLadiesBCN](https://twitter.com/RLadiesBCN)
