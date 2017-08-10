@@ -779,7 +779,7 @@ Mine Cetinkaya-Rundel, Elaine McVey
 
 **Columbus** 
 
-Mine Dogucu
+Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas 
 
 - meetup: [https://www.meetup.com/R-Ladies-Columbus/](https://www.meetup.com/R-Ladies-Columbus/)
 - twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
