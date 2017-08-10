@@ -648,6 +648,13 @@ Kathy Joshi
 - twitter: [https://twitter.com/RLadiesOrlando](https://twitter.com/RLadiesOrlando)
 - email: orlando [at] rladies [dot] org
 
+**Saratosa**
+
+Mine Dogucu
+
+- meetup:
+- twitter:
+- email: 
 
 ### Georgia
 
