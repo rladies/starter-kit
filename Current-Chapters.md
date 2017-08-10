@@ -601,7 +601,7 @@ Katie Scranton
 
 **San Diego** 
 
-Page Piccinini
+Page Piccinini, Megan Chang
 
 - meetup: [https://www.meetup.com/rladies-san-diego/](https://www.meetup.com/rladies-san-diego/)
 - twitter: [https://twitter.com/RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
