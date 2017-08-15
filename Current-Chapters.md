@@ -546,7 +546,7 @@ Alexia Cardona
 
 - meetup: 
 - twitter: 
-- email: 
+- email: cambridge [at] rladies [dot] org
 
 **London** 
 
