@@ -654,7 +654,7 @@ Mine Dogucu
 
 - meetup:
 - twitter:
-- email: 
+- email: sarasota [at] rladies [dot] org
 
 ### Georgia
 
@@ -784,6 +784,7 @@ Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas
 - meetup: [https://www.meetup.com/R-Ladies-Columbus/](https://www.meetup.com/R-Ladies-Columbus/)
 - twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
 - email: columbus [at] rladies [dot] org
+
 
 ### Oregon
 
