@@ -277,7 +277,7 @@ Praveena Mathews
 
 - meetup:
 - twitter:
-- email:
+- email: chennai [at] rladies [dot] org
 
 
 ## Ireland
