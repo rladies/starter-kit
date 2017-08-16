@@ -47,9 +47,9 @@ Marija Dmitrijeva
 
 Marlene Marchena 
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Brussels/](https://www.meetup.com/R-Ladies-Brussels/)
 - twitter: 
-- email: 
+- email: brussels [at] rladies [dot] org
 
 
 ## Brazil
