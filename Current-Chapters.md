@@ -6,6 +6,7 @@ The current active and prospective chapters of [R-Ladies Global](http://rladies.
 **Buenos Aires** 
 
 Organizers: Laura Acion, Paloma Rojas, Fabiana Flores, Paola Corrales, Florencia D'Andrea
+
 Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
 - meetup: [https://www.meetup.com/rladies-buenos-aires/](https://www.meetup.com/rladies-buenos-aires/)
