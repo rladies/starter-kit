@@ -101,8 +101,10 @@ Katiuscia Martos
 Lumi Mevi
 
 - meetup: 
-- twitter: 
+- twitter: [https://twitter.com/RladiesNatal](https://twitter.com/RladiesNatal)
+- facebook: [https://www.facebook.com/R-ladies-Natal-1601745646525923/](https://www.facebook.com/R-ladies-Natal-1601745646525923/)
 - email: natal [at] rladies [dot] org
+
 
 
 ## Canada
