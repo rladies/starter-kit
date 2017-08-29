@@ -175,17 +175,6 @@ Gabriela Sandoval, Claudia Cifuentes, Carla Salinas, Joselyn Robledo, Riva Quiro
 - email: santiago [at] rladies [dot] org
 
 
-## Denmark
-
-**Copenhagen**
-
-Nina Jakobsen
-
-- meetup: 
-- twitter: 
-- email: 
-
-
 ## Ecuador
 
 **Quito** 
