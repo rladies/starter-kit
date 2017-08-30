@@ -54,6 +54,15 @@ Marlene Marchena
 - email: brussels [at] rladies [dot] org
 
 
+## Benin
+
+Nadejda Sero 
+
+- meetup: 
+- twitter: 
+- email: 
+
+
 ## Brazil
 
 ### Rio de Janeiro
