@@ -376,6 +376,18 @@ Abir Alaoui
 - email: 
 
 
+## Netherlands
+
+**Nijmegen** 
+
+Sara Iacozza
+
+- meetup: 
+- twitter:
+- email: 
+
+
+
 ## Norway
 
 **Oslo**
