@@ -156,7 +156,7 @@ Viviana Romero Alarcon
 Marcela Alfaro-Córdoba
 
 - meetup: 
-- twitter:
+- twitter: [https://twitter.com/RLadiesCR](https://twitter.com/RLadiesCR)
 - email: 
 
 
@@ -866,6 +866,17 @@ Victoria Valencia, Caitlin Hudon
 **Houston**
 
 Erin Hodgess
+
+- meetup:
+- twitter:
+- email:
+
+
+### Virginia
+
+**Chalostteville**
+
+Samantha Toet
 
 - meetup:
 - twitter:
