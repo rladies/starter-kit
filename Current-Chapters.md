@@ -56,7 +56,9 @@ Marlene Marchena
 
 ## Benin
 
-Nadejda Sero 
+**Cotonou** 
+
+Nadejda Sero, Benedicta Essuon 
 
 - meetup: 
 - twitter: 
