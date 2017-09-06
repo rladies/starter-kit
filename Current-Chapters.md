@@ -62,7 +62,7 @@ Nadejda Sero, Benedicta Essuon
 
 - meetup: 
 - twitter: 
-- email: 
+- email: cotonou [at] rladies [dot] org
 
 
 ## Brazil
@@ -159,11 +159,11 @@ Marcela Alfaro-Córdoba
 
 - meetup: 
 - twitter: [https://twitter.com/RLadiesCR](https://twitter.com/RLadiesCR)
-- email: 
+- email: sanjoseCR [at] rladies [dot] org
 
 
 
-## Croacia
+## Croatia
 
 **Zagreb** 
 
@@ -876,13 +876,13 @@ Erin Hodgess
 
 ### Virginia
 
-**Chalostteville**
+**Charlottesville**
 
 Samantha Toet
 
 - meetup:
 - twitter:
-- email:
+- email: charlottesville [at] rladies [dot] org
 
 
 ### Washington
