@@ -416,6 +416,15 @@ Ivonne Rentería
 
 ## Poland
 
+**Lodz**
+
+Lidia Lipińska
+
+- meetup: 
+- twitter:
+- email:
+
+
 **Warsaw**
 
 Olga Mierzwa-Sulima, Natalia Potocka
