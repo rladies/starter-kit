@@ -179,10 +179,11 @@ Ana Jankovic
 
 **Santiago de Chile** 
 
-Gabriela Sandoval, Claudia Cifuentes, Carla Salinas, Joselyn Robledo, Riva Quiroga
+Gabriela Sandoval, Riva Quiroga
 
-- meetup: 
-- twitter:
+- meetup: [https://www.meetup.com/es/rladies-scl/]
+- facebook: [https://www.facebook.com/RLadiesSantiago/]
+- twitter: [https://twitter.com/RLadiesSantiago] 
 - email: santiago [at] rladies [dot] org
 
 
