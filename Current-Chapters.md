@@ -749,6 +749,17 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 - email: ames [at] rladies [dot] org
 
 
+### Maine
+
+**Portland** 
+
+Jennifer Fleck
+
+- meetup: 
+- twitter: 
+- email: 
+
+
 ### Massachusetts
 
 **Boston** 
