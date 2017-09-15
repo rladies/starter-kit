@@ -1,4 +1,7 @@
-#Logo
+# Logo
+
+**Official colour**: #88398a
+
 * Logo square (with and without text)
 * Logo horizontal (with text)
  
