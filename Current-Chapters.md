@@ -956,3 +956,4 @@ Kelly Obriant, Pri Oberoi
 - London Ontario (Thea Knowles) owns: London (Ontario), PDX (Portland), Montenegro
 - Munich (Daloha Rodriguez-Molina) owns: Munich, Santa Rosa, Montevideo
 - Milan (Parvaneh Shafiei) owns: Milan
+- Montreal (Corinne Riddell) owns: Montreal, Belgrade, Portland Maine
