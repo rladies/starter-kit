@@ -757,7 +757,7 @@ Jennifer Fleck
 
 - meetup: 
 - twitter: 
-- email: 
+- email: portland [at] rladies [dot] org
 
 
 ### Massachusetts
