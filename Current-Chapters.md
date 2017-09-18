@@ -198,6 +198,17 @@ Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 - email: quito [at] rladies [dot] org
 
 
+## Ethiopia
+
+**Addis Ababa** 
+
+Margareth Gfrerer
+
+- meetup: 
+- twitter: 
+- email: 
+
+
 ## France
 
 **Paris** 
@@ -747,6 +758,17 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 - meetup: [https://www.meetup.com/R-Ladies-Ames/](https://www.meetup.com/R-Ladies-Ames/)
 - twitter: [https://twitter.com/RLadiesAmes](https://twitter.com/RLadiesAmes)
 - email: ames [at] rladies [dot] org
+
+
+### Louisiana
+
+**New Orleans** 
+
+Erin Cuyler
+
+- meetup: 
+- twitter: 
+- email:
 
 
 ### Maine
