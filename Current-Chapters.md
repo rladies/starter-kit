@@ -120,6 +120,16 @@ Lumi Mevi
 
 ## Canada
 
+### British Columbia
+
+**Vancouver**
+
+Anna Posacka
+
+- meetup:
+- twitter:
+- email:
+
 ### Ontario
 
 **London**
@@ -139,6 +149,8 @@ Corinne Riddell, Kathryn Morrison
 - meetup:
 - twitter:
 - email: montreal [at] rladies [dot] org
+
+
 
 ## Colombia
 
