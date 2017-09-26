@@ -236,8 +236,8 @@ Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse
 Rita Giordano
 
 - meetup:
-- twitter:
-- email:
+- twitter:[https://twitter.com/strasRLadies](https://twitter.com/strasRLadies)
+- email: strasbourg [at] rladies [dot] org
 
 
 
