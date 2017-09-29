@@ -985,7 +985,7 @@ Kelly Obriant, Pri Oberoi
 - RTP (Mine Cetinkaya-Rundel) owns: RTP, Ames, Connecticut
 - Melbourne (Göknur Giner) owns: Melbourne, Izmir, Buenos Aires
 - Nashville (Jennifer Thompson) owns: Nashville, Columbus, Manchester 
-- Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro
+- Lisbon (Carolina Frias) owns: Lisbon, Rio de Janeiro, Strasbourg
 - Budapest (Ágnes Salánki) owns: Budapest, Cape Town
 - Adelaide (Maria Dmitrieva) owns: Adelaide
 - Austin (Victoria Valencia) owns: Austin, San Diego, Chicago
