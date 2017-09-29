@@ -146,8 +146,8 @@ Thea Knowles
 
 Corinne Riddell, Kathryn Morrison
 
-- meetup:
-- twitter:
+- meetup:[https://www.meetup.com/rladies-montreal/](https://www.meetup.com/rladies-montreal/)
+- twitter: [https://twitter.com/RLadiesMTL](https://twitter.com/RLadiesMTL)
 - email: montreal [at] rladies [dot] org
 
 
@@ -384,10 +384,12 @@ Alejandra Medina-Rivera
 
 ## Montenegro
 
+**Podgorica**
+
 Ivana Kecojevic
 
-- meetup: 
-- twitter:
+- meetup:  [https://www.meetup.com/meetup-group-qhbcjAoe/](https://www.meetup.com/meetup-group-qhbcjAoe/)
+- twitter: [https://twitter.com/RLadiesMNE](https://twitter.com/RLadiesMNE)
 - email: montenegro [at] rladies [dot] org
 
 
@@ -489,8 +491,8 @@ Alina Bakhitova
 
 Nadica Miljković, Vesna Oro
 
-- meetup: 
-- twitter:
+- meetup: [https://www.meetup.com/R-Ladies-Belgrade/](https://www.meetup.com/R-Ladies-Belgrade/)
+- twitter: [https://twitter.com/RLadiesBelgrade](https://twitter.com/RLadiesBelgrade)
 - email: belgrade [at] rladies [dot] org
 
 
@@ -789,8 +791,8 @@ Erin Cuyler
 
 Jennifer Fleck
 
-- meetup: 
-- twitter: 
+- meetup: [https://www.meetup.com/rladies-portland-maine/](https://www.meetup.com/rladies-portland-maine/)
+- twitter: [https://twitter.com/RLadiesPortland](https://twitter.com/RLadiesPortland)
 - email: portland [at] rladies [dot] org
 
 
@@ -875,8 +877,8 @@ Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas
 
 Augustina Ragwitz, Deeksha Thati
 
-- meetup: 
-- twitter: 
+- meetup: [https://www.meetup.com/R-Ladies-PDX/](https://www.meetup.com/R-Ladies-PDX/)
+- twitter: [https://twitter.com/RLadiesPDX](https://twitter.com/RLadiesPDX)
 - email: pdx [at] rladies [dot] org
 
 
@@ -935,8 +937,8 @@ Erin Hodgess
 
 Samantha Toet
 
-- meetup:
-- twitter:
+- meetup: [https://www.meetup.com/rladies-charlottesville/](https://www.meetup.com/rladies-charlottesville/)
+- twitter: 
 - email: charlottesville [at] rladies [dot] org
 
 
