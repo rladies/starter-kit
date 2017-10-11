@@ -126,8 +126,8 @@ Lumi Mevi
 
 Anna Posacka
 
-- meetup:
-- twitter:
+- meetup: [https://www.meetup.com/R-Ladies-Vancouver/](https://www.meetup.com/R-Ladies-Vancouver/)
+- twitter: [https://twitter.com/RLadiesVan](https://twitter.com/RLadiesVan)
 - email:
 
 ### Ontario
