@@ -716,7 +716,7 @@ Kathy Joshi
 Mine Dogucu
 
 - meetup:
-- twitter:
+- twitter:[https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
 - email: sarasota [at] rladies [dot] org
 
 ### Georgia
