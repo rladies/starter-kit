@@ -205,7 +205,7 @@ Gabriela Sandoval, Riva Quiroga
 
 Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies_Quito/](https://www.meetup.com/R-Ladies_Quito/)
 - twitter: [https://twitter.com/RLadiesQuito](https://twitter.com/RLadiesQuito)
 - email: quito [at] rladies [dot] org
 
