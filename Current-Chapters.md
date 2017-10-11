@@ -199,6 +199,18 @@ Gabriela Sandoval, Riva Quiroga
 - email: santiago [at] rladies [dot] org
 
 
+## Denmark
+
+**Copenhagen** 
+
+Kristina Gregorio
+
+- meetup: 
+- twitter:
+- email: 
+
+
+
 ## Ecuador
 
 **Quito** 
@@ -610,6 +622,15 @@ Alexia Cardona
 - meetup: 
 - twitter: 
 - email: cambridge [at] rladies [dot] org
+
+**Liverpool** 
+
+Ellen Talbot
+
+- meetup: 
+- twitter: 
+- email: 
+
 
 **London** 
 
