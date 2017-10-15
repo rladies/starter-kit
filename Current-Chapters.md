@@ -370,7 +370,7 @@ Parvaneh Shafiei
 Sondos Atwi
 
 - meetup:
-- twitter:
+- twitter: [https://twitter.com/RLadiesBEY](https://twitter.com/RLadiesBEY)
 - email:  beirut [at] rladies.org
 
 
