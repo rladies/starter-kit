@@ -910,7 +910,7 @@ Augustina Ragwitz, Deeksha Thati
 Alice Walsh
 
 - meetup:
-- twitter:
+- twitter:[https://twitter.com/RLadiesPhilly](https://twitter.com/RLadiesPhilly)
 - email:
 
 **Pittsburgh**
