@@ -61,7 +61,7 @@ Marlene Marchena
 Nadejda Sero, Benedicta Essuon 
 
 - meetup: 
-- twitter: 
+- twitter: [https://twitter.com/RLadiesCtn](https://twitter.com/RLadiesCtn)
 - email: cotonou [at] rladies [dot] org
 
 
