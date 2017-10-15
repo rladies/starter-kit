@@ -84,7 +84,7 @@ Celina Rebello, Thais Viana
 Mariana Mendes 
 
 - meetup: 
-- twitter: 
+- twitter: [https://twitter.com/RLadiesAME](https://twitter.com/RLadiesAME)
 - email: 
 
 **São Paulo**
