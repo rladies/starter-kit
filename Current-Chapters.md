@@ -829,6 +829,14 @@ Marianna Foos
 - twitter: [https://twitter.com/RLadiesBoston](https://twitter.com/RLadiesBoston)
 - email: boston [at] rladies [dot] org
 
+**Northampton** 
+
+Paige Patrick
+
+- meetup: 
+- twitter: 
+- email: 
+
 
 ### Minnesota
 
