@@ -116,6 +116,15 @@ Lumi Mevi
 - facebook: [https://www.facebook.com/R-ladies-Natal-1601745646525923/](https://www.facebook.com/R-ladies-Natal-1601745646525923/)
 - email: natal [at] rladies [dot] org
 
+## Bulgaria
+
+**Sofia** 
+
+Mimi Lazarova 
+
+- meetup: 
+- twitter: 
+- email: 
 
 
 ## Canada
