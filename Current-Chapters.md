@@ -156,7 +156,7 @@ Thea Knowles
 
 Corinne Riddell, Kathryn Morrison
 
-- meetup:[https://www.meetup.com/rladies-montreal/](https://www.meetup.com/rladies-montreal/)
+- meetup: [https://www.meetup.com/rladies-montreal/](https://www.meetup.com/rladies-montreal/)
 - twitter: [https://twitter.com/RLadiesMTL](https://twitter.com/RLadiesMTL)
 - email: montreal [at] rladies [dot] org
 
