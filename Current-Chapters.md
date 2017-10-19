@@ -258,7 +258,7 @@ Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse
 Rita Giordano
 
 - meetup: [https://www.meetup.com/R-Ladies-Strasbourg/](https://www.meetup.com/R-Ladies-Strasbourg/)
-- twitter:[https://twitter.com/RLadiesStras](https://twitter.com/RLadiesStras)
+- twitter: [https://twitter.com/RLadiesStras](https://twitter.com/RLadiesStras)
 - email: strasbourg [at] rladies [dot] org
 
 
@@ -393,7 +393,7 @@ Sondos Atwi
 
 Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
-- meetup:[https://www.meetup.com/rladiescdmx/](https://www.meetup.com/rladiescdmx/)
+- meetup: [https://www.meetup.com/rladiescdmx/](https://www.meetup.com/rladiescdmx/)
 - twitter: [https://twitter.com/RLadiesCDMX](https://twitter.com/RLadiesCDMX)
 - email: cdmx [at] rladies [dot] org
 - slack: [rladiescdmx.slack.com](rladiescdmx.slack.com)
@@ -740,7 +740,7 @@ Laura Gabrysiak Gómez, Catalina Arango, Cris Vidal
 
 Kathy Joshi
 
-- meetup:[https://www.meetup.com/R-Ladies-Orlando/](https://www.meetup.com/R-Ladies-Orlando/)
+- meetup: [https://www.meetup.com/R-Ladies-Orlando/](https://www.meetup.com/R-Ladies-Orlando/)
 - twitter: [https://twitter.com/RLadiesOrlando](https://twitter.com/RLadiesOrlando)
 - email: orlando [at] rladies [dot] org
 
@@ -749,7 +749,7 @@ Kathy Joshi
 Mine Dogucu
 
 - meetup:
-- twitter:[https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
+- twitter: [https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
 - email: sarasota [at] rladies [dot] org
 
 ### Georgia
@@ -930,7 +930,7 @@ Augustina Ragwitz, Deeksha Thati
 Alice Walsh
 
 - meetup:
-- twitter:[https://twitter.com/RLadiesPhilly](https://twitter.com/RLadiesPhilly)
+- twitter: [https://twitter.com/RLadiesPhilly](https://twitter.com/RLadiesPhilly)
 - email:
 
 **Pittsburgh**
