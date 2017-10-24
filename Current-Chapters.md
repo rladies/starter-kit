@@ -54,6 +54,14 @@ Marlene Marchena
 - twitter: 
 - email: brussels [at] rladies [dot] org
 
+**Leuven** 
+
+Theresa Elise Wege 
+
+- meetup: 
+- twitter: 
+- email: 
+
 
 ## Benin
 
