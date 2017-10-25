@@ -60,7 +60,8 @@ Theresa Elise Wege
 
 - meetup: 
 - twitter: 
-- email: 
+- email: leuven [at] rladies [dot] org
+
 
 
 ## Benin
@@ -649,7 +650,7 @@ Ellen Talbot
 
 - meetup: 
 - twitter: 
-- email: 
+- email: liverpool [at] rladies [dot] org
 
 
 **London** 
