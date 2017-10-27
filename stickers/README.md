@@ -4,6 +4,24 @@
 
 If you want to print stickers from [stickermule.com](https://www.stickermule.com/) you need [rladies-text-stickermule.png](https://github.com/rladies/starter-kit/blob/master/stickers/rladies-text-stickermule.png). 
 
+
+
+**Step by step**
+
+1) Go to [stickermule.com](https://www.stickermule.com/) and upload the artwork ([rladies-text-stickermule.png](https://github.com/rladies/starter-kit/blob/master/stickers/rladies-text-stickermule.png)):
+
+![01_stickermule](https://user-images.githubusercontent.com/1934546/32126507-ed434f42-bb25-11e7-9afb-fbc1e07f7dea.gif)
+
+
+2) Go to checkout, enter your credit card or paypal (don't you worry, you will not pay until you review and approve the proof). You will get an email once the it is ready to be reviewed.
+
+3) The proof should look like this:
+
+![image](https://user-images.githubusercontent.com/1934546/32126617-7377b134-bb26-11e7-9594-5e987d600eb4.png)
+
+4) You are now good to go! 
+
+
 ### Other
 
 The files with filenames starting with `hex` have hex dimensions (see [StickerConstructorSpec](https://github.com/terinjokes/StickerConstructorSpec)).
