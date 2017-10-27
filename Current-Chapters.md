@@ -126,6 +126,16 @@ Lumi Mevi
 - facebook: [https://www.facebook.com/R-ladies-Natal-1601745646525923/](https://www.facebook.com/R-ladies-Natal-1601745646525923/)
 - email: natal [at] rladies [dot] org
 
+### Rio Grande do Sul
+
+**Porto Alegre**
+
+Iara Passos
+
+- meetup: 
+- twitter: 
+- email: 
+
 ## Bulgaria
 
 **Sofia** 
