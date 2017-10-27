@@ -449,6 +449,15 @@ Abir Alaoui
 
 ## Netherlands
 
+**Amsterdam** 
+
+Karina Kisselite
+
+- meetup: 
+- twitter:
+- email: 
+
+
 **Nijmegen** 
 
 Sara Iacozza
