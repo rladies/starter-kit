@@ -667,8 +667,8 @@ Alexia Cardona
 
 Ellen Talbot
 
-- meetup: 
-- twitter: 
+- meetup: [https://www.meetup.com/rladies-liverpool/](https://www.meetup.com/rladies-liverpool/)
+- twitter: [https://twitter.com/RLadiesLivUK](https://twitter.com/RLadiesLivUK)
 - email: liverpool [at] rladies [dot] org
 
 
