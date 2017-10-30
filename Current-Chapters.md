@@ -58,7 +58,7 @@ Marlene Marchena
 
 Theresa Elise Wege 
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-leuven/](https://www.meetup.com/rladies-leuven/)
 - twitter: 
 - email: leuven [at] rladies [dot] org
 
