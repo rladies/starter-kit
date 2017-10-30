@@ -450,17 +450,6 @@ Abir Alaoui
 - twitter:
 - email: 
 
-## New Zealand
-
-**Auckland** 
-
-Kim Fitter
-
-- meetup: 
-- twitter:
-- email: 
-
-
 ## Netherlands
 
 **Amsterdam** 
@@ -471,7 +460,6 @@ Karina Kisselite
 - twitter:
 - email: 
 
-
 **Nijmegen** 
 
 Sara Iacozza
@@ -480,6 +468,16 @@ Sara Iacozza
 - twitter:
 - email: 
 
+
+## New Zealand
+
+**Auckland** 
+
+Kim Fitter
+
+- meetup: 
+- twitter:
+- email: 
 
 
 ## Norway
