@@ -512,6 +512,7 @@ Currently a subgroup of the Warsaw R Users Group meetup.
 
 - meetup: [http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/](http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
 - twitter:
+- facebook: [https://www.facebook.com/RLadiesWarsaw/](https://www.facebook.com/RLadiesWarsaw/)
 - email: warsaw [at] rladies [dot] org
 
 
