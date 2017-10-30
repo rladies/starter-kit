@@ -417,6 +417,7 @@ Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
 - meetup: [https://www.meetup.com/rladiescdmx/](https://www.meetup.com/rladiescdmx/)
 - twitter: [https://twitter.com/RLadiesCDMX](https://twitter.com/RLadiesCDMX)
+- facebook: [https://www.facebook.com/rladiescdmx](https://www.facebook.com/rladiescdmx)
 - email: cdmx [at] rladies [dot] org
 - slack: [rladiescdmx.slack.com](rladiescdmx.slack.com)
 
