@@ -665,7 +665,13 @@ Necla Kayaalp
 - twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
 - email: izmir [at] rladies [dot] org
 
+**Karabük**
 
+Cansu Uzunsimsek
+
+- meetup: 
+- twitter: 
+- email: 
 
 ## UK
 
