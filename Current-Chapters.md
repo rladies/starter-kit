@@ -199,8 +199,9 @@ Viviana Romero Alarcon
 
 Marcela Alfaro-Córdoba
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-san-jose/](https://www.meetup.com/rladies-san-jose/)
 - twitter: [https://twitter.com/RLadiesCR](https://twitter.com/RLadiesCR)
+- facebook: [https://www.facebook.com/R-Ladies-San-Jos%C3%A9-CR-113831192660935](https://www.facebook.com/R-Ladies-San-Jos%C3%A9-CR-113831192660935)
 - email: sanjoseCR [at] rladies [dot] org
 
 
