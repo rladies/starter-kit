@@ -524,6 +524,7 @@ Andreia Carlos, Carolina Frias
 
 - meetup: [https://www.meetup.com/R-Ladies-Lisboa/](https://www.meetup.com/R-Ladies-Lisboa/)
 - twitter: [https://twitter.com/RLadiesLx](https://twitter.com/RLadiesLx)
+- facebook: [https://www.facebook.com/RLadiesLisboa](https://www.facebook.com/RLadiesLisboa)
 - email: lisbon [at] rladies [dot] org
 
 
