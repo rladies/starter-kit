@@ -312,6 +312,7 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 - meetup: [https://www.meetup.com/rladies-munich/](https://www.meetup.com/rladies-munich/)
 - twitter: [https://twitter.com/RLadiesMunich](https://twitter.com/RLadiesMunich)
+- facebook: [https://www.facebook.com/RLadiesMunich/](https://www.facebook.com/RLadiesMunich/)
 - email: munich [at] rladies [dot] org
 
 
