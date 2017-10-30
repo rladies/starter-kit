@@ -450,6 +450,16 @@ Abir Alaoui
 - twitter:
 - email: 
 
+## New Zealand
+
+**Auckland** 
+
+Kim Fitter
+
+- meetup: 
+- twitter:
+- email: 
+
 
 ## Netherlands
 
