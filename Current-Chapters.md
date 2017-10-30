@@ -167,6 +167,7 @@ Thea Knowles
 
 - meetup: [https://www.meetup.com/rladies-ldnont/](https://www.meetup.com/rladies-ldnont/)
 - twitter: [https://twitter.com/RLadiesLdnOnt](https://twitter.com/RLadiesLdnOnt)
+- facebook: [https://www.facebook.com/rladiesldnont](https://www.facebook.com/rladiesldnont)
 - email: ldnont [at] rladies [dot] org
 
 ### Québec
