@@ -604,7 +604,7 @@ Ania Alay, Mireia Ramos
 
 Lidia Contreras
 
-- meetup: They are still working on the organization
+- meetup: [https://www.meetup.com/rladies-valencia/](https://www.meetup.com/rladies-valencia/)
 - twitter: [https://twitter.com/RLadiesValencia](https://twitter.com/RLadiesValencia)
 - email: valencia [at] rladies [dot] org
 
