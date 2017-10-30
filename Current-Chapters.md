@@ -702,6 +702,7 @@ Daniela Vazquez, Natalia da Silva
 
 - meetup: [https://www.meetup.com/rladies-montevideo/](https://www.meetup.com/rladies-montevideo/)
 - twitter: [https://twitter.com/RLadiesMVD](https://twitter.com/RLadiesMVD)
+- facebook: [https://www.facebook.com/RLadiesMVD/](https://www.facebook.com/RLadiesMVD/)
 - email: montevideo [at] rladies [dot] org
 
 
