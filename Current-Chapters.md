@@ -134,6 +134,7 @@ Iara Passos
 
 - meetup: [https://www.meetup.com/rladies-porto-alegre/](https://www.meetup.com/rladies-porto-alegre/)
 - twitter: 
+- facebook: [https://www.facebook.com/RLadiesPortoAlegre/](https://www.facebook.com/RLadiesPortoAlegre/)
 - email: 
 
 ## Bulgaria
@@ -307,6 +308,14 @@ Christin Zasada, Noa Tamir, Hannah Tillmann
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - facebook: [https://www.facebook.com/RLadiesBerlin](https://www.facebook.com/RLadiesBerlin/?ref=bookmarks)
 - email: berlin [at] rladies [dot] org
+
+**Leipzig** 
+
+Deisy Gysi
+
+- meetup:
+- twitter: 
+- email: 
 
 **Munich**
 
