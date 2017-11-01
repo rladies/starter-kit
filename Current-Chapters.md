@@ -133,7 +133,7 @@ Lumi Mevi
 Iara Passos
 
 - meetup: [https://www.meetup.com/rladies-porto-alegre/](https://www.meetup.com/rladies-porto-alegre/)
-- twitter: 
+- twitter: [https://twitter.com/RLadiesPOA](https://twitter.com/RLadiesPOA)
 - facebook: [https://www.facebook.com/RLadiesPortoAlegre/](https://www.facebook.com/RLadiesPortoAlegre/)
 - email: 
 
