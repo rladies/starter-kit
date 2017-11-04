@@ -135,7 +135,7 @@ Iara Passos
 - meetup: [https://www.meetup.com/rladies-porto-alegre/](https://www.meetup.com/rladies-porto-alegre/)
 - twitter: [https://twitter.com/RLadiesPOA](https://twitter.com/RLadiesPOA)
 - facebook: [https://www.facebook.com/RLadiesPortoAlegre/](https://www.facebook.com/RLadiesPortoAlegre/)
-- email: 
+- email: poa [at] rladies [dot] org
 
 ## Bulgaria
 
@@ -158,6 +158,16 @@ Anna Posacka
 
 - meetup: [https://www.meetup.com/R-Ladies-Vancouver/](https://www.meetup.com/R-Ladies-Vancouver/)
 - twitter: [https://twitter.com/RLadiesVan](https://twitter.com/RLadiesVan)
+- email:
+
+### Manitoba
+
+**Winnipeg**
+
+Sarah Mutch
+
+- meetup: 
+- twitter:
 - email:
 
 ### Ontario
