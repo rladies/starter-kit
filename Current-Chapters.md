@@ -252,6 +252,16 @@ Kristina Gregorio
 - email: 
 
 
+## Dominican Republic
+
+**Santo Donmingo** 
+
+Lissette Rodriguez
+
+- meetup: 
+- twitter:
+- email: 
+
 
 ## Ecuador
 
