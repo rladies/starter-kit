@@ -272,7 +272,7 @@ Margareth Gfrerer
 
 - meetup: 
 - twitter: 
-- email: 
+- email: addisababa [at] rladies [dot] org
 
 
 ## France
@@ -496,7 +496,7 @@ Kim Fitter
 
 - meetup: 
 - twitter:
-- email: 
+- email: auckland [at] rladies [dot] org
 
 
 ## Norway
