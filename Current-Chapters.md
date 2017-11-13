@@ -48,7 +48,7 @@ Marija Dmitrijeva
 
 **Brussels** 
 
-Marlene Marchena 
+Marlene Marchena, Suzan Baert 
 
 - meetup: [https://www.meetup.com/R-Ladies-Brussels/](https://www.meetup.com/R-Ladies-Brussels/)
 - twitter: 
@@ -154,7 +154,7 @@ Mimi Lazarova
 
 **Vancouver**
 
-Anna Posacka
+Anna Posacka, Marion Shadbol
 
 - meetup: [https://www.meetup.com/R-Ladies-Vancouver/](https://www.meetup.com/R-Ladies-Vancouver/)
 - twitter: [https://twitter.com/RLadiesVan](https://twitter.com/RLadiesVan)
