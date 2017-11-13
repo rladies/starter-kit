@@ -754,6 +754,15 @@ Daniela Vazquez, Natalia da Silva
 
 ## USA 
 
+### Arizona
+
+**Tucson** 
+
+Adriana Picoral
+
+- meetup: 
+- twitter:
+- email:
 
 ### California
 
