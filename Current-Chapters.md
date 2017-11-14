@@ -362,6 +362,16 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 ## India
 
+### Karnataka
+
+**Bangalore**
+
+Aparna Bindu
+
+- meetup:
+- twitter:
+- email:
+
 ### Dehli
 
 **New Dehli**
