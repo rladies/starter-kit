@@ -944,6 +944,15 @@ Paige Patrick
 - twitter: 
 - email: 
 
+### Michigan
+
+**East Lansing**
+
+Janani Ravi
+
+- meetup:
+- twitter:
+- email:
 
 ### Minnesota
 
