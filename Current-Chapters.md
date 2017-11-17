@@ -366,7 +366,7 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 **Bangalore**
 
-Aparna Bindu
+Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lokesh
 
 - meetup:
 - twitter:
