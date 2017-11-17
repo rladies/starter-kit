@@ -507,6 +507,14 @@ Sara Iacozza
 - twitter:
 - email: 
 
+**Rotterdam** 
+
+Ingrid Szilagyi
+
+- meetup: 
+- twitter:
+- email: 
+
 
 ## New Zealand
 
