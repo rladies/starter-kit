@@ -247,7 +247,7 @@ Gabriela Sandoval, Riva Quiroga
 
 Kristina Gregorio
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-copenhagen/](https://www.meetup.com/rladies-copenhagen/) 
 - twitter:
 - email: 
 
@@ -1132,7 +1132,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge 
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen 
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
