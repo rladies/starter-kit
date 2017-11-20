@@ -522,7 +522,7 @@ Ingrid Szilagyi
 
 Kim Fitter
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-auckland/](https://www.meetup.com/rladies-auckland/) 
 - twitter:
 - email: auckland [at] rladies [dot] org
 
@@ -1132,7 +1132,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen 
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland 
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
