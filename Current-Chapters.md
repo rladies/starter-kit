@@ -362,16 +362,6 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 ## India
 
-### Karnataka
-
-**Bangalore**
-
-Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lokesh
-
-- meetup:
-- twitter:
-- email:
-
 ### Dehli
 
 **New Dehli**
@@ -382,6 +372,15 @@ Garima Agrawal
 - twitter:
 - email:
 
+### Karnataka
+
+**Bangalore**
+
+Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lokesh
+
+- meetup:
+- twitter:
+- email:
 
 ### Maharashtra
 
@@ -393,7 +392,6 @@ Namita Joseph
 - twitter:
 - email:
 
-
 ### Tamil Nadu
 
 **Chennai**
@@ -404,6 +402,13 @@ Praveena Mathews
 - twitter:
 - email: chennai [at] rladies [dot] org
 
+**Tiruchirappalli**
+
+Janani Selvaraj
+
+- meetup:
+- twitter:
+- email: 
 
 ## Ireland
 
