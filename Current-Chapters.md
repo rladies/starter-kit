@@ -51,7 +51,7 @@ Marija Dmitrijeva
 Marlene Marchena, Suzan Baert 
 
 - meetup: [https://www.meetup.com/R-Ladies-Brussels/](https://www.meetup.com/R-Ladies-Brussels/)
-- twitter: 
+- twitter: [https://twitter.com/RladiesBrussels](https://twitter.com/RladiesBrussels)
 - email: brussels [at] rladies [dot] org
 
 **Leuven** 
@@ -59,7 +59,7 @@ Marlene Marchena, Suzan Baert
 Theresa Elise Wege 
 
 - meetup: [https://www.meetup.com/rladies-leuven/](https://www.meetup.com/rladies-leuven/)
-- twitter: 
+- twitter: [https://twitter.com/RLadiesLeuven](https://twitter.com/RLadiesLeuven)
 - email: leuven [at] rladies [dot] org
 
 
@@ -517,7 +517,7 @@ Sara Iacozza
 Ingrid Szilagyi
 
 - meetup: 
-- twitter:
+- twitter: [https://twitter.com/RladiesRdam](https://twitter.com/RladiesRdam)
 - email: 
 
 
@@ -1109,7 +1109,7 @@ Samantha Toet
 Chaya Eastwood Jones
 
 - meetup:
-- twitter:
+- twitter: [https://twitter.com/RLadiesSeattle](https://twitter.com/RLadiesSeattle)
 - email: seattle [at] rladies [dot] org
 
 **Tacoma**
