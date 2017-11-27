@@ -785,7 +785,7 @@ Adriana Picoral
 
 - meetup: 
 - twitter:
-- email:
+- email: tuscon [at] rladies [dot] org
 
 ### California
 
@@ -965,13 +965,13 @@ Janani Ravi
 
 - meetup:
 - twitter:
-- email:
+- email: eastlansing [at] rladies [dot] org
 
 ### Minnesota
 
 **Minneapolis**
 
-Organizer: somewhat inactive, looking for new organizers to help host events
+Organizer: Christina Knudson
 
 - meetup: [http://www.meetup.com/RLadiesTC/](http://www.meetup.com/RLadiesTC/)
 - twitter: [https://twitter.com/RLadiesTC](https://twitter.com/RLadiesTC])
