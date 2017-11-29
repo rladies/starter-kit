@@ -245,7 +245,7 @@ Gabriela Sandoval, Riva Quiroga
 
 **Copenhagen** 
 
-Kristina Gregorio
+Kristina Gregorio, Diana Lucatero
 
 - meetup: [https://www.meetup.com/rladies-copenhagen/](https://www.meetup.com/rladies-copenhagen/) 
 - twitter:
