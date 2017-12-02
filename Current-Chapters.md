@@ -1048,7 +1048,7 @@ Augustina Ragwitz, Deeksha Thati
 
 Alice Walsh
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-philly/](https://www.meetup.com/rladies-philly/)
 - twitter: [https://twitter.com/RLadiesPhilly](https://twitter.com/RLadiesPhilly)
 - email:
 
