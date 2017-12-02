@@ -676,9 +676,9 @@ Yuliya Leontyeva
 
 **Lausanne**
 
-Sina Rueegger
+Sina Rueegger, Andrea Komljenovic, Sarvenaz Choobdar
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-lausanne/](https://www.meetup.com/rladies-lausanne/)
 - twitter:
 - email:
 
