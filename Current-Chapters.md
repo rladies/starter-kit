@@ -174,7 +174,7 @@ Sarah Mutch
 
 **London**
 
-Thea Knowles
+Thea Knowles, Sally Norris
 
 - meetup: [https://www.meetup.com/rladies-ldnont/](https://www.meetup.com/rladies-ldnont/)
 - twitter: [https://twitter.com/RLadiesLdnOnt](https://twitter.com/RLadiesLdnOnt)
