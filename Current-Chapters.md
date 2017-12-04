@@ -528,7 +528,7 @@ Ingrid Szilagyi
 Kim Fitter
 
 - meetup: [https://www.meetup.com/rladies-auckland/](https://www.meetup.com/rladies-auckland/) 
-- twitter:
+- twitter: [https://twitter.com/RLadiesAKL](https://twitter.com/RLadiesAKL)
 - email: auckland [at] rladies [dot] org
 
 
