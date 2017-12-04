@@ -988,6 +988,15 @@ Jenine Harris
 - twitter:
 - email:
 
+### Nebraska
+
+**Lincoln**
+
+Gabriella Palomo
+
+- meetup:
+- twitter:
+- email:
 
 ### New York
 
