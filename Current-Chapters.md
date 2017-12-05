@@ -1,9 +1,21 @@
-The current active and prospective chapters of [R-Ladies Global](http://rladies.org) are listed below.  The chapters are grouped by country and the names of the organizers are listed as well.
+```Ctrl+F to search for groups on the page```
 
+The current active and prospective chapters of [R-Ladies Global](http://rladies.org) are listed below.
+
+The chapters are grouped by country and the names of the organizers are listed as well.
+
+![](https://img.shields.io/badge/status-active-blue.svg) = Active R-Ladies chapter which has had an event in the last 4 months
+
+![](https://img.shields.io/badge/status-active_quiet-blue.svg) = Active R-Ladies chapter which hasn't had an event in the last 4 months
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) = R-Ladies chapter that has a meet-up account, is planning or has had its launch event but is yet to have its first R training/presentation event.
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) = R-Ladies chapter is in the planning stage is not set up on meet-up yet. 
 
 ## Argentina
 
-**Buenos Aires** 
+**Buenos Aires**  
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Organizers: Laura Acion, Paloma Rojas, Fabiana Flores, Paola Corrales, Florencia D'Andrea
 
@@ -15,6 +27,8 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 - email: buenosaires [at] rladies [dot] org
 
 **Santa Rosa**
+
+![](https://img.shields.io/badge/status-active_quiet-blue.svg)
 
 Yanina Bellini Saibene, Marina Cock
 
@@ -29,6 +43,8 @@ Yanina Bellini Saibene, Marina Cock
 
 **Melbourne** 
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Goknur Giner, Sepideh Foroutan, Marie Trussart 
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
@@ -37,6 +53,8 @@ Goknur Giner, Sepideh Foroutan, Marie Trussart
 - email: melbourne [at] rladies [dot] org
 
 **Adelaide**
+
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Marija Dmitrijeva
 
@@ -48,6 +66,8 @@ Marija Dmitrijeva
 
 **Brussels** 
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Marlene Marchena, Suzan Baert 
 
 - meetup: [https://www.meetup.com/R-Ladies-Brussels/](https://www.meetup.com/R-Ladies-Brussels/)
@@ -55,6 +75,8 @@ Marlene Marchena, Suzan Baert
 - email: brussels [at] rladies [dot] org
 
 **Leuven** 
+
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Theresa Elise Wege 
 
@@ -66,7 +88,9 @@ Theresa Elise Wege
 
 ## Benin
 
-**Cotonou** 
+**Cotonou**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
 Nadejda Sero, Benedicta Essuon 
 
@@ -81,6 +105,8 @@ Nadejda Sero, Benedicta Essuon
 
 **Rio de Janeiro**
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Celina Rebello, Thais Viana
 
 - meetup: [https://www.meetup.com/R-Ladies-Rio-de-Janeiro/](https://www.meetup.com/R-Ladies-Rio-de-Janeiro/)
@@ -91,6 +117,8 @@ Celina Rebello, Thais Viana
 
 **Americana**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Mariana Mendes 
 
 - meetup: 
@@ -98,6 +126,8 @@ Mariana Mendes
 - email: 
 
 **São Paulo**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Natalia Murgel, Haydée Svab
 
@@ -109,6 +139,8 @@ Natalia Murgel, Haydée Svab
 
 **Palmas**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Katiuscia Martos
 
 - meetup: 
@@ -118,6 +150,8 @@ Katiuscia Martos
 ### Rio Grande do Norte
 
 **Natal**
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Lumi Mevi
 
@@ -130,6 +164,8 @@ Lumi Mevi
 
 **Porto Alegre**
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Iara Passos
 
 - meetup: [https://www.meetup.com/rladies-porto-alegre/](https://www.meetup.com/rladies-porto-alegre/)
@@ -140,6 +176,8 @@ Iara Passos
 ## Bulgaria
 
 **Sofia** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Mimi Lazarova 
 
@@ -154,6 +192,8 @@ Mimi Lazarova
 
 **Vancouver**
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Anna Posacka, Marion Shadbol
 
 - meetup: [https://www.meetup.com/R-Ladies-Vancouver/](https://www.meetup.com/R-Ladies-Vancouver/)
@@ -163,6 +203,8 @@ Anna Posacka, Marion Shadbol
 ### Manitoba
 
 **Winnipeg**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Sarah Mutch
 
@@ -174,6 +216,8 @@ Sarah Mutch
 
 **London**
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Thea Knowles, Sally Norris
 
 - meetup: [https://www.meetup.com/rladies-ldnont/](https://www.meetup.com/rladies-ldnont/)
@@ -184,6 +228,8 @@ Thea Knowles, Sally Norris
 ### Québec
 
 **Montréal**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Corinne Riddell, Kathryn Morrison
 
@@ -197,6 +243,8 @@ Corinne Riddell, Kathryn Morrison
 
 **Bucaramanga** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
 Viviana Romero Alarcon
 
 - meetup: 
@@ -207,6 +255,8 @@ Viviana Romero Alarcon
 ## Costa Rica
 
 **San José** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Marcela Alfaro-Córdoba
 
@@ -221,6 +271,8 @@ Marcela Alfaro-Córdoba
 
 **Zagreb** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Ana Jankovic
 
 - meetup: 
@@ -232,6 +284,8 @@ Ana Jankovic
 ## Chile
 
 **Santiago de Chile** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Gabriela Sandoval, Riva Quiroga
 
@@ -245,6 +299,8 @@ Gabriela Sandoval, Riva Quiroga
 
 **Copenhagen** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Kristina Gregorio, Diana Lucatero
 
 - meetup: [https://www.meetup.com/rladies-copenhagen/](https://www.meetup.com/rladies-copenhagen/) 
@@ -255,6 +311,8 @@ Kristina Gregorio, Diana Lucatero
 ## Dominican Republic
 
 **Santo Donmingo** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Lissette Rodriguez
 
@@ -267,6 +325,8 @@ Lissette Rodriguez
 
 **Quito** 
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 
 - meetup: [https://www.meetup.com/R-Ladies_Quito/](https://www.meetup.com/R-Ladies_Quito/)
@@ -277,6 +337,8 @@ Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 ## Ethiopia
 
 **Addis Ababa** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Margareth Gfrerer
 
@@ -289,6 +351,8 @@ Margareth Gfrerer
 
 **Paris** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse
 
 - meetup: [https://www.meetup.com/rladies-paris/](https://www.meetup.com/rladies-paris/)
@@ -296,6 +360,8 @@ Diane Beldame, Christina Bergmann, Sarah Hosking, Stéphanie Terrasse
 - email: paris [at] rladies [dot] org
 
 **Strasbourg**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Rita Giordano
 
@@ -308,6 +374,8 @@ Rita Giordano
 ## Georgia
 
 **Tbilisi**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Liili Abuladze, Tamuna Margievi, Nino Melitauri
 
@@ -322,6 +390,8 @@ Liili Abuladze, Tamuna Margievi, Nino Melitauri
 
 **Berlin** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Christin Zasada, Noa Tamir, Hannah Tillmann
 
 - meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
@@ -331,6 +401,8 @@ Christin Zasada, Noa Tamir, Hannah Tillmann
 
 **Leipzig** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Deisy Gysi
 
 - meetup:
@@ -338,6 +410,8 @@ Deisy Gysi
 - email: 
 
 **Munich**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie Chak
 
@@ -350,6 +424,9 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 ## Hungary
 
 **Budapest**
+
+
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Ágnes Salánki, Eszter Windhager-Pokol, Zsuzsanna Szabó
 
@@ -366,6 +443,8 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 **New Dehli**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Garima Agrawal
 
 - meetup:
@@ -375,6 +454,8 @@ Garima Agrawal
 ### Karnataka
 
 **Bangalore**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lokesh
 
@@ -386,6 +467,8 @@ Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lok
 
 **Pune**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Namita Joseph
 
 - meetup:
@@ -396,6 +479,8 @@ Namita Joseph
 
 **Chennai**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Praveena Mathews
 
 - meetup:
@@ -403,6 +488,8 @@ Praveena Mathews
 - email: chennai [at] rladies [dot] org
 
 **Tiruchirappalli**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Janani Selvaraj
 
@@ -413,6 +500,8 @@ Janani Selvaraj
 ## Ireland
 
 **Dublin**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Jo Nieć
 
@@ -426,6 +515,8 @@ Jo Nieć
 
 **Trento**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Teresa Del Bianco
 
 - meetup:
@@ -434,9 +525,11 @@ Teresa Del Bianco
 
 **Milan**
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Parvaneh Shafiei
 
-- meetup: https://www.meetup.com/R-Ladies-Milan/
+- meetup: [https://www.meetup.com/R-Ladies-Milan/](https://www.meetup.com/R-Ladies-Milan/)
 - twitter: [https://twitter.com/RLadiesMilan](https://twitter.com/@RLadiesMilan)
 - email: milan [at] rladies [dot] org
 
@@ -444,6 +537,8 @@ Parvaneh Shafiei
 ## Lebanon
 
 **Beirut**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Sondos Atwi
 
@@ -457,6 +552,8 @@ Sondos Atwi
 
 **Mexico City**
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
 - meetup: [https://www.meetup.com/rladiescdmx/](https://www.meetup.com/rladiescdmx/)
@@ -467,6 +564,8 @@ Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
 
 **Queretaro**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Alejandra Medina-Rivera
 
 - meetup:
@@ -476,6 +575,8 @@ Alejandra Medina-Rivera
 ## Montenegro
 
 **Podgorica**
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Ivana Kecojevic
 
@@ -488,6 +589,8 @@ Ivana Kecojevic
 
 **Fez** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Abir Alaoui
 
 - meetup: 
@@ -498,6 +601,8 @@ Abir Alaoui
 
 **Amsterdam** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Karina Kisselite
 
 - meetup: 
@@ -506,6 +611,8 @@ Karina Kisselite
 
 **Nijmegen** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Sara Iacozza
 
 - meetup: 
@@ -513,6 +620,8 @@ Sara Iacozza
 - email: 
 
 **Rotterdam** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Ingrid Szilagyi
 
@@ -525,6 +634,8 @@ Ingrid Szilagyi
 
 **Auckland** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Kim Fitter
 
 - meetup: [https://www.meetup.com/rladies-auckland/](https://www.meetup.com/rladies-auckland/) 
@@ -536,17 +647,19 @@ Kim Fitter
 
 **Oslo**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Anne Claire Fouilloux
 
 - meetup: 
 - twitter:
 - email: 
 
-
-
 ## Peru
 
 **Lima**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Ivonne Rentería
 
@@ -560,6 +673,8 @@ Ivonne Rentería
 
 **Lodz**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Lidia Lipińska
 
 - meetup: 
@@ -568,6 +683,8 @@ Lidia Lipińska
 
 
 **Warsaw**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Olga Mierzwa-Sulima, Natalia Potocka
 
@@ -584,6 +701,8 @@ Currently a subgroup of the Warsaw R Users Group meetup.
 
 **Lisbon** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Andreia Carlos, Carolina Frias
 
 - meetup: [https://www.meetup.com/R-Ladies-Lisboa/](https://www.meetup.com/R-Ladies-Lisboa/)
@@ -596,6 +715,8 @@ Andreia Carlos, Carolina Frias
 
 **St. Petersburg** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Alina Bakhitova
 
 - meetup: 
@@ -605,7 +726,9 @@ Alina Bakhitova
 
 ## Serbia
 
-**Belgrade** 
+**Belgrade**
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Nadica Miljković, Vesna Oro
 
@@ -618,6 +741,8 @@ Nadica Miljković, Vesna Oro
 
 **Cape Town**
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Theoni Photopoulou
 
 - meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/rladies-cape-town/)
@@ -626,6 +751,8 @@ Theoni Photopoulou
 
 
 **Johannesburg**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Renee Schoeman
 
@@ -638,6 +765,8 @@ Renee Schoeman
 
 **Madrid** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Bea Hernández, Inés Huertas, Leticia Martín-Fuertes
 
 - meetup: [https://www.meetup.com/rladies-madrid/](https://www.meetup.com/rladies-madrid/)
@@ -646,6 +775,8 @@ Bea Hernández, Inés Huertas, Leticia Martín-Fuertes
 
 **Barcelona** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Ania Alay, Mireia Ramos
 
 - meetup: [http://www.meetup.com/rladies-barcelona/](http://www.meetup.com/rladies-barcelona/)
@@ -653,6 +784,8 @@ Ania Alay, Mireia Ramos
 - email: bcn [at] rladies [dot] org
 
 **Valencia** 
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Lidia Contreras
 
@@ -663,6 +796,8 @@ Lidia Contreras
 ## Sweden
 
 **Stockholm**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Yuliya Leontyeva
 
@@ -676,6 +811,8 @@ Yuliya Leontyeva
 
 **Lausanne**
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Sina Rueegger, Andrea Komljenovic, Sarvenaz Choobdar
 
 - meetup: [https://www.meetup.com/rladies-lausanne/](https://www.meetup.com/rladies-lausanne/)
@@ -687,6 +824,8 @@ Sina Rueegger, Andrea Komljenovic, Sarvenaz Choobdar
 ## Taiwan
 
 **Taipei** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Juyin Tang, Chiayi Yen, Ning Chen
 
@@ -703,6 +842,8 @@ Currently a subgroup of the Taiwan R Users Group meetup.
 
 **Istanbul** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Hazel Kavili
 
 - meetup: [https://www.meetup.com/R-Ladies-Istanbul/](https://www.meetup.com/R-Ladies-Istanbul/)
@@ -711,6 +852,8 @@ Hazel Kavili
 
 **Izmir**
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Necla Kayaalp
 
 - meetup: [https://www.meetup.com/R-Ladies-%C4%B0zmiR/](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
@@ -718,6 +861,8 @@ Necla Kayaalp
 - email: izmir [at] rladies [dot] org
 
 **Karabük**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Cansu Uzunsimsek
 
@@ -729,6 +874,8 @@ Cansu Uzunsimsek
 
 **Cambridge** 
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Alexia Cardona
 
 - meetup: [https://www.meetup.com/rladies-cambridge/](https://www.meetup.com/rladies-cambridge/) 
@@ -736,6 +883,8 @@ Alexia Cardona
 - email: cambridge [at] rladies [dot] org
 
 **Liverpool** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Ellen Talbot
 
@@ -746,13 +895,17 @@ Ellen Talbot
 
 **London** 
 
-Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Rachel Kirkham
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
+Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia
 
 - meetup: [https://www.meetup.com/rladies-london/](https://www.meetup.com/rladies-london/)
 - twitter: [https://twitter.com/RLadiesLondon](https://twitter.com/RLadiesLondon)
 - email: london [at] rladies [dot] org
 
 **Manchester**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Tatjana Kecojevic
 
@@ -765,6 +918,8 @@ Tatjana Kecojevic
 ## Uruguay
 
 **Montevideo** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Daniela Vazquez, Natalia da Silva
 
@@ -781,6 +936,8 @@ Daniela Vazquez, Natalia da Silva
 
 **Tucson** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Adriana Picoral
 
 - meetup: 
@@ -791,6 +948,8 @@ Adriana Picoral
 
 **San Francisco** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Gabriela de Queiroz, Erin LeDell, Ciera Martinez
 
 - meetup: [https://www.meetup.com/rladies-san-francisco/](https://www.meetup.com/rladies-san-francisco/)
@@ -799,6 +958,8 @@ Gabriela de Queiroz, Erin LeDell, Ciera Martinez
 
 **Los Angeles** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Katie Scranton
 
 - meetup: [https://www.meetup.com/rladies-la/](https://www.meetup.com/rladies-la/)
@@ -806,6 +967,8 @@ Katie Scranton
 - email: la [at] rladies [dot] org
 
 **San Diego** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Page Piccinini, Megan Chang
 
@@ -818,6 +981,8 @@ Page Piccinini, Megan Chang
 
 **Boulder/Denver**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Lisa Moller
 
 - meetup:
@@ -828,6 +993,8 @@ Lisa Moller
 ### Connecticut
 
 **Hartford**
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Erica Holdridge, Jasmine Dumas
 
@@ -840,6 +1007,8 @@ Erica Holdridge, Jasmine Dumas
 
 **Miami**
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Laura Gabrysiak Gómez, Catalina Arango, Cris Vidal
 
 - meetup: [https://www.meetup.com/R-Ladies-Miami/](https://www.meetup.com/R-Ladies-Miami/)
@@ -848,6 +1017,8 @@ Laura Gabrysiak Gómez, Catalina Arango, Cris Vidal
 
 **Orlando**
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Kathy Joshi
 
 - meetup: [https://www.meetup.com/R-Ladies-Orlando/](https://www.meetup.com/R-Ladies-Orlando/)
@@ -855,6 +1026,8 @@ Kathy Joshi
 - email: orlando [at] rladies [dot] org
 
 **Sarasota**
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Mine Dogucu, Fanny Chow, Sarah Cohen 
 
@@ -865,6 +1038,8 @@ Mine Dogucu, Fanny Chow, Sarah Cohen
 ### Georgia
 
 **Atlanta**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
 Melinda Higgins
 
@@ -877,6 +1052,8 @@ Melinda Higgins
 
 **Moscow**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
 Adrienne Marshall
 
 - meetup: 
@@ -887,6 +1064,8 @@ Adrienne Marshall
 ### Illinois
 
 **Chicago**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Angela Li
 
@@ -899,6 +1078,8 @@ Angela Li
 
 **South Bend**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
 Myrthe Faber, Kelsey M. Reese
 
 - meetup:
@@ -909,6 +1090,8 @@ Myrthe Faber, Kelsey M. Reese
 ### Iowa
 
 **Ames**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 
@@ -921,6 +1104,8 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 
 **New Orleans** 
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
 Erin Cuyler
 
 - meetup: 
@@ -931,6 +1116,8 @@ Erin Cuyler
 ### Maine
 
 **Portland** 
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Jennifer Fleck
 
@@ -943,6 +1130,8 @@ Jennifer Fleck
 
 **Boston** 
 
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
 Marianna Foos
 
 - meetup: [https://www.meetup.com/R-Ladies-Boston/](https://www.meetup.com/R-Ladies-Boston/)
@@ -950,6 +1139,8 @@ Marianna Foos
 - email: boston [at] rladies [dot] org
 
 **Northampton** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
 Paige Patrick
 
@@ -961,6 +1152,8 @@ Paige Patrick
 
 **East Lansing**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
 Janani Ravi
 
 - meetup:
@@ -970,6 +1163,8 @@ Janani Ravi
 ### Minnesota
 
 **Minneapolis**
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Organizer: Christina Knudson
 
@@ -982,6 +1177,8 @@ Organizer: Christina Knudson
 
 **St.Louis**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
 Jenine Harris
 
 - meetup:
@@ -991,6 +1188,8 @@ Jenine Harris
 ### Nebraska
 
 **Lincoln**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
 Gabriella Palomo
 
@@ -1002,6 +1201,8 @@ Gabriella Palomo
 
 **Buffalo**
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Lori Shepherd
 
 - meetup: [https://www.meetup.com/RLadies-Buffalo/](https://www.meetup.com/RLadies-Buffalo/)
@@ -1010,6 +1211,8 @@ Lori Shepherd
 
 
 **New York City** 
+
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Soumya Kalra
 
@@ -1022,6 +1225,8 @@ Soumya Kalra
 
 **RTP (Research Triangle Park)** 
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Mine Cetinkaya-Rundel, Elaine McVey
 
 - meetup: [https://www.meetup.com/R-Ladies-RTP/](https://www.meetup.com/R-Ladies-RTP/)
@@ -1032,6 +1237,8 @@ Mine Cetinkaya-Rundel, Elaine McVey
 ### Ohio
 
 **Columbus** 
+
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas 
 
@@ -1044,6 +1251,8 @@ Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas
 
 **Portland** 
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Augustina Ragwitz, Deeksha Thati
 
 - meetup: [https://www.meetup.com/R-Ladies-PDX/](https://www.meetup.com/R-Ladies-PDX/)
@@ -1055,6 +1264,8 @@ Augustina Ragwitz, Deeksha Thati
 
 **Philadelphia**
 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
 Alice Walsh
 
 - meetup: [https://www.meetup.com/rladies-philly/](https://www.meetup.com/rladies-philly/)
@@ -1062,6 +1273,8 @@ Alice Walsh
 - email:
 
 **Pittsburgh**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Jane Kong
 
@@ -1074,6 +1287,8 @@ Jane Kong
 
 **Nashville**
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Jennifer Thompson, Lucy D'Agostino McGowan
 
 - meetup: [https://www.meetup.com/rladies-nashville/](https://www.meetup.com/rladies-nashville/)
@@ -1085,6 +1300,8 @@ Jennifer Thompson, Lucy D'Agostino McGowan
 
 **Austin**
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Victoria Valencia, Caitlin Hudon
 
 - meetup: [https://www.meetup.com/rladies-austin/](https://www.meetup.com/rladies-austin/)
@@ -1092,6 +1309,8 @@ Victoria Valencia, Caitlin Hudon
 - email: austin [at] rladies [dot] org
 
 **Houston**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Erin Hodgess
 
@@ -1104,6 +1323,8 @@ Erin Hodgess
 
 **Charlottesville**
 
+![](https://img.shields.io/badge/status-active-blue.svg)
+
 Samantha Toet
 
 - meetup: [https://www.meetup.com/rladies-charlottesville/](https://www.meetup.com/rladies-charlottesville/)
@@ -1115,6 +1336,8 @@ Samantha Toet
 
 **Seattle**
 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
 Chaya Eastwood Jones
 
 - meetup:
@@ -1122,6 +1345,8 @@ Chaya Eastwood Jones
 - email: seattle [at] rladies [dot] org
 
 **Tacoma**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 Alexandra Gore
 
@@ -1132,6 +1357,8 @@ Alexandra Gore
 
 
 ### Washington D.C.
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Kelly Obriant, Pri Oberoi
 
