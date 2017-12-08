@@ -17,7 +17,7 @@ The chapters are grouped by country and the names of the organizers are listed a
 **Buenos Aires**  
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Organizers: Laura Acion, Paloma Rojas, Fabiana Flores, Paola Corrales, Florencia D'Andrea
+Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea
 
 Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
