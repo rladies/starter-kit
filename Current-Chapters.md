@@ -1156,8 +1156,8 @@ Paige Patrick
 
 Janani Ravi
 
-- meetup:
-- twitter:
+- meetup: [https://www.meetup.com/rladies-east-lansing/][https://www.meetup.com/rladies-east-lansing/]
+- twitter: [https://twitter.com/RLadiesELansing][https://twitter.com/RLadiesELansing]
 - email: eastlansing [at] rladies [dot] org
 
 ### Minnesota
@@ -1373,7 +1373,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam 
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing 
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
