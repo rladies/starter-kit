@@ -78,7 +78,7 @@ Marlene Marchena, Suzan Baert
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Theresa Elise Wege 
+Theresa Elise Wege, Veronica Llorens
 
 - meetup: [https://www.meetup.com/rladies-leuven/](https://www.meetup.com/rladies-leuven/)
 - twitter: [https://twitter.com/RLadiesLeuven](https://twitter.com/RLadiesLeuven)
