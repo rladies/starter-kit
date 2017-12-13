@@ -623,7 +623,7 @@ Sara Iacozza
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
-Ingrid Szilagyi
+Ingrid Szilagyi, Paloma Rojas
 
 - meetup: [https://www.meetup.com/rladies-rotterdam/][https://www.meetup.com/rladies-rotterdam/]
 - twitter: [https://twitter.com/RladiesRdam](https://twitter.com/RladiesRdam)
@@ -881,6 +881,16 @@ Alexia Cardona
 - meetup: [https://www.meetup.com/rladies-cambridge/](https://www.meetup.com/rladies-cambridge/) 
 - twitter: 
 - email: cambridge [at] rladies [dot] org
+
+**Edinburgh**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Karim Rivera
+
+- meetup: 
+- twitter: 
+- email: 
 
 **Liverpool** 
 
