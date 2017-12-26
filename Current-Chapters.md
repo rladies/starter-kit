@@ -1246,6 +1246,16 @@ Mine Cetinkaya-Rundel, Elaine McVey
 
 ### Ohio
 
+**Cincinnati**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Renata Gerecke
+
+- meetup: 
+- twitter: 
+- email: 
+
 **Columbus** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
