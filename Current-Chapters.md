@@ -1174,7 +1174,7 @@ Paige Patrick
 
 **East Lansing**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
 Janani Ravi
 
