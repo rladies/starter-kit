@@ -870,6 +870,18 @@ Cansu Uzunsimsek
 - twitter: 
 - email: 
 
+## Uganda
+
+**Kampala** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Aine Lorna Maria 
+
+- meetup: 
+- twitter: 
+- email: 
+
 ## UK
 
 **Cambridge** 
