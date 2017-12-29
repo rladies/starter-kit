@@ -225,6 +225,16 @@ Thea Knowles, Sally Norris
 - facebook: [https://www.facebook.com/rladiesldnont](https://www.facebook.com/rladiesldnont)
 - email: ldnont [at] rladies [dot] org
 
+**Toronto** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Heather Krause
+
+- meetup: 
+- twitter:
+- email: 
+
 ### Québec
 
 **Montréal**
