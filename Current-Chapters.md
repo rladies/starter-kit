@@ -194,7 +194,7 @@ Mimi Lazarova
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
-Anna Posacka, Marion Shadbol
+Anna Posacka, Marion Shadbol, Nazlı Özüm Kafaee
 
 - meetup: [https://www.meetup.com/R-Ladies-Vancouver/](https://www.meetup.com/R-Ladies-Vancouver/)
 - twitter: [https://twitter.com/RLadiesVan](https://twitter.com/RLadiesVan)
