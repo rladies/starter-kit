@@ -671,7 +671,7 @@ Anne Claire Fouilloux
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Ivonne Rentería
+Ivonne Rentería, Evelyn Gutierrez, Vilma Romero, Yuriko Sosa
 
 - meetup: 
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
