@@ -1067,6 +1067,17 @@ Mine Dogucu, Fanny Chow, Sarah Cohen
 - twitter: [https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
 - email: sarasota [at] rladies [dot] org
 
+**Tampa**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Gina Griffin
+
+- meetup: 
+- twitter:
+- email:
+
+
 ### Georgia
 
 **Atlanta**
