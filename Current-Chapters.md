@@ -658,9 +658,9 @@ Sara Iacozza
 
 Ingrid Szilagyi, Paloma Rojas
 
-- meetup: [https://www.meetup.com/rladies-rotterdam/][https://www.meetup.com/rladies-rotterdam/]
+- meetup: [https://www.meetup.com/rladies-rotterdam/](https://www.meetup.com/rladies-rotterdam/)
 - twitter: [https://twitter.com/RladiesRdam](https://twitter.com/RladiesRdam)
-- email: 
+- email: rotterdam [at] rladies [dot] org
 
 
 ## New Zealand
@@ -698,7 +698,7 @@ Evelyn Gutierrez, Vilma Romero, Yuriko Sosa
 
 - meetup: 
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
-- email:
+- email: lima [at] rladies [dot] org
 
 
 
