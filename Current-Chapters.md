@@ -43,8 +43,8 @@ Ana Laura Diedrichs
 Yanina Bellini Saibene, Marina Cock
 
 - meetup: [https://www.meetup.com/rladies-santa-rosa/](https://www.meetup.com/rladies-santa-rosa/)
-- twitter: [https://twitter.com/RladiesSR](https://twitter.com/RladiesSR) o @RLadiesSR
-- facebook: [https://www.facebook.com/pg/RLadiesSR](https://www.facebook.com/pg/RLadiesSR) o @RLadiesSR
+- twitter: [https://twitter.com/RladiesSR](https://twitter.com/RladiesSR)
+- facebook: [https://www.facebook.com/pg/RLadiesSR](https://www.facebook.com/pg/RLadiesSR)
 - email: santarosa [at] rladies [dot] org
 
 
