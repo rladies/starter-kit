@@ -26,6 +26,16 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 - facebook: [https://www.facebook.com/RladiesBA/](https://www.facebook.com/RladiesBA/)
 - email: buenosaires [at] rladies [dot] org
 
+**Mendoza**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Ana Laura Diedrichs
+
+- meetup: 
+- twitter: 
+- email:
+
 **Santa Rosa**
 
 ![](https://img.shields.io/badge/status-active_quiet-blue.svg)
@@ -507,6 +517,19 @@ Janani Selvaraj
 - twitter:
 - email: 
 
+### Telangana 
+
+**Hyderabad**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Varnitha Kurli Reddy
+
+- meetup:
+- twitter:
+- email: 
+
+
 ## Ireland
 
 **Dublin**
@@ -671,7 +694,7 @@ Anne Claire Fouilloux
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Ivonne Rentería, Evelyn Gutierrez, Vilma Romero, Yuriko Sosa
+Evelyn Gutierrez, Vilma Romero, Yuriko Sosa
 
 - meetup: 
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
