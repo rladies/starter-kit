@@ -1001,16 +1001,6 @@ Adriana Picoral
 
 ### California
 
-**San Francisco** 
-
-![](https://img.shields.io/badge/status-active-blue.svg) 
-
-Gabriela de Queiroz, Erin LeDell, Ciera Martinez
-
-- meetup: [https://www.meetup.com/rladies-san-francisco/](https://www.meetup.com/rladies-san-francisco/)
-- twitter: [https://twitter.com/RladiesSF](https://twitter.com/RladiesSF)
-- email: sf [at] rladies [dot] org
-
 **Los Angeles** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
@@ -1030,6 +1020,26 @@ Page Piccinini, Megan Chang
 - meetup: [https://www.meetup.com/rladies-san-diego/](https://www.meetup.com/rladies-san-diego/)
 - twitter: [https://twitter.com/RLadiesSanDiego](https://twitter.com/RLadiesSanDiego)
 - email: sandiego [at] rladies [dot] org
+
+**San Francisco** 
+
+![](https://img.shields.io/badge/status-active-blue.svg) 
+
+Gabriela de Queiroz, Erin LeDell, Ciera Martinez
+
+- meetup: [https://www.meetup.com/rladies-san-francisco/](https://www.meetup.com/rladies-san-francisco/)
+- twitter: [https://twitter.com/RladiesSF](https://twitter.com/RladiesSF)
+- email: sf [at] rladies [dot] org
+
+**Santa Barbara**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Jamie Afflerbach
+
+- meetup:
+- twitter:
+- email:
 
 
 ### Colorado
