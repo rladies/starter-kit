@@ -1035,7 +1035,7 @@ Gabriela de Queiroz, Erin LeDell, Ciera Martinez
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Jamie Afflerbach
+Jamie Afflerbach, Julia Stewart Lowndes
 
 - meetup:
 - twitter:
