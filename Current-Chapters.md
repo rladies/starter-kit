@@ -669,7 +669,7 @@ Ingrid Szilagyi, Paloma Rojas
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Kim Fitter
+Kim Fitter, Anna Martin Fergusson, Anjali Gupta
 
 - meetup: [https://www.meetup.com/rladies-auckland/](https://www.meetup.com/rladies-auckland/) 
 - twitter: [https://twitter.com/RLadiesAKL](https://twitter.com/RLadiesAKL)
