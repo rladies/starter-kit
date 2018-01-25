@@ -692,11 +692,11 @@ Anne Claire Fouilloux
 
 **Lima**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Evelyn Gutierrez, Vilma Romero, Yuriko Sosa
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-lima/](https://www.meetup.com/rladies-lima/)
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
 - email: lima [at] rladies [dot] org
 
@@ -1459,7 +1459,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing 
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima 
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
