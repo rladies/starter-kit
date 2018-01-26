@@ -1033,11 +1033,11 @@ Gabriela de Queiroz, Erin LeDell, Ciera Martinez
 
 **Santa Barbara**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
 Julia Stewart Lowndes, Allison Horst, Jamie Afflerbach
 
-- meetup:
+- meetup: [https://www.meetup.com/radies-santa-barbara/](https://www.meetup.com/radies-santa-barbara/)
 - twitter:
 - email:
 
@@ -1459,7 +1459,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima 
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
