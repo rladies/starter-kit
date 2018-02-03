@@ -702,9 +702,9 @@ Anne Claire Fouilloux
 
 **Lima**
 
-![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Evelyn Gutierrez, Vilma Romero, Yuriko Sosa
+Evelyn Gutierrez, Vilma Romero, Yuriko Sosa, Fiorella Flores
 
 - meetup: [https://www.meetup.com/rladies-lima/](https://www.meetup.com/rladies-lima/)
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
