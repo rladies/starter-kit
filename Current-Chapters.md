@@ -859,13 +859,13 @@ Yuliya Leontyeva
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
-Sina Rueegger, Andrea Komljenovic, Sarvenaz Choobdar
+Andrea Komljenovic, Ninon Mounier, Sarvenaz Choobdar, Sina R&uuml;eger
 
 - meetup: [https://www.meetup.com/rladies-lausanne/](https://www.meetup.com/rladies-lausanne/)
-- twitter:
-- email:
-
-
+- twitter: [https://twitter.com/RLadiesLausanne](https://twitter.com/RLadiesLausanne)
+- email: rladieslausanne [at] gmail [dot] com
+- facebook: [https://www.facebook.com/RLadiesLausanne/]()
+- newsletter: [goo.gl/X5H6u5](goo.gl/X5H6u5)
 
 ## Taiwan
 
