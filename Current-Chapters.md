@@ -1024,6 +1024,16 @@ Katie Scranton
 - twitter: [https://twitter.com/RLadiesLA](https://twitter.com/RLadiesLA)
 - email: la [at] rladies [dot] org
 
+**Pasadena**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Gail Peretsman-Clement
+
+- meetup:
+- twitter:
+- email:
+
 **San Diego** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
