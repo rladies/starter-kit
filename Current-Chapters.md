@@ -704,10 +704,13 @@ Anne Claire Fouilloux
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Evelyn Gutierrez, Vilma Romero, Yuriko Sosa, Fiorella Flores
+Organizers: Evelyn Gutierrez, Vilma Romero, Yuriko Sosa, Ivonne Rentería, Fiorella Flores
+
+Founder: Ivonne Rentería
 
 - meetup: [https://www.meetup.com/rladies-lima/](https://www.meetup.com/rladies-lima/)
 - twitter: [https://twitter.com/RLadiesLima](https://twitter.com/RLadiesLima)
+- facebook: [https://www.facebook.com/RLadiesLima](https://www.facebook.com/RLadiesLima)
 - email: lima [at] rladies [dot] org
 
 
