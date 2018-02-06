@@ -1093,6 +1093,16 @@ Erica Holdridge, Jasmine Dumas
 
 ### Florida
 
+**Jacksonville**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Camille Knepper
+
+- meetup: 
+- twitter:
+- email:
+
 **Miami**
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
