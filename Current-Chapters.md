@@ -1127,7 +1127,7 @@ Mine Dogucu, Fanny Chow, Sarah Cohen
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Gina Griffin
+Gina Griffin, Saarah Kison
 
 - meetup: 
 - twitter:
