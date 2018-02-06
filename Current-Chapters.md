@@ -646,7 +646,7 @@ Abir Alaoui
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Karina Kisselite
+Karina Kisselite, Tess Korthout, Sophia Crüwell
 
 - meetup: 
 - twitter:
