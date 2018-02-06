@@ -692,7 +692,7 @@ Kim Fitter, Anna Martin Fergusson, Anjali Gupta
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Anne Claire Fouilloux
+Anne Claire Fouilloux, Athanasia Monika Mowinckel, Lene Norderhaug Drosdal, Aurora Voje
 
 - meetup: 
 - twitter:
