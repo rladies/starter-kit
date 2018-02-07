@@ -8,9 +8,9 @@ The chapters are grouped by country and the names of the organizers are listed a
 
 ![](https://img.shields.io/badge/status-active_quiet-blue.svg) = Active R-Ladies chapter which hasn't had an event in the last 4 months
 
-![](https://img.shields.io/badge/status-inprogress-orange.svg) = R-Ladies chapter that has a meet-up account, is planning or has had its launch event but is yet to have its first R training/presentation event.
+![](https://img.shields.io/badge/status-inprogress-orange.svg) = R-Ladies chapter that has a meetup account, is planning or has had its launch event but is yet to have its first R training/presentation event.
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) = R-Ladies chapter is in the planning stage is not set up on meet-up yet. 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) = R-Ladies chapter is in the planning stage is not set up on meetup.com yet. 
 
 ## Argentina
 
@@ -34,7 +34,7 @@ Ana Laura Diedrichs
 
 - meetup: 
 - twitter: 
-- email:
+- email: mendoza [at] rladies [dot] org
 
 **Santa Rosa**
 
@@ -971,6 +971,16 @@ Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia
 - twitter: [https://twitter.com/RLadiesLondon](https://twitter.com/RLadiesLondon)
 - email: london [at] rladies [dot] org
 
+**Loughborough**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Theresa Elise Wege, Kerry Rosenthal, Steph Farley
+
+- meetup: 
+- twitter: 
+- email: loughborough [at] rladies [dot] org
+
 **Manchester**
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
@@ -1062,7 +1072,7 @@ Julia Stewart Lowndes, Allison Horst, Jamie Afflerbach
 
 - meetup: [https://www.meetup.com/rladies-santa-barbara/](https://www.meetup.com/rladies-santa-barbara/)
 - twitter:
-- email:
+- email: santabarbara [at] rladies [dot] org
 
 
 ### Colorado
