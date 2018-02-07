@@ -1071,7 +1071,7 @@ Julia Stewart Lowndes, Allison Horst, Jamie Afflerbach
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Lisa Moller
+Lisa Moller, Courtney Van Den Elzen
 
 - meetup:
 - twitter:
