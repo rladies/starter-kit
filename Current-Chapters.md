@@ -845,7 +845,7 @@ Lidia Contreras
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Yuliya Leontyeva
+Yuliya Leontyeva, Klara Leffler, Paulina Joneus
 
 - meetup:
 - twitter:
