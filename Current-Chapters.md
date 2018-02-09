@@ -852,7 +852,6 @@ Yuliya Leontyeva
 - email:
 
 
-
 ## Switzerland
 
 **Lausanne**
@@ -1436,6 +1435,16 @@ Victoria Valencia, Caitlin Hudon
 - meetup: [https://www.meetup.com/rladies-austin/](https://www.meetup.com/rladies-austin/)
 - twitter: [https://twitter.com/RLadiesAustin](https://twitter.com/RLadiesAustin)
 - email: austin [at] rladies [dot] org
+
+**Dallas**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Jesse Mostipak
+
+- meetup:
+- twitter:
+- email:
 
 **Houston**
 
