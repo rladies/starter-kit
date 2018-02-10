@@ -1070,7 +1070,7 @@ Gabriela de Queiroz, Erin LeDell, Ciera Martinez
 Julia Stewart Lowndes, Allison Horst, Jamie Afflerbach
 
 - meetup: [https://www.meetup.com/rladies-santa-barbara/](https://www.meetup.com/rladies-santa-barbara/)
-- twitter:
+- twitter: [https://twitter.com/RLadiesSB](https://twitter.com/RLadiesSB)
 - email: santabarbara [at] rladies [dot] org
 
 
