@@ -972,11 +972,11 @@ Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia
 
 **Loughborough**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
 Theresa Elise Wege, Kerry Rosenthal, Steph Farley
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-loughborough/](https://www.meetup.com/rladies-loughborough/)
 - twitter: 
 - email: loughborough [at] rladies [dot] org
 
@@ -1511,7 +1511,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
