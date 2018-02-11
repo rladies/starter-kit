@@ -1486,11 +1486,11 @@ Samantha Toet
 
 **Seattle**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Chaya Eastwood Jones
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-seattle/](https://www.meetup.com/rladies-seattle/)
 - twitter: [https://twitter.com/RLadiesSeattle](https://twitter.com/RLadiesSeattle)
 - email: seattle [at] rladies [dot] org
 
