@@ -1218,6 +1218,18 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 - email: ames [at] rladies [dot] org
 
 
+### Kentucky
+
+**Louisville** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Samantha Carlisle
+
+- meetup: 
+- twitter:
+- email: 
+
 ### Louisiana
 
 **New Orleans** 
