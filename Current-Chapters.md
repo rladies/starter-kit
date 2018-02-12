@@ -1159,7 +1159,7 @@ Gina Griffin, Saarah Kison
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Melinda Higgins
+Melinda Higgins, Sarah Bowden, Emilie Seena, Patricia Castro
 
 - meetup: 
 - twitter:
