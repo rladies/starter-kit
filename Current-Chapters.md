@@ -105,7 +105,6 @@ Theresa Elise Wege, Veronica Llorens
 - email: leuven [at] rladies [dot] org
 
 
-
 ## Benin
 
 **Cotonou**
@@ -585,6 +584,18 @@ Parvaneh Shafiei
 - meetup: [https://www.meetup.com/R-Ladies-Milan/](https://www.meetup.com/R-Ladies-Milan/)
 - twitter: [https://twitter.com/RLadiesMilan](https://twitter.com/@RLadiesMilan)
 - email: milan [at] rladies [dot] org
+
+## Kenya
+
+**Nairobi**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Muthoni Wanyoike 
+
+- meetup: 
+- twitter:
+- email: 
 
 
 ## Lebanon
