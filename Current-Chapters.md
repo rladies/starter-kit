@@ -1313,11 +1313,11 @@ Janani Ravi
 
 ### Minnesota
 
-**Minneapolis**
+**Minneapolis/Saint Paul**
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Organizer: Christina Knudson
+Christina Knudson, Kierstin Catlett
 
 - meetup: [http://www.meetup.com/RLadiesTC/](http://www.meetup.com/RLadiesTC/)
 - twitter: [https://twitter.com/RLadiesTC](https://twitter.com/RLadiesTC])
