@@ -1,6 +1,7 @@
 # Logo
 
-**Official colour**: #88398a
+**Official colour**: #88398a (Purple) & #a7a9ac (Gray)
+**Official font**: Open Sans 
 
 * Logo square (with and without text)
 * Logo horizontal (with text)
