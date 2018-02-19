@@ -821,7 +821,7 @@ Theoni Photopoulou
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Renee Schoeman
+Renee Schoeman, Vebashini Naidoo
 
 - meetup: 
 - twitter: 
