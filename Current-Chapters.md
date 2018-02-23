@@ -1485,7 +1485,7 @@ Victoria Valencia, Caitlin Hudon
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Jesse Mostipak, Ye Jiang
+Jesse Mostipak
 
 - meetup:
 - twitter:
