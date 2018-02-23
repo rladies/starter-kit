@@ -1276,6 +1276,18 @@ Jennifer Fleck
 - twitter: [https://twitter.com/RLadiesPortland](https://twitter.com/RLadiesPortland)
 - email: portland [at] rladies [dot] org
 
+### Maryland
+
+**Baltimore**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Stephanie Hicks, Alexis Norris
+
+- meetup: 
+- twitter: 
+- email:
+
 
 ### Massachusetts
 
