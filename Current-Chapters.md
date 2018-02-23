@@ -30,7 +30,7 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Sol Represa
+Sol Represa, Myrian Aguilar
 
 - meetup: 
 - twitter: 
