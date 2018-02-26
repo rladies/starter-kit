@@ -38,11 +38,11 @@ Sol Represa, Myrian Aguilar
 
 **Mendoza**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
 Ana Laura Diedrichs
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-mendoza/](https://www.meetup.com/rladies-mendoza/) 
 - twitter: 
 - email: mendoza [at] rladies [dot] org
 
@@ -1556,7 +1556,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
