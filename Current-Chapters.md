@@ -819,11 +819,11 @@ Theoni Photopoulou
 
 **Johannesburg**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Renee Schoeman, Vebashini Naidoo
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-johannesburg/](https://www.meetup.com/rladies-johannesburg/) 
 - twitter: 
 - email:
 
@@ -1556,7 +1556,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
