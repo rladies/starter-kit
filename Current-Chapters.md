@@ -711,11 +711,11 @@ Kim Fitter, Anna Martin Fergusson, Anjali Gupta
 
 **Oslo**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
 Anne Claire Fouilloux, Athanasia Monika Mowinckel, Lene Norderhaug Drosdal, Aurora Voje
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-oslo/](https://www.meetup.com/rladies-oslo/) 
 - twitter:
 - email: 
 
@@ -1556,7 +1556,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
