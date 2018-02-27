@@ -48,7 +48,7 @@ Ana Laura Diedrichs
 
 **Santa Rosa**
 
-![](https://img.shields.io/badge/status-active_quiet-blue.svg)
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Yanina Bellini Saibene, Marina Cock
 
