@@ -658,7 +658,7 @@ Ivana Kecojevic
 Abir Alaoui
 
 - meetup: [https://www.meetup.com/rladies-rabat/](https://www.meetup.com/rladies-rabat/)
-- twitter:
+- twitter: [https://twitter.com/RLadiesRabat](https://twitter.com/RLadiesRabat)
 - email: 
 
 ## Netherlands
