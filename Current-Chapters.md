@@ -618,7 +618,7 @@ Sondos Atwi
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Silvia Eunice Gutiérrez de la Torre, Maria Ortiz
+Silvia Eunice Gutiérrez de la Torre, Maria Ortiz, Mariana Carmona, Mariana Godina
 
 - meetup: [https://www.meetup.com/rladiescdmx/](https://www.meetup.com/rladiescdmx/)
 - twitter: [https://twitter.com/RLadiesCDMX](https://twitter.com/RLadiesCDMX)
