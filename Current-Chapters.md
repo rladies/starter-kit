@@ -43,7 +43,7 @@ Sol Represa, Myrian Aguilar
 Ana Laura Diedrichs
 
 - meetup: [https://www.meetup.com/rladies-mendoza/](https://www.meetup.com/rladies-mendoza/) 
-- twitter: 
+- twitter: [https://twitter.com/RLadiesMza](https://twitter.com/RLadiesMza)
 - email: mendoza [at] rladies [dot] org
 
 **Santa Rosa**
