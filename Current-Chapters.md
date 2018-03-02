@@ -716,8 +716,8 @@ Kim Fitter, Anna Martin Fergusson, Anjali Gupta
 Anne Claire Fouilloux, Athanasia Monika Mowinckel, Lene Norderhaug Drosdal, Aurora Voje, Isabelle Valette
 
 - meetup: [https://www.meetup.com/rladies-oslo/](https://www.meetup.com/rladies-oslo/) 
-- twitter: https://twitter.com/RLadies_Oslo
-- email: oslo@rladies.org
+- twitter: [https://twitter.com/RLadies_Oslo](https://twitter.com/RLadies_Oslo)
+- email: oslo [at] rladies [dot] org
 
 ## Peru
 
