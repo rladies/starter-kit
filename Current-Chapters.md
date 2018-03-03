@@ -1319,8 +1319,8 @@ Paige Patrick
 
 Janani Ravi
 
-- meetup: [https://www.meetup.com/rladies-east-lansing/][https://www.meetup.com/rladies-east-lansing/]
-- twitter: [https://twitter.com/RLadiesELansing][https://twitter.com/RLadiesELansing]
+- meetup: [https://www.meetup.com/rladies-east-lansing/](https://www.meetup.com/rladies-east-lansing/)
+- twitter: [https://twitter.com/RLadiesELansing](https://twitter.com/RLadiesELansing)
 - email: eastlansing [at] rladies [dot] org
 
 ### Minnesota
