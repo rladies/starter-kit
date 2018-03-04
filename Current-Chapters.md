@@ -1492,11 +1492,11 @@ Victoria Valencia, Caitlin Hudon
 
 **Dallas**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Jesse Mostipak
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-dallas/](https://www.meetup.com/rladies-dallas/)
 - twitter:
 - email:
 
@@ -1565,7 +1565,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
