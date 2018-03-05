@@ -57,6 +57,15 @@ Yanina Bellini Saibene, Marina Cock
 - facebook: [https://www.facebook.com/pg/RLadiesSR](https://www.facebook.com/pg/RLadiesSR)
 - email: santarosa [at] rladies [dot] org
 
+**Ushuaia**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Lucía Rodríguez Planes
+
+- meetup: 
+- twitter: 
+- email:
 
 
 ## Australia
