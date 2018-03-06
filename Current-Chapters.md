@@ -1303,8 +1303,8 @@ Jennifer Fleck
 Stephanie Hicks, Alexis Norris
 
 - meetup: [https://www.meetup.com/rladies-baltimore/](https://www.meetup.com/rladies-baltimore/)
-- twitter: 
-- email:
+- twitter: [https://twitter.com/RLadiesBmore](https://twitter.com/RLadiesBmore)
+- email: bmore [at] rladies [dot] org
 
 
 ### Massachusetts
