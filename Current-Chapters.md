@@ -1356,6 +1356,16 @@ Christina Knudson, Kierstin Catlett
 
 ### Missouri
 
+**Kansas City**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Boryana Koseva
+
+- meetup:
+- twitter:
+- email:
+
 **St.Louis**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
