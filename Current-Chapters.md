@@ -1404,6 +1404,16 @@ Soumya Kalra
 
 ### North Carolina
 
+**Charlotte**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Jessica Dunn
+
+- meetup: 
+- twitter: 
+- email: 
+
 **RTP (Research Triangle Park)** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
