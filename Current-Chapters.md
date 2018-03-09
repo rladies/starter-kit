@@ -896,6 +896,17 @@ Andrea Komljenovic, Ninon Mounier, Sarvenaz Choobdar, Sina R&uuml;eger
 - facebook: [https://www.facebook.com/RLadiesLausanne/]()
 - newsletter: [goo.gl/X5H6u5](goo.gl/X5H6u5)
 
+**Zurich**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Lisa-Christina Winter
+
+- meetup:
+- twitter:
+- email:
+
+
 ## Taiwan
 
 **Taipei** 
