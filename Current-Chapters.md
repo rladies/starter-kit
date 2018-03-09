@@ -30,7 +30,7 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Sol Represa, Myrian Aguilar
+Sol Represa, Myrian Aguilar, Daniela Esquivel
 
 - meetup: 
 - twitter: 
@@ -77,7 +77,7 @@ Lucía Rodríguez Planes
 Goknur Giner, Sepideh Foroutan, Marie Trussart 
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
-- twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
+- twitter: [https://twitter.com/RLadiesMelb](https://twitter.com/RLadiesMelb)
 - facebook: [https://www.facebook.com/RladiesMelbourne](https://www.facebook.com/RladiesMelbourne)
 - email: melbourne [at] rladies [dot] org
 
