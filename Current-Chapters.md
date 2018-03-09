@@ -1181,6 +1181,16 @@ Mine Dogucu, Fanny Chow, Sarah Cohen
 - twitter: [https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
 - email: sarasota [at] rladies [dot] org
 
+**Tallahassee**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Jamie Quinn, Jennifer McHenry
+
+- meetup: 
+- twitter:
+- email:
+
 **Tampa**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
