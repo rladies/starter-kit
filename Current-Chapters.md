@@ -600,7 +600,7 @@ Parvaneh Shafiei
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Muthoni Wanyoike 
+Muthoni Wanyoike, Shelmith Kariuki 
 
 - meetup: 
 - twitter:
