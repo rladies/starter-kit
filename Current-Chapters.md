@@ -1073,6 +1073,17 @@ Adriana Picoral
 
 ### California
 
+**Irvine**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Alyssa Columbus
+
+- meetup:
+- twitter:
+- email:
+
+
 **Los Angeles** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
