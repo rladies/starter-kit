@@ -1207,7 +1207,7 @@ Mine Dogucu, Fanny Chow, Sarah Cohen
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Jamie Quinn, Jennifer McHenry
+Jamie Quinn, Jennifer McHenry, Shannon Boyle
 
 - meetup: 
 - twitter:
