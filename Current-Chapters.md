@@ -1227,7 +1227,7 @@ Jamie Quinn, Jennifer McHenry, Shannon Boyle
 
 Gina Griffin, Saarah Kison
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-tampa/](https://www.meetup.com/rladies-tampa/)
 - twitter:
 - email:
 
