@@ -1357,7 +1357,7 @@ Stephanie Hicks, Alexis Norris
 
 Marianna Foos
 
-- meetup: [https://www.meetup.com/R-Ladies-Boston/](https://www.meetup.com/R-Ladies-Boston/)
+- meetup: [https://www.meetup.com/rladies-boston/](https://www.meetup.com/rladies-boston/)
 - twitter: [https://twitter.com/RLadiesBoston](https://twitter.com/RLadiesBoston)
 - email: boston [at] rladies [dot] org
 
