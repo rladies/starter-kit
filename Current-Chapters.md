@@ -149,7 +149,7 @@ Celina Rebello, Thais Viana
 
 Mariana Mendes 
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Americana/](https://www.meetup.com/R-Ladies-Americana/)
 - twitter: [https://twitter.com/RLadiesAME](https://twitter.com/RLadiesAME)
 - email: 
 
