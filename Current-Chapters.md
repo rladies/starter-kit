@@ -932,7 +932,7 @@ Currently a subgroup of the Taiwan R Users Group meetup.
 
 Hazel Kavili
 
-- meetup: [https://www.meetup.com/R-Ladies-Istanbul/](https://www.meetup.com/R-Ladies-Istanbul/)
+- meetup: [https://www.meetup.com/rladies-istanbul/](https://www.meetup.com/rladies-istanbul/)
 - twitter: [https://twitter.com/RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
 - email: istanbul [at] rladies [dot] org
 
