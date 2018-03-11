@@ -137,7 +137,7 @@ Nadejda Sero, Benedicta Essuon
 
 Celina Rebello, Thais Viana
 
-- meetup: [https://www.meetup.com/R-Ladies-Rio-de-Janeiro/](https://www.meetup.com/R-Ladies-Rio-de-Janeiro/)
+- meetup: [https://www.meetup.com/R-Ladies-Rio/](https://www.meetup.com/R-Ladies-Rio/)
 - twitter: [https://twitter.com/RLadiesRio](https://twitter.com/RLadiesRio)
 - email: rio [at] rladies [dot] org
 
