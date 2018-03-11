@@ -531,7 +531,7 @@ Namita Joseph
 
 Praveena Mathews
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-chennai/](https://www.meetup.com/rladies-chennai/)
 - twitter:
 - email: chennai [at] rladies [dot] org
 
