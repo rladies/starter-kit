@@ -337,7 +337,7 @@ Ana Jankovic
 
 Gabriela Sandoval, Riva Quiroga
 
-- meetup: [https://www.meetup.com/es/rladies-scl/](https://www.meetup.com/es/rladies-scl/)
+- meetup: [https://www.meetup.com/rladies-scl/](https://www.meetup.com/rladies-scl/)
 - facebook: [https://www.facebook.com/RLadiesSantiago/](https://www.facebook.com/RLadiesSantiago/)
 - twitter: [https://twitter.com/RLadiesSantiago](https://twitter.com/RLadiesSantiago)
 - email: santiago [at] rladies [dot] org
