@@ -950,7 +950,7 @@ Hazel Kavili
 
 Necla Kayaalp
 
-- meetup: [https://www.meetup.com/R-Ladies-%C4%B0zmiR/](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
+- meetup: [https://www.meetup.com/R-Ladies-İzmiR/](https://www.meetup.com/R-Ladies-İzmiR/)
 - twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
 - email: izmir [at] rladies [dot] org
 
