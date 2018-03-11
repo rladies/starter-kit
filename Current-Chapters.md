@@ -478,7 +478,7 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 Ágnes Salánki, Eszter Windhager-Pokol, Zsuzsanna Szabó
 
-- meetup: [https://meetup.com/R-Ladies-Budapest/](https://meetup.com/R-Ladies-Budapest/)
+- meetup: [https://www.meetup.com/R-Ladies-Budapest/](https://www.meetup.com/R-Ladies-Budapest/)
 - twitter: [https://twitter.com/RLadiesBudapest](https://twitter.com/RLadiesBudapest)
 - facebook: [https://www.facebook.com/RLadiesBudapest/](https://www.facebook.com/RLadiesBudapest/)
 - email: budapest [at] rladies [dot] org
