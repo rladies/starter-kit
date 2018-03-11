@@ -1232,7 +1232,7 @@ Gina Griffin, Saarah Kison
 
 Melinda Higgins, Sarah Bowden, Emilie Seena, Patricia Castro
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-atlanta/](https://www.meetup.com/rladies-atlanta/) 
 - twitter:
 - email: 
 
@@ -1626,7 +1626,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas, Atlanta
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
