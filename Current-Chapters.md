@@ -437,7 +437,7 @@ Rita Giordano
 
 Liili Abuladze, Tamuna Margievi, Nino Melitauri
 
-- meetup: [https://www.meetup.com/R-Ladies-Tbilisi/](https://www.meetup.com/R-Ladies-Tbilisi/)
+- meetup: [https://www.meetup.com/rladies-tbilisi/](https://www.meetup.com/rladies-tbilisi/)
 - twitter: [https://twitter.com/RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
 - facebook: [https://m.facebook.com/rladiestbilisi](https://m.facebook.com/rladiestbilisi)
 - email: tbilisi [at] rladies [dot] org
