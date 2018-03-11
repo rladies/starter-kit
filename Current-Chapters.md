@@ -159,7 +159,7 @@ Mariana Mendes
 
 Natalia Murgel, Haydée Svab
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Sao-Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo) 
 - twitter: 
 - email: saopaulo [at] rladies [dot] org
 
