@@ -1412,7 +1412,7 @@ Boryana Koseva
 
 Jenine Harris
 
-- meetup:
+- meetup: [https://www.meetup.com/R-Ladies-St-Louis/](https://www.meetup.com/R-Ladies-St-Louis/)
 - twitter:
 - email:
 
