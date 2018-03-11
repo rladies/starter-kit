@@ -1075,7 +1075,7 @@ Daniela Vazquez, Natalia da Silva
 
 Adriana Picoral
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-tucson-az/](https://www.meetup.com/rladies-tucson-az/)
 - twitter:
 - email: tuscon [at] rladies [dot] org
 
