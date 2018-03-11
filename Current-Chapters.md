@@ -289,6 +289,16 @@ Corinne Riddell, Kathryn Morrison
 
 ## Colombia
 
+**Bogotá** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Verónica Toro
+
+- meetup: [https://www.meetup.com/R-Ladies-Bogota/](https://www.meetup.com/R-Ladies-Bogota/)
+- twitter:
+- email: 
+
 **Bucaramanga** 
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
