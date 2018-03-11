@@ -1485,7 +1485,7 @@ Renata Gerecke
 
 Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas 
 
-- meetup: [https://www.meetup.com/R-Ladies-Columbus/](https://www.meetup.com/R-Ladies-Columbus/)
+- meetup: [https://www.meetup.com/RLadies-Columbus/](https://www.meetup.com/RLadies-Columbus/)
 - twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
 - email: columbus [at] rladies [dot] org
 
