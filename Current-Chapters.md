@@ -442,7 +442,7 @@ Liili Abuladze, Tamuna Margievi, Nino Melitauri
 
 Christin Zasada, Noa Tamir, Hannah Tillmann
 
-- meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
+- meetup: [https://www.meetup.com/rladies-berlin/](https://www.meetup.com/rladies-berlin/)
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - facebook: [https://www.facebook.com/RLadiesBerlin](https://www.facebook.com/RLadiesBerlin/?ref=bookmarks)
 - email: berlin [at] rladies [dot] org
