@@ -925,9 +925,7 @@ Lisa-Christina Winter
 
 Juyin Tang, Chiayi Yen, Ning Chen
 
-Currently a subgroup of the Taiwan R Users Group meetup.
-
-- meetup: [http://www.meetup.com/Taiwan-R/](http://www.meetup.com/Taiwan-R/)
+- meetup: [https://www.meetup.com/R-Ladies-Taipei/](https://www.meetup.com/R-Ladies-Taipei/)
 - twitter: 
 - facebook: [https://www.facebook.com/groups/twrladies](https://www.facebook.com/groups/twrladies)
 - email: taipei [at] rladies [dot] org
