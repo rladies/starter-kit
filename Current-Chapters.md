@@ -17,7 +17,7 @@ The chapters are grouped by country and the names of the organizers are listed a
 **Buenos Aires**  
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea
+Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti
 
 Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
@@ -181,7 +181,7 @@ Katiuscia Martos
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
-Lumi Mevi
+Lumi Mevi, ​Iara Dantas de Souza, Thaynah Mayara Oliveira Damasceno, Thaynã Nhaara Oliveira Damasceno
 
 - meetup: [https://www.meetup.com/rladies-natal/](https://www.meetup.com/rladies-natal/)
 - twitter: [https://twitter.com/RladiesNatal](https://twitter.com/RladiesNatal)
@@ -700,7 +700,7 @@ Sara Iacozza
 
 - meetup: 
 - twitter:
-- email: 
+- email: nijmegen [at] rladies [dot] org
 
 **Rotterdam** 
 
@@ -844,7 +844,7 @@ Renee Schoeman, Vebashini Naidoo
 
 - meetup: [https://www.meetup.com/rladies-johannesburg/](https://www.meetup.com/rladies-johannesburg/) 
 - twitter: 
-- email:
+- email: jozi [at] rladies [dot] org
 
 
 ## Spain
@@ -1089,7 +1089,7 @@ Alyssa Columbus
 
 - meetup:
 - twitter:
-- email:
+- email: irvine [at] rladies [dot] org
 
 
 **Los Angeles** 
@@ -1567,7 +1567,7 @@ Jesse Mostipak
 
 - meetup: [https://www.meetup.com/rladies-dallas/](https://www.meetup.com/rladies-dallas/)
 - twitter:
-- email:
+- email: dallas [at] rladies [dot] org
 
 **Houston**
 
