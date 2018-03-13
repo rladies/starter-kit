@@ -1088,7 +1088,7 @@ Adriana Picoral
 Alyssa Columbus
 
 - meetup: [https://www.meetup.com/rladies-irvine/](https://www.meetup.com/rladies-irvine/)
-- twitter:
+- twitter: [https://twitter.com/RLadiesIrvine](https://twitter.com/RLadiesIrvine)
 - email: irvine [at] rladies [dot] org
 
 
