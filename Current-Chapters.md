@@ -1087,7 +1087,7 @@ Adriana Picoral
 
 Alyssa Columbus
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-irvine/](https://www.meetup.com/rladies-irvine/)
 - twitter:
 - email: irvine [at] rladies [dot] org
 
@@ -1634,7 +1634,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas, Atlanta, La Plata
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas, Atlanta, La Plata, Irvine
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
