@@ -40,7 +40,7 @@ Sol Represa, Myrian Aguilar, Daniela Esquivel
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
-Ana Laura Diedrichs
+Ana Laura Diedrichs, Yanela Strappa
 
 - meetup: [https://www.meetup.com/rladies-mendoza/](https://www.meetup.com/rladies-mendoza/) 
 - twitter: [https://twitter.com/RLadiesMza](https://twitter.com/RLadiesMza)
@@ -644,6 +644,16 @@ Silvia Eunice Gutiérrez de la Torre, Maria Ortiz, Mariana Carmona, Mariana Godi
 - facebook: [https://www.facebook.com/rladiescdmx](https://www.facebook.com/rladiescdmx)
 - email: cdmx [at] rladies [dot] org
 - slack: [rladiescdmx.slack.com](rladiescdmx.slack.com)
+
+**Morelia**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Thomai Tsiftsi
+
+- meetup:
+- twitter:
+- email: 
 
 **Queretaro**
 
