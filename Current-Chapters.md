@@ -696,11 +696,11 @@ Abir Alaoui
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
-Karina Kisselite, Tess Korthout, Sophia Crüwell, Janine Khuc, Iris Devries
+Tess Korthout, Janine Khuc, Iris de Vries
 
 - meetup: [https://www.meetup.com/rladies-amsterdam/](https://www.meetup.com/rladies-amsterdam/)
-- twitter:
-- email: 
+- twitter:[https://twitter.com/RLadiesAMS](https://twitter.com/RLadiesAMS)
+- email: amsterdam [at] rladies [dot] org
 
 **Nijmegen** 
 
