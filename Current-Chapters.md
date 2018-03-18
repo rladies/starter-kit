@@ -1315,7 +1315,7 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 
 Samantha Carlisle
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-louisville/](https://www.meetup.com/rladies-louisville/)
 - twitter:
 - email: 
 
@@ -1654,7 +1654,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas, Atlanta, La Plata, Irvine
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas, Atlanta, La Plata, Irvine, Louisville
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
