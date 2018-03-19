@@ -91,6 +91,19 @@ Marija Dmitrijeva
 - twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
 - email: adelaide [at] rladies [dot] org
 
+## Austria
+
+**Linz** 
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
+
+Lucia Gjeltema 
+
+- meetup: [https://www.meetup.com/rladies-linz/](https://www.meetup.com/rladies-linz/)
+- twitter: [https://twitter.com/RladiesLinz](https://twitter.com/RladiesLinz)
+- email: 
+
+
 ## Belgium
 
 **Brussels** 
