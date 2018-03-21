@@ -414,7 +414,8 @@ Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 Margareth Gfrerer
 
 - meetup: 
-- twitter: 
+- twitter:
+- website: [https://r-ladies-addis.github.io/rladies-addis/](https://r-ladies-addis.github.io/rladies-addis/) 
 - email: addisababa [at] rladies [dot] org
 
 
