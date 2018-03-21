@@ -1243,7 +1243,7 @@ Jamie Quinn, Jennifer McHenry, Shannon Boyle
 
 - meetup: 
 - twitter:
-- email:
+- email: tallahassee [at] rladies [dot] org
 
 **Tampa**
 
