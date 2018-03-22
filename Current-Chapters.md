@@ -1059,7 +1059,7 @@ Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia
 Theresa Elise Wege, Kerry Rosenthal, Steph Farley
 
 - meetup: [https://www.meetup.com/rladies-loughborough/](https://www.meetup.com/rladies-loughborough/)
-- twitter: 
+- twitter: [https://twitter.com/RLadiesLboro](https://twitter.com/RLadiesLboro)
 - email: loughborough [at] rladies [dot] org
 
 **Manchester**
