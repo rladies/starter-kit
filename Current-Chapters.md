@@ -74,7 +74,7 @@ Lucía Rodríguez Planes
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Goknur Giner, Sepideh Foroutan, Marie Trussart 
+Goknur Giner, Sepideh Foroutan, Marie Trussart, Roxane Legaie 
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
 - twitter: [https://twitter.com/RLadiesMelb](https://twitter.com/RLadiesMelb)
