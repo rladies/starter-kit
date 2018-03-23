@@ -70,6 +70,28 @@ Lucía Rodríguez Planes
 
 ## Australia
 
+**Adelaide**
+
+![](https://img.shields.io/badge/status-active-blue.svg)
+
+Marija Dmitrijeva
+
+- meetup: [https://www.meetup.com/rladies-adelaide/](https://www.meetup.com/rladies-adelaide/)
+- twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
+- email: adelaide [at] rladies [dot] org
+
+
+**Brisbane**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Paula Andrea
+
+- meetup: 
+- twitter: 
+- email: 
+
+
 **Melbourne** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
@@ -81,15 +103,6 @@ Goknur Giner, Sepideh Foroutan, Marie Trussart, Roxane Legaie
 - facebook: [https://www.facebook.com/RladiesMelbourne](https://www.facebook.com/RladiesMelbourne)
 - email: melbourne [at] rladies [dot] org
 
-**Adelaide**
-
-![](https://img.shields.io/badge/status-active-blue.svg)
-
-Marija Dmitrijeva
-
-- meetup: [https://www.meetup.com/rladies-adelaide/](https://www.meetup.com/rladies-adelaide/)
-- twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
-- email: adelaide [at] rladies [dot] org
 
 ## Austria
 
