@@ -96,7 +96,7 @@ Paula Andrea
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Goknur Giner, Sepideh Foroutan, Marie Trussart, Roxane Legaie 
+Goknur Giner, Soroor Zadeh, Anna Quaglieri, Sepideh Foroutan, Alex Garnham, Marie Trussart, Roxane Legaie, Saskia Freytag 
 
 - meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
 - twitter: [https://twitter.com/RLadiesMelb](https://twitter.com/RLadiesMelb)
