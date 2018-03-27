@@ -1240,9 +1240,9 @@ Kathy Joshi
 
 **Sarasota**
 
-![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Mine Dogucu, Fanny Chow, Sarah Cohen 
+Mine Dogucu, Fanny Chow
 
 - meetup:[https://www.meetup.com/rladies-sarasota/](https://www.meetup.com/rladies-sarasota/)
 - twitter: [https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
