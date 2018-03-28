@@ -749,6 +749,15 @@ Ingrid Szilagyi, Paloma Rojas
 - twitter: [https://twitter.com/RladiesRdam](https://twitter.com/RladiesRdam)
 - email: rotterdam [at] rladies [dot] org
 
+ **Wageningen**
+ 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Veronika Laine
+
+- meetup: 
+- twitter:
+- email: 
 
 ## New Zealand
 
