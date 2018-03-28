@@ -17,7 +17,7 @@ The chapters are grouped by country and the names of the organizers are listed a
 **Buenos Aires**  
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea
+Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti
 
 Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
@@ -30,9 +30,9 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Sol Represa, Myrian Aguilar
+Sol Represa, Myrian Aguilar, Daniela Esquivel
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-la-plata/](https://www.meetup.com/rladies-la-plata/)
 - twitter: 
 - email: 
 
@@ -40,7 +40,7 @@ Sol Represa, Myrian Aguilar
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
-Ana Laura Diedrichs
+Ana Laura Diedrichs, Yanela Strappa
 
 - meetup: [https://www.meetup.com/rladies-mendoza/](https://www.meetup.com/rladies-mendoza/) 
 - twitter: [https://twitter.com/RLadiesMza](https://twitter.com/RLadiesMza)
@@ -70,17 +70,6 @@ Lucía Rodríguez Planes
 
 ## Australia
 
-**Melbourne** 
-
-![](https://img.shields.io/badge/status-active-blue.svg)
-
-Goknur Giner, Sepideh Foroutan, Marie Trussart 
-
-- meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
-- twitter: [https://twitter.com/RLadiesAU](https://twitter.com/RLadiesAU)
-- facebook: [https://www.facebook.com/RladiesMelbourne](https://www.facebook.com/RladiesMelbourne)
-- email: melbourne [at] rladies [dot] org
-
 **Adelaide**
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
@@ -90,6 +79,43 @@ Marija Dmitrijeva
 - meetup: [https://www.meetup.com/rladies-adelaide/](https://www.meetup.com/rladies-adelaide/)
 - twitter: [https://twitter.com/RLadiesAdelaide](https://twitter.com/RLadiesAdelaide)
 - email: adelaide [at] rladies [dot] org
+
+
+**Brisbane**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Paula Andrea
+
+- meetup: 
+- twitter: 
+- email: 
+
+
+**Melbourne** 
+
+![](https://img.shields.io/badge/status-active-blue.svg)
+
+Goknur Giner, Soroor Zadeh, Anna Quaglieri, Sepideh Foroutan, Alex Garnham, Marie Trussart, Roxane Legaie, Saskia Freytag 
+
+- meetup: [https://www.meetup.com/R-Ladies-Melbourne/](https://www.meetup.com/R-Ladies-Melbourne/)
+- twitter: [https://twitter.com/RLadiesMelb](https://twitter.com/RLadiesMelb)
+- facebook: [https://www.facebook.com/RladiesMelbourne](https://www.facebook.com/RladiesMelbourne)
+- email: melbourne [at] rladies [dot] org
+
+
+## Austria
+
+**Linz** 
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
+
+Lucia Gjeltema 
+
+- meetup: [https://www.meetup.com/rladies-linz/](https://www.meetup.com/rladies-linz/)
+- twitter: [https://twitter.com/RladiesLinz](https://twitter.com/RladiesLinz)
+- email: 
+
 
 ## Belgium
 
@@ -137,7 +163,7 @@ Nadejda Sero, Benedicta Essuon
 
 Celina Rebello, Thais Viana
 
-- meetup: [https://www.meetup.com/R-Ladies-Rio-de-Janeiro/](https://www.meetup.com/R-Ladies-Rio-de-Janeiro/)
+- meetup: [https://www.meetup.com/R-Ladies-Rio/](https://www.meetup.com/R-Ladies-Rio/)
 - twitter: [https://twitter.com/RLadiesRio](https://twitter.com/RLadiesRio)
 - email: rio [at] rladies [dot] org
 
@@ -149,7 +175,7 @@ Celina Rebello, Thais Viana
 
 Mariana Mendes 
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Americana/](https://www.meetup.com/R-Ladies-Americana/)
 - twitter: [https://twitter.com/RLadiesAME](https://twitter.com/RLadiesAME)
 - email: 
 
@@ -159,7 +185,7 @@ Mariana Mendes
 
 Natalia Murgel, Haydée Svab
 
-- meetup: 
+- meetup: [https://www.meetup.com/R-Ladies-Sao-Paulo](https://www.meetup.com/R-Ladies-Sao-Paulo) 
 - twitter: 
 - email: saopaulo [at] rladies [dot] org
 
@@ -181,7 +207,7 @@ Katiuscia Martos
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
-Lumi Mevi
+Lumi Mevi, ​Iara Dantas de Souza, Thaynah Mayara Oliveira Damasceno, Thaynã Nhaara Oliveira Damasceno
 
 - meetup: [https://www.meetup.com/rladies-natal/](https://www.meetup.com/rladies-natal/)
 - twitter: [https://twitter.com/RladiesNatal](https://twitter.com/RladiesNatal)
@@ -289,6 +315,16 @@ Corinne Riddell, Kathryn Morrison
 
 ## Colombia
 
+**Bogotá** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Verónica Toro
+
+- meetup: [https://www.meetup.com/R-Ladies-Bogota/](https://www.meetup.com/R-Ladies-Bogota/)
+- twitter:
+- email: 
+
 **Bucaramanga** 
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
@@ -337,7 +373,7 @@ Ana Jankovic
 
 Gabriela Sandoval, Riva Quiroga
 
-- meetup: [https://www.meetup.com/es/rladies-scl/](https://www.meetup.com/es/rladies-scl/)
+- meetup: [https://www.meetup.com/rladies-scl/](https://www.meetup.com/rladies-scl/)
 - facebook: [https://www.facebook.com/RLadiesSantiago/](https://www.facebook.com/RLadiesSantiago/)
 - twitter: [https://twitter.com/RLadiesSantiago](https://twitter.com/RLadiesSantiago)
 - email: santiago [at] rladies [dot] org
@@ -391,7 +427,8 @@ Elena Chicaiza, Carolina Cañizares, Rosi Bolaños
 Margareth Gfrerer
 
 - meetup: 
-- twitter: 
+- twitter:
+- website: [https://r-ladies-addis.github.io/rladies-addis/](https://r-ladies-addis.github.io/rladies-addis/) 
 - email: addisababa [at] rladies [dot] org
 
 
@@ -427,7 +464,7 @@ Rita Giordano
 
 Liili Abuladze, Tamuna Margievi, Nino Melitauri
 
-- meetup: [https://www.meetup.com/R-Ladies-Tbilisi/](https://www.meetup.com/R-Ladies-Tbilisi/)
+- meetup: [https://www.meetup.com/rladies-tbilisi/](https://www.meetup.com/rladies-tbilisi/)
 - twitter: [https://twitter.com/RLadiesTbilisi](https://twitter.com/RLadiesTbilisi)
 - facebook: [https://m.facebook.com/rladiestbilisi](https://m.facebook.com/rladiestbilisi)
 - email: tbilisi [at] rladies [dot] org
@@ -442,7 +479,7 @@ Liili Abuladze, Tamuna Margievi, Nino Melitauri
 
 Christin Zasada, Noa Tamir, Hannah Tillmann
 
-- meetup: [https://www.meetup.com/R-Ladies-Berlin/](https://www.meetup.com/R-Ladies-Berlin/)
+- meetup: [https://www.meetup.com/rladies-berlin/](https://www.meetup.com/rladies-berlin/)
 - twitter: [https://twitter.com/RLadiesBerlin](https://twitter.com/RLadiesBerlin)
 - facebook: [https://www.facebook.com/RLadiesBerlin](https://www.facebook.com/RLadiesBerlin/?ref=bookmarks)
 - email: berlin [at] rladies [dot] org
@@ -478,7 +515,7 @@ Daloha Rodriguez-Molina, Pamela Raquel Matias Garcia, Dan Huang, Choi Wai Maggie
 
 Ágnes Salánki, Eszter Windhager-Pokol, Zsuzsanna Szabó
 
-- meetup: [https://meetup.com/R-Ladies-Budapest/](https://meetup.com/R-Ladies-Budapest/)
+- meetup: [https://www.meetup.com/R-Ladies-Budapest/](https://www.meetup.com/R-Ladies-Budapest/)
 - twitter: [https://twitter.com/RLadiesBudapest](https://twitter.com/RLadiesBudapest)
 - facebook: [https://www.facebook.com/RLadiesBudapest/](https://www.facebook.com/RLadiesBudapest/)
 - email: budapest [at] rladies [dot] org
@@ -531,7 +568,7 @@ Namita Joseph
 
 Praveena Mathews
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-chennai/](https://www.meetup.com/rladies-chennai/)
 - twitter:
 - email: chennai [at] rladies [dot] org
 
@@ -600,7 +637,7 @@ Parvaneh Shafiei
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Muthoni Wanyoike 
+Muthoni Wanyoike, Shelmith Kariuki 
 
 - meetup: 
 - twitter:
@@ -634,6 +671,16 @@ Silvia Eunice Gutiérrez de la Torre, Maria Ortiz, Mariana Carmona, Mariana Godi
 - facebook: [https://www.facebook.com/rladiescdmx](https://www.facebook.com/rladiescdmx)
 - email: cdmx [at] rladies [dot] org
 - slack: [rladiescdmx.slack.com](rladiescdmx.slack.com)
+
+**Morelia**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Thomai Tsiftsi
+
+- meetup:
+- twitter:
+- email: 
 
 **Queretaro**
 
@@ -676,11 +723,11 @@ Abir Alaoui
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
-Karina Kisselite, Tess Korthout, Sophia Crüwell, Janine Khuc
+Tess Korthout, Janine Khuc, Iris de Vries
 
 - meetup: [https://www.meetup.com/rladies-amsterdam/](https://www.meetup.com/rladies-amsterdam/)
-- twitter:
-- email: 
+- twitter:[https://twitter.com/RLadiesAMS](https://twitter.com/RLadiesAMS)
+- email: amsterdam [at] rladies [dot] org
 
 **Nijmegen** 
 
@@ -690,7 +737,7 @@ Sara Iacozza
 
 - meetup: 
 - twitter:
-- email: 
+- email: nijmegen [at] rladies [dot] org
 
 **Rotterdam** 
 
@@ -702,6 +749,15 @@ Ingrid Szilagyi, Paloma Rojas
 - twitter: [https://twitter.com/RladiesRdam](https://twitter.com/RladiesRdam)
 - email: rotterdam [at] rladies [dot] org
 
+ **Wageningen**
+ 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Veronika Laine
+
+- meetup: 
+- twitter:
+- email: 
 
 ## New Zealand
 
@@ -821,7 +877,7 @@ Nadica Miljković, Vesna Oro
 
 Theoni Photopoulou
 
-- meetup: [https://www.meetup.com/R-Ladies-Cape-Town/](https://www.meetup.com/rladies-cape-town/)
+- meetup: [https://www.meetup.com/rladies-cape-town/](https://www.meetup.com/rladies-cape-town/)
 - twitter: [https://twitter.com/RLadiesCapeTown](https://twitter.com/RLadiesCapeTown)
 - email: capetown [at] rladies [dot] org
 
@@ -834,7 +890,7 @@ Renee Schoeman, Vebashini Naidoo
 
 - meetup: [https://www.meetup.com/rladies-johannesburg/](https://www.meetup.com/rladies-johannesburg/) 
 - twitter: 
-- email:
+- email: jozi [at] rladies [dot] org
 
 
 ## Spain
@@ -896,6 +952,17 @@ Andrea Komljenovic, Ninon Mounier, Sarvenaz Choobdar, Sina R&uuml;eger
 - facebook: [https://www.facebook.com/RLadiesLausanne/]()
 - newsletter: [goo.gl/X5H6u5](goo.gl/X5H6u5)
 
+**Zurich**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Lisa-Christina Winter
+
+- meetup:
+- twitter:
+- email:
+
+
 ## Taiwan
 
 **Taipei** 
@@ -904,9 +971,7 @@ Andrea Komljenovic, Ninon Mounier, Sarvenaz Choobdar, Sina R&uuml;eger
 
 Juyin Tang, Chiayi Yen, Ning Chen
 
-Currently a subgroup of the Taiwan R Users Group meetup.
-
-- meetup: [http://www.meetup.com/Taiwan-R/](http://www.meetup.com/Taiwan-R/)
+- meetup: [https://www.meetup.com/R-Ladies-Taipei/](https://www.meetup.com/R-Ladies-Taipei/)
 - twitter: 
 - facebook: [https://www.facebook.com/groups/twrladies](https://www.facebook.com/groups/twrladies)
 - email: taipei [at] rladies [dot] org
@@ -921,7 +986,7 @@ Currently a subgroup of the Taiwan R Users Group meetup.
 
 Hazel Kavili
 
-- meetup: [https://www.meetup.com/R-Ladies-Istanbul/](https://www.meetup.com/R-Ladies-Istanbul/)
+- meetup: [https://www.meetup.com/rladies-istanbul/](https://www.meetup.com/rladies-istanbul/)
 - twitter: [https://twitter.com/RLadiesIstanbul](https://twitter.com/RLadiesIstanbul)
 - email: istanbul [at] rladies [dot] org
 
@@ -931,7 +996,7 @@ Hazel Kavili
 
 Necla Kayaalp
 
-- meetup: [https://www.meetup.com/R-Ladies-%C4%B0zmiR/](https://www.meetup.com/R-Ladies-%C4%B0zmiR/)
+- meetup: [https://www.meetup.com/R-Ladies-İzmiR/](https://www.meetup.com/R-Ladies-İzmiR/)
 - twitter: [https://twitter.com/RLadiesIzmir](https://twitter.com/RLadiesIzmir)
 - email: izmir [at] rladies [dot] org
 
@@ -1016,7 +1081,7 @@ Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia
 Theresa Elise Wege, Kerry Rosenthal, Steph Farley
 
 - meetup: [https://www.meetup.com/rladies-loughborough/](https://www.meetup.com/rladies-loughborough/)
-- twitter: 
+- twitter: [https://twitter.com/RLadiesLboro](https://twitter.com/RLadiesLboro)
 - email: loughborough [at] rladies [dot] org
 
 **Manchester**
@@ -1056,11 +1121,22 @@ Daniela Vazquez, Natalia da Silva
 
 Adriana Picoral
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-tucson-az/](https://www.meetup.com/rladies-tucson-az/)
 - twitter:
 - email: tuscon [at] rladies [dot] org
 
 ### California
+
+**Irvine**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Alyssa Columbus
+
+- meetup: [https://www.meetup.com/rladies-irvine/](https://www.meetup.com/rladies-irvine/)
+- twitter: [https://twitter.com/RLadiesIrvine](https://twitter.com/RLadiesIrvine)
+- email: irvine [at] rladies [dot] org
+
 
 **Los Angeles** 
 
@@ -1167,19 +1243,29 @@ Laura Gabrysiak Gómez, Catalina Arango, Cris Vidal
 
 Kathy Joshi
 
-- meetup: [https://www.meetup.com/R-Ladies-Orlando/](https://www.meetup.com/R-Ladies-Orlando/)
+- meetup: [https://www.meetup.com/rladies-orlando/](https://www.meetup.com/rladies-orlando/)
 - twitter: [https://twitter.com/RLadiesOrlando](https://twitter.com/RLadiesOrlando)
 - email: orlando [at] rladies [dot] org
 
 **Sarasota**
 
-![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Mine Dogucu, Fanny Chow, Sarah Cohen 
+Mine Dogucu, Fanny Chow
 
 - meetup:[https://www.meetup.com/rladies-sarasota/](https://www.meetup.com/rladies-sarasota/)
 - twitter: [https://twitter.com/RLadiesSarasota](https://twitter.com/RLadiesSarasota)
 - email: sarasota [at] rladies [dot] org
+
+**Tallahassee**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Jamie Quinn, Jennifer McHenry, Shannon Boyle
+
+- meetup: 
+- twitter:
+- email: tallahassee [at] rladies [dot] org
 
 **Tampa**
 
@@ -1187,7 +1273,7 @@ Mine Dogucu, Fanny Chow, Sarah Cohen
 
 Gina Griffin, Saarah Kison
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-tampa/](https://www.meetup.com/rladies-tampa/)
 - twitter:
 - email:
 
@@ -1200,7 +1286,7 @@ Gina Griffin, Saarah Kison
 
 Melinda Higgins, Sarah Bowden, Emilie Seena, Patricia Castro
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-atlanta/](https://www.meetup.com/rladies-atlanta/) 
 - twitter:
 - email: 
 
@@ -1265,7 +1351,7 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 
 Samantha Carlisle
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-louisville/](https://www.meetup.com/rladies-louisville/)
 - twitter:
 - email: 
 
@@ -1315,7 +1401,7 @@ Stephanie Hicks, Alexis Norris
 
 Marianna Foos
 
-- meetup: [https://www.meetup.com/R-Ladies-Boston/](https://www.meetup.com/R-Ladies-Boston/)
+- meetup: [https://www.meetup.com/rladies-boston/](https://www.meetup.com/rladies-boston/)
 - twitter: [https://twitter.com/RLadiesBoston](https://twitter.com/RLadiesBoston)
 - email: boston [at] rladies [dot] org
 
@@ -1356,13 +1442,23 @@ Christina Knudson, Kierstin Catlett
 
 ### Missouri
 
+**Kansas City**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Boryana Koseva
+
+- meetup:
+- twitter:
+- email:
+
 **St.Louis**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
 Jenine Harris
 
-- meetup:
+- meetup: [https://www.meetup.com/R-Ladies-St-Louis/](https://www.meetup.com/R-Ladies-St-Louis/)
 - twitter:
 - email:
 
@@ -1404,6 +1500,16 @@ Soumya Kalra
 
 ### North Carolina
 
+**Charlotte**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Jessica Dunn
+
+- meetup: 
+- twitter: 
+- email: 
+
 **RTP (Research Triangle Park)** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
@@ -1433,7 +1539,7 @@ Renata Gerecke
 
 Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas 
 
-- meetup: [https://www.meetup.com/R-Ladies-Columbus/](https://www.meetup.com/R-Ladies-Columbus/)
+- meetup: [https://www.meetup.com/RLadies-Columbus/](https://www.meetup.com/RLadies-Columbus/)
 - twitter: [https://twitter.com/RLadiesColumbus](https://twitter.com/RLadiesColumbus)
 - email: columbus [at] rladies [dot] org
 
@@ -1476,6 +1582,16 @@ Jane Kong
 
 ### Tennessee 
 
+**Memphis**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Scarlett Evans
+
+- meetup:
+- twitter:
+- email:
+
 **Nashville**
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
@@ -1507,7 +1623,7 @@ Jesse Mostipak
 
 - meetup: [https://www.meetup.com/rladies-dallas/](https://www.meetup.com/rladies-dallas/)
 - twitter:
-- email:
+- email: dallas [at] rladies [dot] org
 
 **Houston**
 
@@ -1574,7 +1690,7 @@ Kelly Obriant, Pri Oberoi
 
 ## Meetup account ownership
 
-- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas
+- SF (Gabriela de Queiroz) owns: SF, LA, Paris, Liverpool (UK), Porto Alegre, Valencia, Leuven, Seattle, Cambridge, Copenhagen, Auckland, Lausanne, Rotterdam, East Lansing, Lima, Santa Barbara, Amsterdam, Loughborough, Mendoza, Baltimore, Oslo, Johannesburg, Rabat, Tiruchirappalli, Dallas, Atlanta, La Plata, Irvine, Louisville
 - London (UK) (Chiin-Rui Tan) owns: London (UK), Madrid, Barcelona 
 - NY (Soumya Kalra) owns: NY, Boston, DC
 - Istanbul (Hazel Kavili) owns: Istanbul
