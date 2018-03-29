@@ -1352,7 +1352,7 @@ Samantha Tyner, Tesia Posekany, Jacqueline Farrell, Natalia da Silva
 Samantha Carlisle
 
 - meetup: [https://www.meetup.com/rladies-louisville/](https://www.meetup.com/rladies-louisville/)
-- twitter:
+- twitter: [https://twitter.com/RLadiesLouville](https://twitter.com/RLadiesLouville)
 - email: 
 
 ### Louisiana
