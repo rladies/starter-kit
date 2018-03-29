@@ -144,11 +144,11 @@ Theresa Elise Wege, Veronica Llorens
 
 **Cotonou**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
 Nadejda Sero, Benedicta Essuon 
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-cotonou/](https://www.meetup.com/rladies-cotonou/) 
 - twitter: [https://twitter.com/RLadiesCtn](https://twitter.com/RLadiesCtn)
 - email: cotonou [at] rladies [dot] org
 
