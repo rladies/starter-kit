@@ -1068,7 +1068,7 @@ Ellen Talbot
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Chiin-Rui Tan, Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia
+Alice Daish, Claudia Vitolo, Hannah Frick, Grace Meyer, Kasia Kulma, Erle Holgersen
 
 - meetup: [https://www.meetup.com/rladies-london/](https://www.meetup.com/rladies-london/)
 - twitter: [https://twitter.com/RLadiesLondon](https://twitter.com/RLadiesLondon)
