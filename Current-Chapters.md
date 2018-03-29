@@ -1282,9 +1282,9 @@ Gina Griffin, Saarah Kison
 
 **Atlanta**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
 
-Melinda Higgins, Sarah Bowden, Emilie Seena, Patricia Castro
+Melinda Higgins, Emilie Seena, Patricia Castro
 
 - meetup: [https://www.meetup.com/rladies-atlanta/](https://www.meetup.com/rladies-atlanta/) 
 - twitter:
