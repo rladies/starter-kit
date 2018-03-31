@@ -1287,7 +1287,7 @@ Gina Griffin, Saarah Kison
 Melinda Higgins, Emilie Seena, Patricia Castro
 
 - meetup: [https://www.meetup.com/rladies-atlanta/](https://www.meetup.com/rladies-atlanta/) 
-- twitter:
+- twitter: [https://twitter.com/RLadiesAtlanta](https://twitter.com/RLadiesAtlanta)
 - email: 
 
 
