@@ -46,6 +46,16 @@ Ana Laura Diedrichs, Yanela Strappa
 - twitter: [https://twitter.com/RLadiesMza](https://twitter.com/RLadiesMza)
 - email: mendoza [at] rladies [dot] org
 
+**Resistencia**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Patricia Loto
+
+- meetup: 
+- twitter: 
+- email:
+
 **Santa Rosa**
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
