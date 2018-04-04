@@ -417,6 +417,16 @@ Lissette Rodriguez
 
 ## Ecuador
 
+**Guayaquil** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Zulemma Bazurto
+
+- meetup: 
+- twitter:
+- email: 
+
 **Quito** 
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
