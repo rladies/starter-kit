@@ -1044,6 +1044,16 @@ Aine Lorna Maria
 
 ## UK
 
+**Aberdeen**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Obiamaka Agbaneje
+
+- meetup: 
+- twitter: 
+- email: 
+
 **Cambridge** 
 
 ![](https://img.shields.io/badge/status-inprogress-orange.svg) 
