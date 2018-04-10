@@ -434,8 +434,8 @@ Lissette Rodriguez
 
 Zulemma Bazurto
 
-- meetup: 
-- twitter:
+- meetup: [https://www.meetup.com/rladies-guayaquil/](https://www.meetup.com/rladies-guayaquil/)
+- twitter: [https://twitter.com/RLadiesGye](https://twitter.com/RLadiesGye)
 - email: 
 
 **Quito** 
