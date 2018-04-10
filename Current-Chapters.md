@@ -26,6 +26,17 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 - facebook: [https://www.facebook.com/RladiesBA/](https://www.facebook.com/RladiesBA/)
 - email: buenosaires [at] rladies [dot] org
 
+**Córdoba**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Juliana Benitez
+
+- meetup:
+- twitter: 
+- email: 
+
+
 **La Plata**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
