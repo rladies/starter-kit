@@ -32,7 +32,7 @@ Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
 Juliana Benitez
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-cordoba/](https://www.meetup.com/rladies-cordoba/)
 - twitter: 
 - email: 
 
