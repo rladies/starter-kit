@@ -109,7 +109,7 @@ Marija Dmitrijeva
 Paula Andrea
 
 - meetup: 
-- twitter: 
+- twitter: [https://twitter.com/RLadiesBrisbane](https://twitter.com/RLadiesBrisbane) 
 - email: 
 
 
