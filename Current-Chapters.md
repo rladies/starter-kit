@@ -1630,7 +1630,7 @@ Jane Kong
 Scarlett Evans
 
 - meetup: [https://www.meetup.com/rladies-memphis](https://www.meetup.com/rladies-memphis)
-- twitter:
+- twitter: [https://twitter.com/RLadiesMemphis](https://twitter.com/RLadiesMemphis)
 - email:
 
 **Nashville**
