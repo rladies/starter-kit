@@ -14,6 +14,16 @@ The chapters are grouped by country and the names of the organizers are listed a
 
 ## Argentina
 
+**Bariloche**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Lina Moreno Azócar
+
+- meetup: 
+- twitter: 
+- email: 
+
 **Buenos Aires**  
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
