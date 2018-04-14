@@ -1503,6 +1503,16 @@ Boryana Koseva
 - twitter:
 - email:
 
+**Springfield**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Amber Gillenwaters 
+
+- meetup:
+- twitter:
+- email:
+
 **St.Louis**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
