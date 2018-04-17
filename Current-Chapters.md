@@ -1509,7 +1509,7 @@ Boryana Koseva
 
 Amber Gillenwaters 
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-springfield/](https://www.meetup.com/rladies-springfield/)
 - twitter:
 - email:
 
