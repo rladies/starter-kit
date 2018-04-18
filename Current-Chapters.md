@@ -1523,6 +1523,18 @@ Jenine Harris
 - twitter:
 - email:
 
+### Montana
+
+**Bozeman**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Allison Theobold
+
+- meetup:
+- twitter:
+- email:
+
 ### Nebraska
 
 **Lincoln**
