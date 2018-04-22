@@ -1757,6 +1757,16 @@ Kelly Obriant, Pri Oberoi
 - email: dc [at] rladies [dot] org
 
 
+## Remote
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
+
+Auriel Fournier, Abigail Lebrecht, Steph De Silva
+
+- twitter: [https://twitter.com/RLadiesRemote](https://twitter.com/RLadiesRemote)
+- email: remote [at] rladies [dot] org
+
+
 
 --------------------------------------------
 
