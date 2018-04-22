@@ -12,6 +12,18 @@ The chapters are grouped by country and the names of the organizers are listed a
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) = R-Ladies chapter is in the planning stage is not set up on meetup.com yet. 
 
+
+## Remote
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg)
+
+Auriel Fournier, Abigail Lebrecht, Steph De Silva
+
+- twitter: [https://twitter.com/RLadiesRemote](https://twitter.com/RLadiesRemote)
+- email: remote [at] rladies [dot] org
+
+
+
 ## Argentina
 
 **Bariloche**
@@ -1755,16 +1767,6 @@ Kelly Obriant, Pri Oberoi
 - meetup: [https://www.meetup.com/rladies-dc/](https://www.meetup.com/rladies-dc)
 - twitter: [https://twitter.com/RLadiesDC](https://twitter.com/RLadiesDC)
 - email: dc [at] rladies [dot] org
-
-
-## Remote
-
-![](https://img.shields.io/badge/status-inprogress-orange.svg)
-
-Auriel Fournier, Abigail Lebrecht, Steph De Silva
-
-- twitter: [https://twitter.com/RLadiesRemote](https://twitter.com/RLadiesRemote)
-- email: remote [at] rladies [dot] org
 
 
 
