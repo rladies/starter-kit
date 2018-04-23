@@ -146,6 +146,15 @@ Goknur Giner, Soroor Zadeh, Anna Quaglieri, Sepideh Foroutan, Alex Garnham, Mari
 - facebook: [https://www.facebook.com/RladiesMelbourne](https://www.facebook.com/RladiesMelbourne)
 - email: melbourne [at] rladies [dot] org
 
+**Sydney**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Jenny Richmond
+
+- meetup: 
+- twitter: 
+- email: 
 
 ## Austria
 
@@ -197,6 +206,19 @@ Nadejda Sero, Benedicta Essuon
 
 
 ## Brazil
+
+### Minas Gerais
+
+**Belo Horizonte**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Layla Comparin
+
+- meetup: 
+- twitter:
+- email: 
+
 
 ### Rio de Janeiro
 
