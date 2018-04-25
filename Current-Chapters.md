@@ -39,7 +39,7 @@ Lina Moreno Azócar
 **Buenos Aires**  
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti
+Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti, Paola Prieto
 
 Founders: Laura Acion, Paloma Rojas, Daniela Vazquez
 
