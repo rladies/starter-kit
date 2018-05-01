@@ -1657,7 +1657,7 @@ Ezgi Karaesmen, Amanda Gadrow, Nicole Thomas
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Augustina Ragwitz, Deeksha Thati
+Augustina Ragwitz, Deeksha Thati, Alison Presmanes Hill
 
 - meetup: [https://www.meetup.com/R-Ladies-PDX/](https://www.meetup.com/R-Ladies-PDX/)
 - twitter: [https://twitter.com/RLadiesPDX](https://twitter.com/RLadiesPDX)
