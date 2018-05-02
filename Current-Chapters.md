@@ -1239,7 +1239,7 @@ Katie Scranton
 
 Gail Peretsman-Clement
 
-- meetup:
+- meetup: [https://www.meetup.com/R-Ladies-Pasadena/](https://www.meetup.com/R-Ladies-Pasadena/)
 - twitter:
 - email:
 
