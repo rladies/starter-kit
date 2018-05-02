@@ -811,7 +811,7 @@ Tess Korthout, Janine Khuc, Iris de Vries
 Sara Iacozza
 
 - meetup: 
-- twitter:
+- twitter: [https://twitter.com/RladiesNijmegen](https://twitter.com/RladiesNijmegen)
 - email: nijmegen [at] rladies [dot] org
 
 **Rotterdam** 
