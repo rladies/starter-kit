@@ -215,8 +215,8 @@ Nadejda Sero, Benedicta Essuon
 
 Layla Comparin
 
-- meetup: 
-- twitter:
+- meetup: [https://www.meetup.com/rladies-belo-horizonte/](https://www.meetup.com/rladies-belo-horizonte/)
+- twitter: [https://twitter.com/RLadiesBH](https://twitter.com/RLadiesBH)
 - email: 
 
 
