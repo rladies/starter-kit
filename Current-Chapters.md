@@ -364,6 +364,17 @@ Heather Krause
 - twitter:
 - email: 
 
+**Waterloo** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Lauren Yee
+
+- meetup: 
+- twitter:
+- email: 
+
+
 ### Québec
 
 **Montréal**
