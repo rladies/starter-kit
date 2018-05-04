@@ -1017,7 +1017,7 @@ Lidia Contreras
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Yuliya Leontyeva, Klara Leffler, Paulina Joneus, Elisabeth Dahlqwist
+Yuliya Leontyeva, Klara Leffler, Paulina Joneus, Elisabeth Dahlqwist, Nina
 
 - meetup:
 - twitter:
