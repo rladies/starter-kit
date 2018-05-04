@@ -71,12 +71,13 @@ Sol Represa, Myrian Aguilar, Daniela Esquivel
 
 **Mendoza**
 
-![](https://img.shields.io/badge/status-inprogress-orange.svg)
+![](https://img.shields.io/badge/status-active-blue.svg)
 
 Ana Laura Diedrichs, Yanela Strappa
 
 - meetup: [https://www.meetup.com/rladies-mendoza/](https://www.meetup.com/rladies-mendoza/) 
 - twitter: [https://twitter.com/RLadiesMza](https://twitter.com/RLadiesMza)
+- facebook: [https://www.facebook.com/RLadiesMendoza](https://www.facebook.com/RLadiesMendoza)
 - email: mendoza [at] rladies [dot] org
 
 **Resistencia**
