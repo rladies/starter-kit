@@ -820,9 +820,9 @@ Tess Korthout, Janine Khuc, Iris de Vries
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Sara Iacozza
+Sara Iacozza, Eirini Zormpa
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-nijmegen/](https://www.meetup.com/rladies-nijmegen/) 
 - twitter: [https://twitter.com/RladiesNijmegen](https://twitter.com/RladiesNijmegen)
 - email: nijmegen [at] rladies [dot] org
 
