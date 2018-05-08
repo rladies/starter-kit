@@ -37,6 +37,7 @@ Lina Moreno Azócar
 - email: 
 
 **Buenos Aires**  
+
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
 Organizers: Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti, Paola Prieto
@@ -89,6 +90,16 @@ Patricia Loto
 - meetup: 
 - twitter: 
 - email:
+
+**Santa Fe**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Melina Vidoni
+
+- meetup: 
+- twitter: 
+- email: 
 
 **Santa Rosa**
 
