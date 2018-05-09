@@ -98,8 +98,8 @@ Patricia Loto
 Melina Vidoni
 
 - meetup: [https://www.meetup.com/rladies-santa-fe/](https://www.meetup.com/rladies-santa-fe/) 
-- twitter: 
-- email: 
+- twitter: [https://twitter.com/RLadiesSantaFe](https://twitter.com/RLadiesSantaFe) 
+- email: santafe [at] rladies [dot] org
 
 **Santa Rosa**
 
