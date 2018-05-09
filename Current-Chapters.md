@@ -118,7 +118,7 @@ Yanina Bellini Saibene, Marina Cock
 
 Lucía Rodríguez Planes
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-ushuaia/](https://www.meetup.com/rladies-ushuaia/)
 - twitter: 
 - email:
 
