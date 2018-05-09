@@ -164,7 +164,7 @@ Goknur Giner, Soroor Zadeh, Anna Quaglieri, Sepideh Foroutan, Alex Garnham, Mari
 
 Jenny Richmond
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-sydney/](https://www.meetup.com/rladies-sydney/) 
 - twitter: 
 - email: 
 
