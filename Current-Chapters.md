@@ -1371,7 +1371,7 @@ Mine Dogucu, Fanny Chow
 
 Jamie Quinn, Jennifer McHenry, Shannon Boyle
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-tallahassee/](https://www.meetup.com/rladies-tallahassee/)
 - twitter:
 - email: tallahassee [at] rladies [dot] org
 
