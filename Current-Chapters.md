@@ -32,7 +32,7 @@ Auriel Fournier, Abigail Lebrecht, Steph De Silva
 
 Lina Moreno Azócar
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-bariloche/](https://www.meetup.com/rladies-bariloche/) 
 - twitter: 
 - email: 
 
