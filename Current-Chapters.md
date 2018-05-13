@@ -1691,13 +1691,13 @@ Augustina Ragwitz, Deeksha Thati, Alison Presmanes Hill
 
 **Philadelphia**
 
-![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Alice Walsh
+Alice Walsh, Katerina Placek, Katie Cousins, Amy Goodwin-Davies, Karla Fettich, Darina Chudnovskaya
 
 - meetup: [https://www.meetup.com/rladies-philly/](https://www.meetup.com/rladies-philly/)
 - twitter: [https://twitter.com/RLadiesPhilly](https://twitter.com/RLadiesPhilly)
-- email:
+- email: philly [at] rladies [dot] org
 
 **Pittsburgh**
 
