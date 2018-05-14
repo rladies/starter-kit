@@ -532,6 +532,16 @@ Margareth Gfrerer
 
 ## France
 
+**Montpellier**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Jessie Abbate
+
+- meetup:
+- twitter: 
+- email: 
+
 **Paris** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
