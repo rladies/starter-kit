@@ -730,15 +730,27 @@ Jo Nieć
 
 ## Italy
 
-**Trento**
+**Bari**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Teresa Del Bianco
+Giovanna de Vincenzo
 
 - meetup:
 - twitter:
 - email:
+
+
+**Bolzano**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Damia Noce
+
+- meetup:
+- twitter:
+- email:
+
 
 **Milan**
 
@@ -749,6 +761,16 @@ Parvaneh Shafiei
 - meetup: [https://www.meetup.com/R-Ladies-Milan/](https://www.meetup.com/R-Ladies-Milan/)
 - twitter: [https://twitter.com/RLadiesMilan](https://twitter.com/@RLadiesMilan)
 - email: milan [at] rladies [dot] org
+
+**Trento**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Teresa Del Bianco
+
+- meetup:
+- twitter:
+- email:
 
 ## Kenya
 
@@ -848,6 +870,16 @@ Tess Korthout, Janine Khuc, Iris de Vries
 - twitter:[https://twitter.com/RLadiesAMS](https://twitter.com/RLadiesAMS)
 - email: amsterdam [at] rladies [dot] org
 
+**Groningen**
+ 
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Suzanne Dekker
+
+- meetup: 
+- twitter:
+- email: 
+
 **Nijmegen** 
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
@@ -868,7 +900,7 @@ Ingrid Szilagyi, Paloma Rojas
 - twitter: [https://twitter.com/RladiesRdam](https://twitter.com/RladiesRdam)
 - email: rotterdam [at] rladies [dot] org
 
- **Wageningen**
+**Wageningen**
  
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
