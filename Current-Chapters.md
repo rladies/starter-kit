@@ -466,6 +466,17 @@ Gabriela Sandoval, Riva Quiroga
 - twitter: [https://twitter.com/RLadiesSantiago](https://twitter.com/RLadiesSantiago)
 - email: santiago [at] rladies [dot] org
 
+**Valparaiso** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Riva Quiroga, Lissy Arce
+
+- meetup: 
+- twitter:
+- email: 
+
+
 
 ## Denmark
 
