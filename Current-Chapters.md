@@ -736,7 +736,7 @@ Jo Nieć
 
 Giovanna de Vincenzo
 
-- meetup:
+- meetup: [https://www.meetup.com/rladies-bari/](https://www.meetup.com/rladies-bari/)
 - twitter:
 - email:
 
