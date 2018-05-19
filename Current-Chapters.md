@@ -371,7 +371,7 @@ Michelle Fairbrother
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Heather Krause
+Heather Krause, Nicole Radziwill
 
 - meetup: 
 - twitter:
