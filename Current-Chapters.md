@@ -81,11 +81,11 @@ Ana Laura Diedrichs, Yanela Strappa
 - facebook: [https://www.facebook.com/RLadiesMendoza](https://www.facebook.com/RLadiesMendoza)
 - email: mendoza [at] rladies [dot] org
 
-**Resistencia**
+**Resistencia-Corrientes**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Patricia Loto
+Patricia Loto, Roxana Noelia Villafañe
 
 - meetup: 
 - twitter: 
