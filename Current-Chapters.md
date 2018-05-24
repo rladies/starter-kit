@@ -1713,7 +1713,7 @@ Mine Cetinkaya-Rundel, Elaine McVey
 
 Renata Gerecke
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-cincinnati/](https://www.meetup.com/rladies-cincinnati/) 
 - twitter: 
 - email: 
 
