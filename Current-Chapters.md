@@ -232,6 +232,18 @@ Layla Comparin
 - twitter: [https://twitter.com/RLadiesBH](https://twitter.com/RLadiesBH)
 - email: 
 
+### Parana
+
+**Curitiba**
+
+Bruna Wundervald, Larissa Ferreira, Aline, Maria Helena Oliveira
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Katiuscia Martos
+
+- meetup: 
+- twitter: 
+- email: 
 
 ### Rio de Janeiro
 
