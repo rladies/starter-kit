@@ -188,7 +188,7 @@ Lucia Gjeltema
 
 ![](https://img.shields.io/badge/status-active-blue.svg)
 
-Marlene Marchena, Suzan Baert 
+Marlene Marchena, Suzan Baert, Huong Nguyen 
 
 - meetup: [https://www.meetup.com/R-Ladies-Brussels/](https://www.meetup.com/R-Ladies-Brussels/)
 - twitter: [https://twitter.com/RladiesBrussels](https://twitter.com/RladiesBrussels)
@@ -371,7 +371,7 @@ Michelle Fairbrother
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Heather Krause, Nicole Radziwill
+Heather Krause, Nicole Radziwill, Anjali Silva
 
 - meetup: 
 - twitter:
