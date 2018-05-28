@@ -1401,6 +1401,16 @@ Erica Holdridge, Jasmine Dumas
 
 ### Florida
 
+**Gainesville**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Geraldine Klarenberg
+
+- meetup: 
+- twitter:
+- email:
+
 **Jacksonville**
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
