@@ -400,7 +400,17 @@ Corinne Riddell, Kathryn Morrison
 - twitter: [https://twitter.com/RLadiesMTL](https://twitter.com/RLadiesMTL)
 - email: montreal [at] rladies [dot] org
 
+## China
 
+**Beijing**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
+
+Xu Sabrina
+
+- meetup: 
+- twitter:
+- email: 
 
 ## Colombia
 
