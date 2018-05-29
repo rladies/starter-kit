@@ -246,6 +246,17 @@ Bruna Wundervald, Larissa Ferreira, Aline, Maria Helena Oliveira
 
 ### Rio de Janeiro
 
+**Niteroi**
+
+Noelle Camello, Luciane Alcoforado
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+- meetup: 
+- twitter: 
+- email: 
+
+
 **Rio de Janeiro**
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
