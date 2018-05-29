@@ -237,9 +237,8 @@ Layla Comparin
 **Curitiba**
 
 Bruna Wundervald, Larissa Ferreira, Aline, Maria Helena Oliveira
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Katiuscia Martos
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
 - meetup: 
 - twitter: 
