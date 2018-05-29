@@ -1475,7 +1475,7 @@ Jamie Quinn, Jennifer McHenry, Shannon Boyle
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg)
 
-Gina Griffin, Saarah Kison
+Gina Griffin, Saarah Kison, Nik Ford
 
 - meetup: [https://www.meetup.com/rladies-tampa/](https://www.meetup.com/rladies-tampa/)
 - twitter:
