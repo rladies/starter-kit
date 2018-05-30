@@ -430,7 +430,7 @@ Corinne Riddell, Kathryn Morrison
 
 Xu Sabrina
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-beijing/](https://www.meetup.com/rladies-beijing/)
 - twitter:
 - email: 
 
