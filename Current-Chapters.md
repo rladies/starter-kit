@@ -253,7 +253,7 @@ Noelle Camello, Luciane Alcoforado
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-niteroi/](https://www.meetup.com/rladies-niteroi/)
 - twitter: 
 - email: 
 
