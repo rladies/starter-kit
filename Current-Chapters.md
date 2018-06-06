@@ -93,12 +93,13 @@ Patricia Loto, Roxana Noelia Villafañe
 
 **Santa Fe**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
 
 Melina Vidoni
 
 - meetup: [https://www.meetup.com/rladies-santa-fe/](https://www.meetup.com/rladies-santa-fe/) 
 - twitter: [https://twitter.com/RLadiesSantaFe](https://twitter.com/RLadiesSantaFe) 
+- facebook: [https://www.facebook.com/RLadiesSantaFe/](https://www.facebook.com/RLadiesSantaFe/)
 - email: santafe [at] rladies [dot] org
 
 **Santa Rosa**
