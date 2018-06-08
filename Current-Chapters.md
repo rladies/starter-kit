@@ -1082,7 +1082,7 @@ Theoni Photopoulou
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Renee Schoeman, Vebashini Naidoo
+Renee Schoeman, Vebashini Naidoo, Retha
 
 - meetup: [https://www.meetup.com/rladies-johannesburg/](https://www.meetup.com/rladies-johannesburg/) 
 - twitter: 
