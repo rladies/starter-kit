@@ -355,6 +355,17 @@ Anna Posacka, Marion Shadbol, Nazlı Özüm Kafaee
 - twitter: [https://twitter.com/RLadiesVan](https://twitter.com/RLadiesVan)
 - email:
 
+**Victoria**
+
+![](https://img.shields.io/badge/status-inprogress-orange.svg) 
+
+Noushin Nabavi
+
+- meetup: 
+- twitter:
+- email:
+
+
 ### Manitoba
 
 **Winnipeg**
