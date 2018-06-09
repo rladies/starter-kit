@@ -87,7 +87,7 @@ Ana Laura Diedrichs, Yanela Strappa
 
 Patricia Loto, Roxana Noelia Villafañe
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-resistencia-corrientes/](https://www.meetup.com/rladies-resistencia-corrientes/) 
 - twitter: 
 - email:
 
