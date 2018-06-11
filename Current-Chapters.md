@@ -225,13 +225,13 @@ Nadejda Sero, Benedicta Essuon
 
 **Belo Horizonte**
 
-![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Layla Comparin
+Layla Comparin, Larissa Fernandes, Numiá Gomes
 
 - meetup: [https://www.meetup.com/rladies-belo-horizonte/](https://www.meetup.com/rladies-belo-horizonte/)
 - twitter: [https://twitter.com/RLadiesBH](https://twitter.com/RLadiesBH)
-- email: 
+- email: belohorizonte [at] rladies [dot] org
 
 ### Parana
 
