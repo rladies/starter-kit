@@ -362,7 +362,8 @@ Anna Posacka, Marion Shadbol, Nazlı Özüm Kafaee
 Noushin Nabavi
 
 - meetup: [https://www.meetup.com/rladies-victoria/](https://www.meetup.com/rladies-victoria/) 
-- twitter:
+- twitter: [https://twitter.com/RLadiesVicBC](https://twitter.com/RLadiesVicBC)
+- github: [https://github.com/RLadiesVicBC](https://github.com/RLadiesVicBC)
 - email:
 
 
