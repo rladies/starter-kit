@@ -519,7 +519,7 @@ Gabriela Sandoval, Riva Quiroga
 Riva Quiroga, Lissy Arce
 
 - meetup: [https://www.meetup.com/rladies-valparaiso/](https://www.meetup.com/rladies-valparaiso/) 
-- twitter:
+- twitter: [https://twitter.com/RLadiesValpo](https://twitter.com/RLadiesValpo)
 - email: 
 
 
