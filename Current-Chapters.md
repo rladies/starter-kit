@@ -1405,7 +1405,7 @@ Julia Stewart Lowndes, Allison Horst, Jamie Afflerbach
 Lisa Moller, Courtney Van Den Elzen
 
 - meetup: [https://www.meetup.com/rladies-boulder/](https://www.meetup.com/rladies-boulder/)
-- twitter:
+- twitter: [https://twitter.com/RLadiesBoulder](https://twitter.com/RLadiesBoulder)
 - email:
 
 
