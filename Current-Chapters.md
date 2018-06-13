@@ -707,7 +707,7 @@ Garima Agrawal
 
 ![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
 
-Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lokesh
+Aparna Bindu, Muthumari S, Diksha Chawla, Pragati Parikh, Smruthi R, Shefali Lokesh, Radha Subramanian, Dincy Mariyam
 
 - meetup:
 - twitter:
