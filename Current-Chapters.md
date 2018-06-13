@@ -1320,6 +1320,18 @@ Daniela Vazquez, Natalia da Silva
 
 ## USA 
 
+### Alabama
+
+**Montgomery** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Rachel Ramirez
+
+- meetup: 
+- twitter:
+- email: 
+
 ### Arizona
 
 **Tucson** 
@@ -1333,6 +1345,17 @@ Adriana Picoral
 - email: tuscon [at] rladies [dot] org
 
 ### California
+
+**Davis**
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Meghan Klasic
+
+- meetup: 
+- twitter: 
+- email: 
+
 
 **Irvine**
 
