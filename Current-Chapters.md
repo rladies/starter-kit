@@ -88,8 +88,9 @@ Ana Laura Diedrichs, Yanela Strappa
 Patricia Loto, Roxana Noelia Villafañe
 
 - meetup: [https://www.meetup.com/rladies-resistencia-corrientes/](https://www.meetup.com/rladies-resistencia-corrientes/) 
-- twitter: 
-- email:
+- twitter: [https://twitter.com/RLadies_rciacte](https://twitter.com/RLadies_rciacte)
+- facebook: [https://www.facebook.com/R-Ladies-Rcia-Ctes-1959095607753886/](https://www.facebook.com/R-Ladies-Rcia-Ctes-1959095607753886/)
+- email: rciactes [at] rladies [dot] org
 
 **Santa Fe**
 
