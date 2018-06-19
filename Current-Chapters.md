@@ -953,7 +953,7 @@ Ingrid Szilagyi, Paloma Rojas
 
 Veronika Laine
 
-- meetup: 
+- meetup: [https://www.meetup.com/rladies-wageningen/](https://www.meetup.com/rladies-wageningen/) 
 - twitter:
 - email: 
 
