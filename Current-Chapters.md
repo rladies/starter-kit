@@ -19,6 +19,7 @@ The chapters are grouped by country and the names of the organizers are listed a
 
 Auriel Fournier, Abigail Lebrecht, Steph De Silva
 
+- meetup: [https://www.meetup.com/rladies-remote/](https://www.meetup.com/rladies-remote/)
 - twitter: [https://twitter.com/RLadiesRemote](https://twitter.com/RLadiesRemote)
 - email: remote [at] rladies [dot] org
 
