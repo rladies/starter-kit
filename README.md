@@ -4,18 +4,15 @@
 
 ## Overview of R-Ladies Global
 
-### **Mission** : R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community
+### **Mission** : R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
 
 - **Accessibility**:
   Provision of FREE events based on a combination of volunteering and
-  funding/sponsorship where available
+  funding/sponsorship where available.
 - **No commercial agenda**:
-  groups to operate to achieve stated social goals of the R-Ladies community/project,
-  and can be supported by corporation where goals are mutually,
-  but NOT ‘used’ by corporation/as a commercial vehicle for private aims
+ Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
 - **Org Structure & Legal Entities**: 
-- **Overview of R Consortium Proposal & Project Goals**: 
-- **Relationship between local groups & global framework**, e.g., project finance
+  R-Ladies is in the process of establishing itself as a California-based non-profit corporation.
 - **Web presence**:
     - Website: [https://www.rladies.org](https://www.rladies.org)
     - E-mail: info [at] rladies [dot] org
