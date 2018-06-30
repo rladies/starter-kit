@@ -1263,6 +1263,16 @@ Joanna Ferrie
 - twitter: 
 - email: 
 
+**Lancaster** 
+
+![](https://img.shields.io/badge/status-prospective-lightgrey.svg) 
+
+Rhian Davies
+
+- meetup: 
+- twitter: [https://twitter.com/RLadiesLancs](https://twitter.com/RLadiesLancs)
+- email: lancaster [at] rladies [dot] org
+
 **Liverpool** 
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
