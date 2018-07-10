@@ -1,6 +1,5 @@
 Country,State/Region,City,Meetup,Twitter,Email,Facebook,Instagram,Periscope,GitHub,Website,Slack,Organizers,Status
-Earth,,,,https://twitter.com/rladiesglobal,,,https://www.instagram.com/rladiesglobal/,,https://github.com/rladies,https://rladies.org,,,
-Remote,,,,https://twitter.com/RLadiesRemote,remote@rladies.org,,,,,,,"Auriel Fournier, Abigail Lebrecht, Steph De Silva",Active
+Remote,,,https://www.meetup.com/rladies-remote/,https://twitter.com/RLadiesRemote,remote@rladies.org,,,,,,,"Auriel Fournier, Abigail Lebrecht, Steph De Silva",Active
 Argentina,,Bariloche,https://www.meetup.com/rladies-bariloche/,,,,,,,,,Lina Moreno Azócar,Prospective
 Argentina,,Buenos Aires,https://www.meetup.com/rladies-buenos-aires/,https://twitter.com/RLadiesBA,buenosaires@rladies.org,https://www.facebook.com/RladiesBA/,,,https://github.com/rladies/meetup-presentations_buenosaires,,,"Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti, Paola Prieto, Natsumi Shokida",Active
 Argentina,,Córdoba,https://www.meetup.com/rladies-cordoba/,,,,,,https://github.com/rladies/meetup-presentations_cordoba,,,Juliana Benitez,Prospective
@@ -13,7 +12,7 @@ Argentina,,Ushuaia,https://www.meetup.com/rladies-ushuaia/,https://twitter.com/R
 Australia,,Adelaide,https://www.meetup.com/rladies-adelaide/,https://twitter.com/RLadiesAdelaide,adelaide@rladies.org,,,,https://github.com/rladies/meetup-presentations_adelaide,,,Marija Dmitrijeva,Active
 Australia,,Brisbane,https://www.meetup.com/rladies-brisbane/,https://twitter.com/RLadiesBrisbane,,,,,,,,Paula Andrea,Prospective
 Australia,,Melbourne,https://www.meetup.com/R-Ladies-Melbourne/,https://twitter.com/RLadiesMelb,melbourne@rladies.org,https://www.facebook.com/RladiesMelbourne,,,https://github.com/rladies/meetup-presentations_melbourne,,,"Goknur Giner, Soroor Zadeh, Anna Quaglieri, Sepideh Foroutan, Alex Garnham, Marie Trussart, Roxane Legaie, Saskia Freytag",Active
-Australia,,Sydney,https://www.meetup.com/rladies-sydney/,https://twitter.com/RLadiesSydney,,,,,,https://rladiessydney.org/,,Jenny Richmond,Prospective
+Australia,,Sydney,https://www.meetup.com/rladies-sydney/,https://twitter.com/RLadiesSydney,,,,,https://github.com/rladiessydney,https://rladiessydney.org/,,Jenny Richmond,Prospective
 Austria,,Linz,https://www.meetup.com/rladies-linz/,https://twitter.com/RladiesLinz,,,,,https://github.com/rladies/meetup-presentations_linz,,,Lucia Gjeltema,Progress
 Belgium,,Brussels,https://www.meetup.com/R-Ladies-Brussels/,https://twitter.com/RladiesBrussels,brussels@rladies.org,,,,https://github.com/rladies/meetup-presentations_brussels,,,"Marlene Marchena, Suzan Baert, Huong Nguyen",Active
 Belgium,,Leuven,https://www.meetup.com/rladies-leuven/,https://twitter.com/RLadiesLeuven,leuven@rladies.org,,,,https://github.com/rladies/meetup-presentations_leuven,,,"Theresa Elise Wege, Veronica Llorens",Active
@@ -80,7 +79,7 @@ Netherlands,,Amsterdam,https://www.meetup.com/rladies-amsterdam/,https://twitter
 Netherlands,,Groningen,,,,,,,,,,Suzanne Dekker,Prospective
 Netherlands,,Nijmegen,https://www.meetup.com/rladies-nijmegen/,https://twitter.com/RladiesNijmegen,nijmegen@rladies.org,,,,,,,"Sara Iacozza, Eirini Zormpa",Prospective
 Netherlands,,Rotterdam,https://www.meetup.com/rladies-rotterdam/,https://twitter.com/RladiesRdam,rotterdam@rladies.org,,,,,,,"Ingrid Szilagyi, Paloma Rojas",Progress
-Netherlands,,Wageningen,,,,,,,,,,Veronika Laine,Prospective
+Netherlands,,Wageningen,https://www.meetup.com/rladies-wageningen/,,,,,,,,,Veronika Laine,Prospective
 New Zealand,,Auckland,https://www.meetup.com/rladies-auckland/,https://twitter.com/RLadiesAKL,auckland@rladies.org,,,,https://github.com/rladies/meetup-presentations_auckland,,,"Kim Fitter, Anna Martin Fergusson, Anjali Gupta",Active
 Norway,,Oslo,https://www.meetup.com/rladies-oslo/,https://twitter.com/RLadies_Oslo,oslo@rladies.org,,,,https://github.com/rladies/meetup-presentations_oslo,,,"Anne Claire Fouilloux, Athanasia Monika Mowinckel, Lene Norderhaug Drosdal, Aurora Voje, Isabelle Valette",Active
 Peru,,Lima,https://www.meetup.com/rladies-lima/,https://twitter.com/RLadiesLima,lima@rladies.org,https://www.facebook.com/RLadiesLima,,,https://github.com/rladies/meetup-presentations_lima,,,"Organizers: Evelyn Gutierrez, Vilma Romero, Yuriko Sosa, Ivonne Rentería, Fiorella Flores",Active
@@ -164,4 +163,4 @@ USA,Texas,Houston,,,,,,,,,,Erin Hodgess,Prospective
 USA,Virginia,Charlottesville,https://www.meetup.com/rladies-charlottesville/,,charlottesville@rladies.org,,,,https://github.com/rladies/meetup-presentations_charlottesville,,,Samantha Toet,Active
 USA,Washington,Seattle,https://www.meetup.com/rladies-seattle/,https://twitter.com/RLadiesSeattle,seattle@rladies.org,,,,,,,Chaya Eastwood Jones,Progress
 USA,Washington,Tacoma,,,,,,,,,,Alexandra Gore,Prospective
-USA,Washington,Washington D.C.,https://www.meetup.com/rladies-dc/,https://twitter.com/RLadiesDC,dc@rladies.org,,,,https://github.com/rladies/meetup-presentations_dc,,,"Kelly Obriant, Pri Oberoi",Active
+USA,Washington,D.C.,https://www.meetup.com/rladies-dc/,https://twitter.com/RLadiesDC,dc@rladies.org,,,,https://github.com/rladies/meetup-presentations_dc,,,"Kelly Obriant, Pri Oberoi",Active
