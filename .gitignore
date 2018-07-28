@@ -28,6 +28,13 @@ R-LadiesGlobalAlignmentDecember2016.pdf
 *.DS_Store
 .AppleDouble
 .LSOverride
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 
 # Icon must end with two \r
 Icon
@@ -109,3 +116,7 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/r,linux,macos,windows
+
+
+# File by Gabi
+R/miscellaneous.R
