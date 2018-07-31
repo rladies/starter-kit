@@ -28,7 +28,7 @@ Check out [@WeAreRLadies](https://twitter.com/WeAreRLadies) every Monday for a n
   
 *Curator Schedule Coming Soon!* 
 
-Sign up to be a curator here: **[this form](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2)**.   
+Sign up to be a curator **[here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2)**.   
   
   
 ***  
