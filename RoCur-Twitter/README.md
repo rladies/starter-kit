@@ -26,9 +26,9 @@ Check out [@WeAreRLadies](https://twitter.com/WeAreRLadies) every Monday for a n
   
 ## Curator Schedule 
 
-See the current curator schedule **[here](https://docs.google.com/spreadsheets/d/1pmphnR9EinGuAKbVqGzMIt6cWYmHNbeFVzaKJB59JdY/edit?usp=sharing)**.  
+### See the current curator schedule **[here](https://docs.google.com/spreadsheets/d/1pmphnR9EinGuAKbVqGzMIt6cWYmHNbeFVzaKJB59JdY/edit?usp=sharing)**!  
 
-Sign up to be a curator **[here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2)**.   
+*Sign up to be a curator **[here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2)**.*   
   
   
 ***  
