@@ -57,7 +57,7 @@ Individuals may sign up to be a curator via **[this form](https://goo.gl/forms/b
    
 ## Contact Us  
   
-This RoCur is managed by R-Ladies Global members. You can email us at WeAre@rladies.org or at the **#rocur-twitter** channel on the [R-Ladies Community Slack](https://rladies-community-slack.herokuapp.com/).  
+This RoCur is managed by R-Ladies Global members. You can email us at WeAre@rladies.org or at the **#rocur_twitter** channel on the [R-Ladies Community Slack](https://rladies-community-slack.herokuapp.com/).  
   
 
   
