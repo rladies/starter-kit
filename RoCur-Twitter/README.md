@@ -16,7 +16,7 @@ The **[R-Ladies RoCur (Rotating Curation)](https://twitter.com/WeAreRLadies)** i
   
 Every week, a different R-Lady takes over our twitter account to talk about the work they do in R. Featured curators come from a diversity of professions and have a range of experiences in R, from novice to expert.  
   
-If you are interested in becoming a curator, see our [Be a Curator](#curating) section and [sign up here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2).  
+If you are interested in becoming a curator, see our *Be a Curator* section (below) and [sign up here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2).  
   
 Check out [@WeAreRLadies](https://twitter.com/WeAreRLadies) every Monday for a new curator!    
   
@@ -24,17 +24,17 @@ Check out [@WeAreRLadies](https://twitter.com/WeAreRLadies) every Monday for a n
 ***  
   
   
-## Curator Schedule  
-  
-*Curator Schedule Coming Soon!* 
+## Curator Schedule 
 
-Sign up to be a curator **[here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2)**.   
+### See the current curator schedule **[here](https://docs.google.com/spreadsheets/d/1pmphnR9EinGuAKbVqGzMIt6cWYmHNbeFVzaKJB59JdY/edit?usp=sharing)**!  
+
+*Sign up to be a curator **[here](https://goo.gl/forms/bQ7mHQDXrNHXEZCl2)**.*   
   
   
 ***  
   
   
-## Be a Curator!  
+## Be a Curator! 
   
 We are always looking for R-users to be a featured curator for our account! Everyone is welcome; R-Ladies encourages R-users of all professional backgrounds and experience levels to curate this account. Additionally, individuals do not need to be affiliated with R-Ladies to curate. Featured curators must meet the following criteria:  
   
@@ -55,6 +55,9 @@ Individuals may sign up to be a curator via **[this form](https://goo.gl/forms/b
 * Administrators will contact you to schedule the week you will curate.  
   
    
+## Contact Us  
+  
+This RoCur is managed by R-Ladies Global members. You can email us at WeAre@rladies.org or at the **#rocur_twitter** channel on the [R-Ladies Community Slack](https://rladies-community-slack.herokuapp.com/).  
   
 
   
