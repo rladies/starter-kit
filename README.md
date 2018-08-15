@@ -30,7 +30,7 @@ More information can be found in the [wiki](https://github.com/rladies/starter-k
 - [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct) - EN/ES
 - [Centralised Resources](https://github.com/rladies/starter-kit/wiki/Centralised-Resources)
 - [Contribute](https://github.com/rladies/starter-kit/wiki/Contribute) to R-Ladies repositories
-- [Further Ideas](https://github.com/rladies/starter-kit/wiki/Further-Ideas)
+- [Retiring a chapter](https://github.com/rladies/starter-kit/wiki/Retiring-a-Chapter)
 
 <br>
 
