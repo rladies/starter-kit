@@ -18,7 +18,7 @@
 - **Web presence**:
     - Website: [https://www.rladies.org](https://www.rladies.org)
     - E-mail: info [at] rladies [dot] org
-    - Twitter: [@RLadiesGlobal](https://twitter.com/RLadiesGlobal)
+    - Twitter: [@RLadiesGlobal](https://twitter.com/RLadiesGlobal) and [list of local chapter Twitter accounts](https://twitter.com/gdequeiroz/lists/rladies-chapters)
     - Organizer Slack (for chapter organizers): [http://r-ladies.slack.com](http://r-ladies.slack.com)
     - Community Slack (for women and gender minorities): [http://rladies-community-slack.herokuapp.com](http://rladies-community-slack.herokuapp.com)
     - GitHub: [http://github.com/rladies](http://github.com/rladies)
