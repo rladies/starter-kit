@@ -6,6 +6,8 @@
 
 ### **Mission** : R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
 
+- **Leadership**: 
+  Leadership roles within R-Ladies chapters, particularly Organizer and Mentor roles, are to be held by women and gender     minorities.
 - **Accessibility**:
   Provision of FREE events based on a combination of volunteering and
   funding/sponsorship where available.
