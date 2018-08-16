@@ -14,7 +14,7 @@
 - **No commercial agenda**:
  Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
 - **Org Structure & Legal Entities**: 
-  R-Ladies is in the process of establishing itself as a California-based non-profit corporation.
+  R-Ladies is registered as California-based non-profit corporation, run by the Global Leadership team.
 - **Web presence**:
     - Website: [https://www.rladies.org](https://www.rladies.org)
     - E-mail: info [at] rladies [dot] org
