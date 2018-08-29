@@ -26,7 +26,7 @@
 
 <br>
 
-_The term "women and gender minorities" is inclusive of individuals who identify as female, non-binary, genderqueer, genderfluid, agender, and all minority genders._
+_The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders._
 
 <br>
 
