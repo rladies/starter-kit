@@ -2,9 +2,10 @@
 # Goal: Update the "Current-Chapters.csv" programmatically
 # Details about this script:
 # 1) Update the meetup url
+# function: add_meetup_url
 # 2) Filter chapters where status is prospect. Check it has a meetup url. 
 # If it does then change the status to be active
-
+# function: change_status_to_progress
 
 # 'active'- has had an event in the last 4 months
 # 'active quiet'- hasn't had an event in the last 4 months
@@ -34,7 +35,7 @@ add_meetup_url <- function(data, country, city, meetup_url) {
     futile.logger::flog.info("Change", after[, ..clean], capture = TRUE)
     data.table::fwrite(data, "Current-Chapters.csv")
   } else {
-    stop("This chapter has a already meetup url.")
+    stop("This chapter has already meetup url.")
   }
 }
 
