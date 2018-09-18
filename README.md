@@ -6,20 +6,27 @@
 
 ### **Mission** : R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
 
+- **Leadership**: 
+  Leadership roles within R-Ladies chapters, particularly Organizer and Mentor roles, are to be held by _women and gender     minorities_.
 - **Accessibility**:
   Provision of FREE events based on a combination of volunteering and
   funding/sponsorship where available.
 - **No commercial agenda**:
  Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
 - **Org Structure & Legal Entities**: 
-  R-Ladies is in the process of establishing itself as a California-based non-profit corporation.
+  R-Ladies is registered as California-based non-profit corporation, run by the Global Leadership team.
 - **Web presence**:
     - Website: [https://www.rladies.org](https://www.rladies.org)
     - E-mail: info [at] rladies [dot] org
-    - Twitter: [@RLadiesGlobal](https://twitter.com/RLadiesGlobal)
-    - Slack (for chapter organizers): [http://r-ladies.slack.com](http://r-ladies.slack.com)
+    - Twitter: [@RLadiesGlobal](https://twitter.com/RLadiesGlobal) and [list of local chapter Twitter accounts](https://twitter.com/gdequeiroz/lists/rladies-chapters)
+    - Organizer Slack (for chapter organizers): [http://r-ladies.slack.com](http://r-ladies.slack.com)
+    - Community Slack (for women and gender minorities): [http://rladies-community-slack.herokuapp.com](http://rladies-community-slack.herokuapp.com)
     - GitHub: [http://github.com/rladies](http://github.com/rladies)
     - Global directory of female R practitioners / speakers: [https://rladies.org/ladies/](https://rladies.org/ladies/)
+
+<br>
+
+_The term "women and gender minorities" is inclusive of individuals who identify as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender, intersex, and all minority genders._
 
 <br>
 
@@ -30,7 +37,7 @@ More information can be found in the [wiki](https://github.com/rladies/starter-k
 - [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct) - EN/ES
 - [Centralised Resources](https://github.com/rladies/starter-kit/wiki/Centralised-Resources)
 - [Contribute](https://github.com/rladies/starter-kit/wiki/Contribute) to R-Ladies repositories
-- [Further Ideas](https://github.com/rladies/starter-kit/wiki/Further-Ideas)
+- [Retiring a chapter](https://github.com/rladies/starter-kit/wiki/Retiring-a-Chapter)
 
 <br>
 
