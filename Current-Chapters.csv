@@ -1,6 +1,6 @@
 Country,State/Region,City,Meetup,Twitter,Email,Facebook,Instagram,Periscope,Youtube,GitHub,Website,Slack,Organizers,Status
 Remote,"","",https://www.meetup.com/rladies-remote/,https://twitter.com/RLadiesRemote,remote@rladies.org,"",,"","","","","","Auriel Fournier, Abigail Lebrecht, Steph De Silva",Active
-Argentina,"",Bariloche,https://www.meetup.com/rladies-bariloche/,"https://twitter.com/RLadiesBRC","bariloche@rladies.org","https://www.facebook.com/rladies.bariloche","","","","","","rladies-brc.slack.com","Lina Moreno Azócar, Sofía Ruiz, Paula Fergnani",Progress
+Argentina,"",Bariloche,https://www.meetup.com/rladies-bariloche/,https://twitter.com/RLadiesBRC,bariloche@rladies.org,https://www.facebook.com/rladies.bariloche,,"","","","",rladies-brc.slack.com,"Lina Moreno Azócar, Sofía Ruiz, Paula Fergnani",Progress
 Argentina,"",Buenos Aires,https://www.meetup.com/rladies-buenos-aires/,https://twitter.com/RLadiesBA,buenosaires@rladies.org,https://www.facebook.com/RladiesBA/,,"","",https://github.com/rladies/meetup-presentations_buenosaires,"","","Laura Acion, Fabiana Flores, Paola Corrales, Florencia D'Andrea, Monica Alonso, Priscilla Minotti, Paola Prieto, Natsumi Shokida",Active
 Argentina,"",Córdoba,https://www.meetup.com/rladies-cordoba/,"","","",,"","",https://github.com/rladies/meetup-presentations_cordoba,"","",Juliana Benitez,Progress
 Argentina,"",La Plata,https://www.meetup.com/rladies-la-plata/,"","","",,"","","","","","Sol Represa, Myrian Aguilar, Daniela Esquivel",Progress
@@ -22,7 +22,7 @@ Belgium,"",Brussels,https://www.meetup.com/R-Ladies-Brussels/,https://twitter.co
 Belgium,"",Leuven,https://www.meetup.com/rladies-leuven/,https://twitter.com/RLadiesLeuven,leuven@rladies.org,"",,"","",https://github.com/rladies/meetup-presentations_leuven,"","","Theresa Elise Wege, Veronica Llorens",Active
 Benin,"",Cotonou,https://www.meetup.com/rladies-cotonou/,https://twitter.com/RLadiesCtn,cotonou@rladies.org,"",,"","","","","","Nadejda Sero, Benedicta Essuon",Progress
 Bolivia,"",La Paz,https://www.meetup.com/rladies-la-paz/,"","",https://facebook.com/rladieslapaz,,"","","","","","Nathaly Alarcon, Orietha Castillo",Prospective
-Brazil,,Brasilia,"","","","",,"","","","","",Luana Nascimento,Prospective
+Brazil,"",Brasilia,"","","","",,"","","","","",Luana Nascimento,Prospective
 Brazil,Bahia,Salvador,https://www.meetup.com/rladies-salvador/,"","","",,"","","","","","Karla Patricia Santos Oliveira Rodriguez Esquerre, Júlia Carolina",Prospective
 Brazil,Minas Gerais,Belo Horizonte,https://www.meetup.com/rladies-belo-horizonte/,https://twitter.com/RLadiesBH,belohorizonte@rladies.org,"",,"","","","","","Layla Comparin, Larissa Fernandes, Numiá Gomes",Active
 Brazil,Parana,Curitiba,https://www.meetup.com/rladies-curitiba/,"","","",,"","","","","","Bruna Wundervald, Larissa Ferreira, Aline, Maria Helena Oliveira",Prospective
@@ -77,9 +77,9 @@ India,Nadu,Chennai,https://www.meetup.com/rladies-chennai/,"",chennai@rladies.or
 India,Nadu,Tiruchirappalli,https://www.meetup.com/rladies-tiruchirappalli/,"","","",,"","","","","",Janani Selvaraj,Active
 India,Telangana,Hyderabad,"","","","",,"","","","","","Varnitha Kurli Reddy, Radhika Garimella",Prospective
 Ireland,"",Dublin,https://www.meetup.com/R-Ladies-Dublin/,https://twitter.com/RLadiesDublin,dublin@rladies.org,"",,"","",https://github.com/rladies/meetup-presentations_dublin,"","",Jo Nie_,Active
-Italy,"",Bari,https://www.meetup.com/rladies-bari/,"https://twitter.com/RladiesBari","bari@rladies.org","",,"","","https://github.com/rladies/meetup-presentations_bari","","",Giovanna de Vincenzo,Progress
+Italy,"",Bari,https://www.meetup.com/rladies-bari/,https://twitter.com/RladiesBari,bari@rladies.org,https://www.facebook.com/rladiesbari/,,"","",https://github.com/rladies/meetup-presentations_bari,"","",Giovanna de Vincenzo,Progress
 Italy,"",Bolzano,"","","","",,"","","","","",Damia Noce,Prospective
-Italy,"",Milan,https://www.meetup.com/R-Ladies-Milan/,https://twitter.com/RLadiesMilan,milan@rladies.org,"https://www.facebook.com/rladiesbari/",,"","",https://github.com/rladies/meetup-presentations_milan,"","",Parvaneh Shafiei,Active
+Italy,"",Milan,https://www.meetup.com/R-Ladies-Milan/,https://twitter.com/RLadiesMilan,milan@rladies.org,"",,"","",https://github.com/rladies/meetup-presentations_milan,"","",Parvaneh Shafiei,Active
 Italy,"",Trento,"","","","",,"","","","","",Teresa Del Bianco,Prospective
 Japan,"",Okinawa,"","","","",,"","","","","",Margaret Mars Brisbin,Prospective
 Kenya,"",Nairobi,"","","","",,"","","","","","Muthoni Wanyoike, Shelmith Kariuki",Prospective
