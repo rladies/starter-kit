@@ -50,7 +50,7 @@ _**By signing on to be a curator of @WeAreRLadies you agree to the following:**_
   
 7. Please use inclusive language when addressing your twitter audience. Please consider using *all*, *everybody*, *y'all*, *folks* or anything similar as not everybody part of R-Ladies identifies as female.   
   
-8. Don’t actively promote or advertise any business or receive remuneration from a third party to do so. ***Please see our section on Promotional Tweeting for more information on this.*   
+8. Don’t actively promote or advertise any business or receive remuneration from a third party to do so. ***Please see our section on [Promotional Tweeting](#PromoTweets) for more information on this.*   
   
 9. After your assigned week, remove access to @WeAreRLadies from any applications to which you may have granted access.  
   
@@ -89,7 +89,7 @@ Suggestions on how to introduce yourself:
 * Have Fun!   
   
   
-### Tweeting about R  
+### Tweeting about R {#TweetR}  
     
 * If you are part of an R-Ladies Chapter, highlight a project your local chapter is working on.  
 * Share relevant articles, blog posts, etc. relevant to your work or interests in R.    
@@ -120,7 +120,7 @@ If someone asks a question, we suggest re-tweeting their question with your resp
   
   
   
-## Promotional Tweeting  
+## Promotional Tweeting {#PromoTweets}  
   
 **It is not permitted to promote companies and/or businesses through @WeAreRLadies.**   
   
