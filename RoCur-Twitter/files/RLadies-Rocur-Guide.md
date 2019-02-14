@@ -1,38 +1,23 @@
----
-title: '@WeAreRLadies: Curator Guide'
-author: "Guide for the R-Ladies Rotating Curation (RoCur) Twitter Handle"
-date: "Last Updated: `r format(Sys.time(), '%d %B al%Y')`"
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    includes:
-      in_header: guideheader.tex
-mainfont: Arial
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-  
-```{r out.width='25%', echo=FALSE, fig.align='center'}
-knitr::include_graphics('RoCur_Logo.jpg')
-```
+<img src="https://raw.githubusercontent.com/katherinesimeon/starter-kit/master/RoCur-Twitter/files/RoCur_Logo.jpg" height="200" />
   
   
-# About  
+# @WeAreRLadies: Curator Guide  
+  
+  
+## About
   
 The **[R-Ladies RoCur (Rotating Curation)](https://twitter.com/WeAreRLadies)** is a twitter handle that will feature an awesome R-Lady each week. This account is run by R-Ladies Global.      
   
   
    
-# Objectives  
+## Objectives  
   
 1. To encourage and maintain Twitter engagement within the R-Ladies community.    
 2. To spotlight female and minority genders (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender) and their great work in R.   
   
   
    
-# How Curating Works  
+## How Curating Works  
   
 * Curatorship begins each **Monday at 7:00 AM ET** and ends the following **Saturday at 12:00 PM ET**.   
 * For the duration of the curatorship, the profile photo will be a photo of the curator. This is updated by the RoCur administrator.    
@@ -45,11 +30,7 @@ The **[R-Ladies RoCur (Rotating Curation)](https://twitter.com/WeAreRLadies)** i
 
   
   
-\pagebreak  
-  
-  \  
-  
-# Curating Agreement  
+## Curating Agreement  
   
 _**By signing on to be a curator of @WeAreRLadies you agree to the following:**_  
   
@@ -80,11 +61,12 @@ _**By signing on to be a curator of @WeAreRLadies you agree to the following:**_
   
 Please follow the [Twitter terms of service](https://help.twitter.com/en/rules-and-policies/twitter-rules#) The administrators of @WeAreRLadies reserve the right to warn or revoke the access of anyone who violates Twitter’s terms of service or breaches any of the above rules.  
   
-\pagebreak  
   
-# Tweeting Tips  
   
-## Introducing Yourself  
+  
+## Tweeting Tips  
+  
+### Introducing Yourself  
   
 Start your curatorship by introducing yourself, what you do (your job, hobbies, etc.), and what you do in R.   
   
@@ -103,13 +85,11 @@ Suggestions on how to introduce yourself:
     + Please properly attribute your photos and graphics by asking permission from the source if not you and tagging the individual if able.  
     + Tag individuals who are in the photos if able.  
 * Use hashtags! (See below, [Tweeting about R](#TweetR), for more information on this)   
-* Add emojis and gifs when appropriate :)   
+* Add emojis and gifs when appropriate :smile:   
 * Have Fun!   
   
   
-\pagebreak 
-  
-## Tweeting about R {#TweetR}  
+### Tweeting about R {#TweetR}  
     
 * If you are part of an R-Ladies Chapter, highlight a project your local chapter is working on.  
 * Share relevant articles, blog posts, etc. relevant to your work or interests in R.    
@@ -120,12 +100,12 @@ Suggestions on how to introduce yourself:
     + Same goes for courses, books, and etc.   
 * Use hashtags whenever possible.  
     + Use the hashtag **#RLadies** whenever possible and relevant.  
-    + Use the **#rstats** hashtag when you share something that can be useful for the greater R community (e.g. a cool package); however, don’t use it when saying “Oh I’m doing R look at my screen” because this would create clutter in the R hashtag timeline and potentially lead to people blocking/silencing the account which we do not want. ;)      
+    + Use the **#rstats** hashtag when you share something that can be useful for the greater R community (e.g. a cool package); however, don’t use it when saying “Oh I’m doing R look at my screen” because this would create clutter in the R hashtag timeline and potentially lead to people blocking/silencing the account which we do not want. :wink:      
   + Some other hashtag examples: **#dataviz, #rspatial, #opendata**    
   + You can also hashtag: package names, the location of your local chapter, etc.
   
   
-## Interacting with your audience  
+### Interacting with your audience  
   
 One goal of @WeAreRLadies is to maintain a strong R-Ladies community on Twitter! Therefore, please respond to people who interact with the account.   
   
@@ -139,9 +119,8 @@ If someone asks a question, we suggest re-tweeting their question with your resp
 * Create a twitter poll for followers to respond to. *Please note: You cannot create a twitter poll in Tweetdeck. We recommend creating a poll on your personal account and retweeting it via @WeAreRLadies.*  
   
   
-\pagebreak    
   
-# Promotional Tweeting  
+## Promotional Tweeting  
   
 **It is not permitted to promote companies and/or businesses through @WeAreRLadies.**   
   
@@ -158,7 +137,6 @@ Examples of promotional tweets that are not allowed include:
 *	“Buy this book about XYZ in R!”   
 *	“Here is an online course that might be useful”  
    
-  \  
    
 We encourage @WeAreRLadies curators to share free, openly-available resources to our audience and share personal experiences about using specific resources without promoting or soliciting on behalf of any particular company, business or service. This includes:  
   
