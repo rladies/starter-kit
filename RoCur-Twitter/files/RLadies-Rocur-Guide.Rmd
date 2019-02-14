@@ -139,3 +139,37 @@ If someone asks a question, we suggest re-tweeting their question with your resp
 * Create a twitter poll for followers to respond to. *Please note: You cannot create a twitter poll in Tweetdeck. We recommend creating a poll on your personal account and retweeting it via @WeAreRLadies.*  
   
   
+\pagebreak    
+  
+# Promotional Tweeting  
+  
+**It is not permitted to promote companies and/or businesses through @WeAreRLadies.**   
+  
+On this account, promoting a company, business, or service is broadly defined as any instance where any entity receives financial benefit from the twitter post. This includes:  
+  
+  
+* If you, the curator, receives remuneration for posting about a specific company, business, or service (including referral links).   
+*	If an organization, company, or individual receives profit from individuals using their service (i.e. users would have to pay for the service).  
+*	If the post actively solicits followers to partake in services where an entity receives financial benefit.  
+  
+  
+Examples of promotional tweets that are not allowed include:  
+  
+*	“Buy this book about XYZ in R!”   
+*	“Here is an online course that might be useful”  
+   
+  \  
+   
+We encourage @WeAreRLadies curators to share free, openly-available resources to our audience and share personal experiences about using specific resources without promoting or soliciting on behalf of any particular company, business or service. This includes:  
+  
+*	Discussing an open source package that you use and why it’s helpful.  
+*	Discussing what you use R for at your job.   
+*	Sharing free, openly-available resources that you used to learn R and explaining what you liked and disliked about this resource.  
+
+Examples include:  
+  
+*	“As my job at [company name], I do/learn/use XYZ in R”  
+*	“An awesome package I use for XYZ in R is [package name]. [function name] is especially useful for ABC (includes example)”  
+*	“My first introduction to XYZ was this blog post: URL”  
+  
+  
