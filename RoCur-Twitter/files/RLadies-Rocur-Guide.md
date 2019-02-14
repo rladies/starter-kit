@@ -89,7 +89,7 @@ Suggestions on how to introduce yourself:
 * Have Fun!   
   
   
-### Tweeting about R {#TweetR}  
+### Tweeting about R  
     
 * If you are part of an R-Ladies Chapter, highlight a project your local chapter is working on.  
 * Share relevant articles, blog posts, etc. relevant to your work or interests in R.    
