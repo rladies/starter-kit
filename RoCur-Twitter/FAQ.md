@@ -1,15 +1,13 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 
-# @WeAreRLadies: The R-Ladies RoCur  
+# @WeAreRLadies: Top 10 FAQs RoCur  
     
-## Top 10 FAQs
-  
-1. How do I tweet switch to WeAreRLadies profile?
+## How to do I start my 1st tweet as @WeAreRLadies?
+You can use Tweetdeck during your week as the curator. 
+Once you are logged into your own twitter account, you should be able to go to tweetdeck and click the “Tweet” button at the top lefthand corner and select @WeAreRLadies as the account you are tweeting from.
 
-2. How do I change profile pic?
-A week prior to your schedule, the organizer will send you an email to remind
-
-3. How to create thread via Tweet Deck
+## How to create thread via Tweet Deck
 View TweetDeck,  click to reply to the original tweet, then click on the user to switch to the WeAreRLadies users. 
 
-4. Can I create a poll
+
+
