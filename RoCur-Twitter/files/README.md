@@ -8,8 +8,22 @@ Please read our [Curator Guide](https://github.com/katherinesimeon/starter-kit/b
 ## Frequently Asked Questions   
     
 ### 1. How do I start my 1st tweet as @WeAreRLadies?
-You can use Tweetdeck during your week as the curator. 
-Once you are logged into your own twitter account, you should be able to go to tweetdeck and click the “Tweet” button at the top lefthand corner and select @WeAreRLadies as the account you are tweeting from.
+You can use Tweetdeck during your week as the curator. Log on to tweetdeck from your web browser, Iphone or Andriod App using your twitter credentials. You should see the screen similar to below.
+
+<br>
+
+<img src="https://github.com/nujcharee/starter-kit/blob/master/RoCur-Twitter/files/img/image.png" data-canonical-src="https://github.com/nujcharee/starter-kit/blob/master/RoCur-Twitter/files/img/image.png" />
+
+Click the “Tweet” button at the top lefthand corner and select @WeAreRLadies as the account you are tweeting from.
+
+
+### 2. Can I add photos, GIFs and video?
+
+Yes - you can add up to 4 photos, a GIF, or a video. 
+
+### 3. How to delete a tweet?
+Mistake happens! First of all, dont panic :) 
+
 
 ### 2. How do I create thread via Tweet Deck
 View TweetDeck,  click to reply to the original tweet, then click on the user to switch to the WeAreRLadies users. 
