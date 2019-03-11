@@ -478,7 +478,7 @@ Viviana Romero Alarcon
 
 ![](https://img.shields.io/badge/status-active-blue.svg) 
 
-Marcela Alfaro-Córdoba
+Marcela Alfaro-Córdoba, Fabiola Salazar Diaz, María Paula Mesén, Jimena Ruiz
 
 - meetup: [https://www.meetup.com/rladies-san-jose/](https://www.meetup.com/rladies-san-jose/)
 - twitter: [https://twitter.com/RLadiesCR](https://twitter.com/RLadiesCR)
