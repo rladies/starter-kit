@@ -12,7 +12,7 @@
   Provision of FREE events based on a combination of volunteering and
   funding/sponsorship where available.
 - **No commercial agenda**:
- Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims.
+ Chapters are started by individuals, not by companies.  Chapters can partner with companies for sponsorship in the form of venue space, food or other supplies.  Chapters and events may not be ‘used’ by a corporation/as a commercial vehicle for private aims. This also means that **speakers cannot give talks about paid products/services**, even if they don't work at the company offering the product/service.
 - **Org Structure & Legal Entities**: 
   R-Ladies is registered as California-based non-profit corporation, run by the Global Leadership team.
 - **Web presence**:
