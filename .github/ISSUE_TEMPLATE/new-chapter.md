@@ -21,3 +21,4 @@ assignees: ''
 - [ ] @cvitolo Set up Meetup page
 - [ ] @yabellini Set up chapter's email address
 - [ ] @hfrick Set up GitHub repository
+- [ ] @Athanasiamo Add chapter to the events import on the webpage
