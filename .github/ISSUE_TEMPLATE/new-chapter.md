@@ -16,8 +16,7 @@ assignees: ''
 
 ## Tasks
 
-- [ ] @lauracion Complete the onboarding (reply to organiser and update Current-Chapters.csv)
-- [ ] ??? Add organiser(s) to Slack
+- [ ] @lauracion Complete the onboarding (reply to organiser, update Current-Chapters.csv and add organiser(s) to Slack)
 - [ ] @cvitolo Set up Meetup page
 - [ ] @yabellini Set up chapter's email address
 - [ ] @hfrick Set up GitHub repository
