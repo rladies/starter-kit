@@ -7,10 +7,14 @@ assignees: ''
 
 ---
 
+## Basic info
+
 - City:
 - State/Region:
 - Country:
 - Organiser(s):
+
+## Tasks
 
 - [ ] @lauracion Complete the onboarding (reply to organiser and update Current-Chapters.csv)
 - [ ] ??? Add organiser(s) to Slack
