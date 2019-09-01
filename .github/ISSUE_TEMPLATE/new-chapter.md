@@ -1,11 +1,16 @@
 ---
-name: New chapter
+name: Set up a new chapter
 about: This is the list of tasks to complete in order to start a new chapter
 title: New chapter
 labels: onboarding
 assignees: ''
 
 ---
+
+- City:
+- State/Region:
+- Country:
+- Organiser(s):
 
 - [ ] @lauracion Complete the onboarding (reply to organiser and update Current-Chapters.csv)
 - [ ] ??? Add organiser(s) to Slack
