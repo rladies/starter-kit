@@ -23,7 +23,7 @@ You can use Tweetdeck during your week as the curator.
 * Yes - you can add up to 4 photos, a GIF, or a video. 
 
 ### 3. How to delete a tweet?
-Mistake happens! First of all, dont panic :) Tweets can be removed.
+Mistakes happen! First of all, dont panic :smile: Tweets can be removed.
 
 * Navigatate to tweet you wish to delete
 * Click on "..." on the top right of the creen
@@ -44,5 +44,8 @@ Yes! You can definitely like others' posts
 This isn't generally available on SAFARI, however at the time of writing this, CHROME has an extension you can download via https://chrome.google.com/webstore/detail/bettertweetdeck/micblkellenpbfapmcpcfhcoeohhnpob/related?hl=en 
 
 ### 6. How to add polls? 
-
+Unfortunately, you cannot create polls via Tweet Deck. We recommend creating a poll on your personal Twitter handle, then retweeting it via @WeAreRLadies.  
+  
+### 7. How do you pin a tweet to the @WeAreRLadies profile?  
+Unfortunately, you cannot pin tweets via Tweet Deck. If you want a specific tweet pinned, feel free to email WeAre@rladies.org or DM the account managers via Slack with a link to the tweet you want pinned aand we can pin it for you. 
 

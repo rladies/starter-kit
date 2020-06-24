@@ -22,7 +22,7 @@ The **[R-Ladies RoCur (Rotating Curation)](https://twitter.com/WeAreRLadies)** i
 * Curatorship begins each **Monday at 7:00 AM ET** and ends the following **Saturday at 12:00 PM ET**.   
 * For the duration of the curatorship, the profile photo will be a photo of the curator. This is updated by the RoCur administrator.    
 * The personal twitter handle of the curator will be in the bio (if applicable, you do not need to be a twitter user prior to curating).   
-* Your first post should introduce yourself to the account followers. Your first tweet should tell the audience: what you do (your job, hobbies, etc.), and what you do in R. You may want to pin this tweet so it stays at the top of the feed throughout the week.   
+* Your first post should introduce yourself to the account followers. Your first tweet should tell the audience: what you do (your job, hobbies, etc.), and what you do in R.   
 * Tweet throughout the week! We do not require that you tweet a specific number of times. But, we ask that you be as active as your schedule allows during your curatorship.  
 * Every Sunday, the administrator will update access of the account for the next curator via Tweetdeck.     
   
@@ -58,6 +58,7 @@ _**By signing on to be a curator of @WeAreRLadies you agree to the following:**_
   
 
 *In the event that you receive abuse while contributing, please do block the offender if you feel it necessary. If this does occur, please send the administrators an email weare@rladies.org or via the R-Ladies Community Slack, noting the offender’s Twitter handle and a description of the offense.*  
+   
   
 Please follow the [Twitter terms of service](https://help.twitter.com/en/rules-and-policies/twitter-rules#) The administrators of @WeAreRLadies reserve the right to warn or revoke the access of anyone who violates Twitter’s terms of service or breaches any of the above rules.  
   
@@ -79,6 +80,7 @@ Suggestions on how to introduce yourself:
 ### General Tweeting Guidelines   
   
 * We do not require that you tweet a specific number of times. But, we ask that you be as active as your schedule allows during your curatorship.    
+  + We completely understand if you are no longer able to curate during your scheduled week. We ask that you notify us by emailing WeAre@rladies.org as soon as you know you are unable to curate. We highly encourage you to reschedule your curation to another week!  
 * The content of your tweets is all up to you! But keep it relevant to R and/or R-Ladies. Make the account and its tweets useful for learning.   
 * Tweet pictures/graphics whenever possible.  
     + Posting photos from R-Ladies meetups or other R-related events is highly encouraged.  
@@ -119,7 +121,7 @@ If someone asks a question, we suggest re-tweeting their question with your resp
 * Create a twitter poll for followers to respond to. *Please note: You cannot create a twitter poll in Tweetdeck. We recommend creating a poll on your personal account and retweeting it via @WeAreRLadies.*  
   
   
-  
+                                    
 ## Promotional Tweeting   
   
 **It is not permitted to promote companies and/or businesses through @WeAreRLadies.**   
@@ -151,3 +153,4 @@ Examples include:
 *	“My first introduction to XYZ was this blog post: URL”  
   
   
+
