@@ -7,7 +7,7 @@ Some chapters run their own channels, which are subscribed by the global channel
 Since some chapters have their own channels, these videos do not show up in the R-Ladies Global channel, even if we highlight chapter channels on the page. 
 We would, however, love to link to videos in other channels so people can easily find more content.
 
-The Global channel has a playlist for each language we know there are R-Ladies videos of, and these would be the perfect place to add your chapters videos if you are running your own channel. 
+The Global channel has a playlist for each language we know there are R-Ladies videos of, and these would be the perfect place to add your chapters videos if you are running your own channel.
 
 Please [fill in this form](https://forms.gle/Fc5pjB1SDhLN1gvf8) to notify us about a video you want added to a playlist (or make a new playlist), and we will get to it as soon as we can.
 
