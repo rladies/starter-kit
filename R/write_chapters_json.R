@@ -2,6 +2,10 @@ write_chapters <- function(){
   data <- read.csv("Current-Chapters.csv", header = TRUE)
   names(data) <- tolower(names(data))
   
+  data <- unique(data)
+  
+  data <- dplyr::arrange(country, city)
+  
   # replace empty cells with NA
   data[data == ""] <- NA
   
