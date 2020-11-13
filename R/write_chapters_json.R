@@ -4,7 +4,7 @@ write_chapters <- function(){
   
   data <- unique(data)
   
-  data <- dplyr::arrange(country, city)
+  data <- dplyr::arrange(data, country, city)
   
   # replace empty cells with NA
   data[data == ""] <- NA
