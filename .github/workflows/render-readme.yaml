@@ -16,7 +16,7 @@ jobs:
       - name: Install packages
         run: |
           install.packages("remotes")
-          remotes::install_local(".")
+          #remotes::install_local(".")
           remotes::install_cran("dplyr")
           remotes::install_cran("jsonlite")
         shell: Rscript {0}
