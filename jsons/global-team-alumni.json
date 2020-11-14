@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Alice Daish",
+    "role": ["Leadership Team"],
+    "start": "July 2016",
+    "end": "2018",
+    "img": "alice_daish.png"
+  },
+  {
+    "name": "Chiin-Rui Tan",
+    "role": ["Leadership Team"],
+    "start": "July 2016",
+    "end": "May 2017",
+    "img": "chiinrui_tan.png"
+  },
+  {
+    "name": "Gabriela de Queiroz",
+    "role": ["Leadership Team"],
+    "start": "July 2016",
+    "end": "2019",
+    "img": "gabriela_de_queiroz.png"
+  },
+  {
+    "name": "Jesse Mostipak",
+    "role": ["Onboarding"],
+    "start": "Feb. 2020",
+    "end": "May 2020",
+    "img": "jesse_mostipak.png"
+  },
+  {
+    "name": "Rachel Kirkham",
+    "role": ["Leadership Team"],
+    "start": "July 2016",
+    "end": "Dec. 2016",
+    "img": "rachel_kirkham.png"
+  },
+  {
+    "name": "Sina Rüeger",
+    "role": ["Community Slack"],
+    "start": "March 2018",
+    "end": "May 2020",
+    "img": "sina_rüeger.png"
+  }
+]

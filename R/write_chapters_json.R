@@ -12,6 +12,6 @@ data[data == ""] <- NA
 data <- dplyr::nest_by(data, country, .key = "chapters")
 
 jsonlite::write_json(data, 
-                     "chapters.json", 
+                     file.path("jsons", "chapters.json"), 
                      pretty = TRUE)
 
