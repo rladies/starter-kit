@@ -1,13 +1,15 @@
 on:
   push:
     paths:
+      - global-team.csv
+      - global-team-alumni.csv
       - Current-Chapters.csv
 
-name: Write chapters.json
+name: Write website jsons
 
 jobs:
   render:
-    name: Write chapters.json
+    name: Write website jsons
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
@@ -20,11 +22,15 @@ jobs:
           remotes::install_cran("dplyr")
           remotes::install_cran("jsonlite")
         shell: Rscript {0}
+      - name: Write global-team.json
+        run: Rscript R/write_global-team.R
+      - name: Write global-team-alumni.json
+        run: Rscript R/write_global-team-alumni.R
       - name: Write chapters.json
         run: Rscript R/write_chapters_json.R
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git commit jsons/chapters.json -m 'Update chapters.json' || echo "No changes to commit"
+          git commit jsons/ -m 'Update website jsons' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
