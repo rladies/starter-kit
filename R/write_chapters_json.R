@@ -26,6 +26,7 @@ data <- dplyr::nest_by(data, country, state.region,
                 .key = "socials")
 
 data <- dplyr::nest_by(data, country, .key = "chapters")
+data$n_chapters <- sapply(data$chapters, nrow)
 
 jsonlite::write_json(data, 
                      file.path("jsons", "chapters.json"), 
