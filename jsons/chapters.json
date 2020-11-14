@@ -4,7 +4,7 @@
     "chapters": [
       {
         "city": "Algiers",
-        "meetup": "https://www.meetup.com/rladies-Algiers/",
+        "meetup": "rladies-Algiers",
         "organizers": ["Kamila Benadrouche", "Lounas Fairouz", "Zibani Fazia"],
         "email": "algiers@rladies.org",
         "status": "Prospective",
@@ -21,7 +21,7 @@
       {
         "state.region": "Buenos Aires",
         "city": "Buenos Aires",
-        "meetup": "https://www.meetup.com/rladies-buenos-aires/",
+        "meetup": "rladies-buenos-aires",
         "organizers": ["Paola Corrales", "Florencia D'Andrea", "Monica Alonso", "Priscilla Minotti", "Jimena Saucedo", "Maria Nanton", "Andrea Gomez"],
         "email": "buenosaires@rladies.org",
         "status": "Active",
@@ -38,7 +38,7 @@
       {
         "state.region": "Buenos Aires",
         "city": "La Plata",
-        "meetup": "https://www.meetup.com/rladies-la-plata/",
+        "meetup": "rladies-la-plata",
         "organizers": ["Sol Represa", "Myrian Aguilar", "Daniela Esquivel"],
         "email": "laplata@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -51,7 +51,7 @@
       {
         "state.region": "Chaco-Corrientes",
         "city": "Resistencia-Corrientes",
-        "meetup": "https://www.meetup.com/rladies-resistencia-corrientes/",
+        "meetup": "rladies-resistencia-corrientes",
         "organizers": ["Patricia Loto", "Roxana Noelia Villafañe"],
         "email": "rciactes@rladies.org",
         "status": "Active",
@@ -65,7 +65,7 @@
       {
         "state.region": "Córdoba",
         "city": "Córdoba",
-        "meetup": "https://www.meetup.com/rladies-cordoba/",
+        "meetup": "rladies-cordoba",
         "organizers": ["Juliana Benitez", "Fernanda García", "Marina Compagnuci"],
         "email": "cordoba@rladies.org",
         "status": "Active",
@@ -81,7 +81,7 @@
       {
         "state.region": "La Pampa",
         "city": "General Pico",
-        "meetup": "https://www.meetup.com/rladies-general-pico/",
+        "meetup": "rladies-general-pico",
         "organizers": ["Marysol Gatti"],
         "email": "generalpico@rladies.org",
         "status": "Active",
@@ -94,7 +94,7 @@
       {
         "state.region": "La Pampa",
         "city": "Santa Rosa",
-        "meetup": "https://www.meetup.com/rladies-santa-rosa/",
+        "meetup": "rladies-santa-rosa",
         "organizers": ["Yanina Bellini Saibene", "Marina Cock"],
         "email": "santarosa@rladies.org",
         "status": "Active",
@@ -109,7 +109,7 @@
       {
         "state.region": "Mendoza",
         "city": "Mendoza",
-        "meetup": "https://www.meetup.com/rladies-mendoza/",
+        "meetup": "rladies-mendoza",
         "organizers": ["Ana Laura Diedrichs", "Jan Strappa", "Brenda Canizo"],
         "email": "mendoza@rladies.org",
         "status": "Active",
@@ -124,7 +124,7 @@
       {
         "state.region": "Río Negro",
         "city": "Bariloche",
-        "meetup": "https://www.meetup.com/rladies-bariloche/",
+        "meetup": "rladies-bariloche",
         "organizers": ["Lina Moreno Azócar", "Sofía Ruiz", "Paula Fergnani"],
         "email": "bariloche@rladies.org",
         "status": "Active",
@@ -139,7 +139,7 @@
       {
         "state.region": "Santa Fe",
         "city": "Santa Fe",
-        "meetup": "https://www.meetup.com/rladies-santa-fe/",
+        "meetup": "rladies-santa-fe",
         "organizers": ["Melina Vidoni", "Liza Dosso", "Andrea Bergesio", "Mariel Lovatto", "Cecilia Román Miyasato"],
         "email": "santafe@rladies.org",
         "status": "Active",
@@ -156,7 +156,7 @@
       {
         "state.region": "Tierra del Fuego",
         "city": "Ushuaia",
-        "meetup": "https://www.meetup.com/rladies-ushuaia/",
+        "meetup": "rladies-ushuaia",
         "organizers": ["Lucía Rodríguez Planes", "Sami Dodino"],
         "email": "ushuaia@rladies.org",
         "status": "Active",
@@ -184,7 +184,7 @@
       {
         "state.region": "Queensland",
         "city": "Brisbane",
-        "meetup": "https://www.meetup.com/rladies-brisbane/",
+        "meetup": "rladies-brisbane",
         "organizers": ["Paula Andrea Martinez"],
         "email": "brisbane@rladies.org",
         "status": "Active",
@@ -198,7 +198,7 @@
       },
       {
         "city": "Adelaide",
-        "meetup": "https://www.meetup.com/rladies-adelaide/",
+        "meetup": "rladies-adelaide",
         "organizers": ["Marija Dmitrijeva", "Helen Dockrell", "Rachel Searston", "Melaine Smith", "Brittany Child"],
         "email": "adelaide@rladies.org",
         "status": "Active",
@@ -219,7 +219,7 @@
       },
       {
         "city": "Canberra",
-        "meetup": "https://www.meetup.com/rladies-canberra/",
+        "meetup": "rladies-canberra",
         "organizers": ["Emi Tanaka", "Alice Richardson", "Petra Kuhnert", "Pauline O'Shaughnessy", "Jiali Wang"],
         "email": "canberra@rladies.org",
         "status": "Active",
@@ -231,7 +231,7 @@
       },
       {
         "city": "Melbourne",
-        "meetup": "https://www.meetup.com/rladies-melbourne/",
+        "meetup": "rladies-melbourne",
         "organizers": ["Anna Quaglieri", "Sepideh Foroutan", "Alex Garnham", "Marie Trussart", "Lucy Liu", "Adele Barugahare", "Nikki Rubinson"],
         "email": "melbourne@rladies.org",
         "status": "Active",
@@ -245,7 +245,7 @@
       },
       {
         "city": "Perth",
-        "meetup": "https://www.meetup.com/rladies-perth/",
+        "meetup": "rladies-perth",
         "organizers": ["Alyce Russell", "Nicola Armstrong", "Rebecca Lange", "Sarita Bennett"],
         "email": "perth@rladies.org",
         "status": "Active",
@@ -257,7 +257,7 @@
       },
       {
         "city": "Sydney",
-        "meetup": "https://www.meetup.com/rladies-sydney/",
+        "meetup": "rladies-sydney",
         "organizers": ["Jenny Richmond"],
         "email": "sydney@rladies.org",
         "status": "Active",
@@ -285,7 +285,7 @@
     "chapters": [
       {
         "city": "Linz",
-        "meetup": "https://www.meetup.com/rladies-linz/",
+        "meetup": "rladies-linz",
         "organizers": ["Lucia Gjeltema"],
         "email": "linz@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -298,7 +298,7 @@
       },
       {
         "city": "Vienna",
-        "meetup": "https://www.meetup.com/rladies-vienna/",
+        "meetup": "rladies-vienna",
         "organizers": ["Laura Vana"],
         "email": "vienna@rladies.org",
         "status": "Active",
@@ -330,7 +330,7 @@
     "chapters": [
       {
         "city": "Brussels",
-        "meetup": "https://www.meetup.com/rladies-brussels/",
+        "meetup": "rladies-brussels",
         "organizers": ["Suzan Baert", "Huong Nguyen"],
         "email": "brussels@rladies.org",
         "status": "Active",
@@ -343,7 +343,7 @@
       },
       {
         "city": "Leuven",
-        "meetup": "https://www.meetup.com/rladies-leuven/",
+        "meetup": "rladies-leuven",
         "organizers": ["Theresa Elise Wege", "Veronica Llorens"],
         "email": "leuven@rladies.org",
         "status": "Retired on 01-04-2020",
@@ -362,7 +362,7 @@
     "chapters": [
       {
         "city": "Cotonou",
-        "meetup": "https://www.meetup.com/rladies-cotonou/",
+        "meetup": "rladies-cotonou",
         "organizers": ["Nadejda Sero", "Benedicta Essuon"],
         "email": "cotonou@rladies.org",
         "status": "Active",
@@ -380,7 +380,7 @@
     "chapters": [
       {
         "city": "Cochabamba",
-        "meetup": "https://www.meetup.com/rladies-cochabamba/",
+        "meetup": "rladies-cochabamba",
         "organizers": ["Abigail Geronimo Jimenez"],
         "status": "Active",
         "socials": [
@@ -389,7 +389,7 @@
       },
       {
         "city": "La Paz",
-        "meetup": "https://www.meetup.com/rladies-la-paz/",
+        "meetup": "rladies-la-paz",
         "organizers": ["Nathaly Alarcon", "Orietha Castillo", "Ruth Chirinos"],
         "email": "lapaz@rladies.org",
         "status": "Active",
@@ -426,7 +426,7 @@
       {
         "state.region": "Bahia",
         "city": "Salvador",
-        "meetup": "https://www.meetup.com/rladies-salvador/",
+        "meetup": "rladies-salvador",
         "organizers": ["Karla Patricia Santos Oliveira Rodriguez Esquerre", "Júlia Carolina"],
         "email": "salvador@rladies.org",
         "status": "Active",
@@ -439,7 +439,7 @@
       {
         "state.region": "Ceará",
         "city": "Fortaleza",
-        "meetup": "https://www.meetup.com/rladies-fortaleza/",
+        "meetup": "rladies-fortaleza",
         "organizers": ["Taís Maria Nunes Carvalho"],
         "email": "fortaleza@rladies.org",
         "status": "Active",
@@ -450,7 +450,7 @@
       {
         "state.region": "Espírito Santo",
         "city": "Vitória",
-        "meetup": "https://www.meetup.com/rladies-vitoria/",
+        "meetup": "rladies-vitoria",
         "organizers": ["Ornella Scardua", "Agatha Rodrigues"],
         "email": "vitoria@rladies.org",
         "status": "Active",
@@ -463,7 +463,7 @@
       {
         "state.region": "Goiás",
         "city": "Goiânia",
-        "meetup": "https://www.meetup.com/rladies-goiania/",
+        "meetup": "rladies-goiania",
         "organizers": ["Fernanda Kelly"],
         "email": "goiania@rladies.org",
         "status": "Active",
@@ -474,7 +474,7 @@
       {
         "state.region": "Minas Gerais",
         "city": "Belo Horizonte",
-        "meetup": "https://www.meetup.com/rladies-belo-horizonte/",
+        "meetup": "rladies-belo-horizonte",
         "organizers": ["Layla Comparin", "Larissa Sayuri", "Numiá Gomes", "Ana Carolina Dias"],
         "email": "belohorizonte@rladies.org",
         "status": "Active",
@@ -492,7 +492,7 @@
       {
         "state.region": "Minas Gerais",
         "city": "Lavras",
-        "meetup": "https://www.meetup.com/rladies-lavras/",
+        "meetup": "rladies-lavras",
         "organizers": ["Izabela Oliveira", "Paula Santos"],
         "email": "lavras@rladies.org",
         "status": "Active",
@@ -512,7 +512,7 @@
       {
         "state.region": "Parana",
         "city": "Curitiba",
-        "meetup": "https://www.meetup.com/rladies-curitiba/",
+        "meetup": "rladies-curitiba",
         "organizers": ["Suellen Teixeira Zavadzki de Pauli", "Jhenifer Caetano", "Bruna Wundervald"],
         "email": "curitiba@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -525,7 +525,7 @@
       {
         "state.region": "Pernambuco",
         "city": "Recife",
-        "meetup": "https://www.meetup.com/rladies-recife/",
+        "meetup": "rladies-recife",
         "organizers": ["Larissa Lima", "Nathália Demetrio Vasconcelos Moura", "Edneide Ramalho", "Anny Kerollayny", "Bruna Gregory Palm", "Cristine Rauber Oliveira", "Anabeth Petry Radünz", "Ranah Duarte Costa", "Luana Rodrigues", "Heloisa de Melo Rodrigues"],
         "email": "recife@rladies.org",
         "status": "Active",
@@ -547,7 +547,7 @@
       {
         "state.region": "Rio de Janeiro",
         "city": "Niteroi",
-        "meetup": "https://www.meetup.com/rladies-niteroi/",
+        "meetup": "rladies-niteroi",
         "organizers": ["Noelle Camello", "Luciane Alcoforado", "Julia Hellen Franco Ferreira"],
         "email": "niteroi@rladies.org",
         "status": "Active",
@@ -558,7 +558,7 @@
       {
         "state.region": "Rio de Janeiro",
         "city": "Rio de Janeiro",
-        "meetup": "https://www.meetup.com/rladies-rio/",
+        "meetup": "rladies-rio",
         "organizers": ["Andrea Sánchez-Tapia", "Beatriz Pinna", "Clemencia Mora", "Priscila Hohberg", "Sara Mortara", "Noele Ribeiro"],
         "email": "rio@rladies.org",
         "status": "Active",
@@ -574,7 +574,7 @@
       {
         "state.region": "Rio Grande do Norte",
         "city": "Natal",
-        "meetup": "https://www.meetup.com/rladies-natal/",
+        "meetup": "rladies-natal",
         "organizers": ["Milagros Villavicencio", "Lumi Mevi"],
         "email": "natal@rladies.org",
         "status": "Active",
@@ -589,7 +589,7 @@
       {
         "state.region": "Rio Grande do Sul",
         "city": "Porto Alegre",
-        "meetup": "https://www.meetup.com/rladies-porto-alegre/",
+        "meetup": "rladies-porto-alegre",
         "organizers": ["Iara Passos"],
         "email": "poa@rladies.org",
         "status": "Active",
@@ -603,7 +603,7 @@
       {
         "state.region": "Santa Catarina",
         "city": "Florianópolis",
-        "meetup": "https://www.meetup.com/rladies-florianopolis/",
+        "meetup": "rladies-florianopolis",
         "organizers": ["Camila Thais Weber"],
         "email": "florianopolis@rladies.org",
         "status": "Active",
@@ -625,7 +625,7 @@
       {
         "state.region": "São Paulo",
         "city": "Americana",
-        "meetup": "https://www.meetup.com/rladies-americana/",
+        "meetup": "rladies-americana",
         "organizers": ["Mariana Mendes"],
         "status": "Retired on 29-09-2019",
         "socials": [
@@ -646,7 +646,7 @@
       {
         "state.region": "São Paulo",
         "city": "Ribeirão Preto",
-        "meetup": "https://www.meetup.com/rladies-ribeirao-preto/",
+        "meetup": "rladies-ribeirao-preto",
         "organizers": ["Francesca Belem Lopes Palmeira"],
         "email": "ribeirao-preto@rladies.org",
         "status": "Active",
@@ -675,7 +675,7 @@
       {
         "state.region": "São Paulo",
         "city": "São Paulo",
-        "meetup": "https://www.meetup.com/rladies-sao-paulo/",
+        "meetup": "rladies-sao-paulo",
         "organizers": ["Haydée Svab", " Alissa Munerato", "Bruna Wundervald", "Beatriz Milz", "Bruna Garbes", "Nathália Demetrio", "Jean Prado", "Renata Hirota"],
         "email": "saopaulo@rladies.org",
         "status": "Active",
@@ -728,7 +728,7 @@
     "chapters": [
       {
         "city": "Yaounde",
-        "meetup": "https://www.meetup.com/rladies-yaounde/",
+        "meetup": "rladies-yaounde",
         "organizers": ["Marie Therese Feujio"],
         "email": "yaounde@rladies.org",
         "status": "Active",
@@ -745,7 +745,7 @@
       {
         "state.region": "Alberta",
         "city": "Calgary",
-        "meetup": "https://www.meetup.com/rladies-calgary/",
+        "meetup": "rladies-calgary",
         "organizers": ["Marta Vidal García", "Soane Mota dos Santos"],
         "status": "Active",
         "socials": [
@@ -765,7 +765,7 @@
       {
         "state.region": "British Columbia",
         "city": "Vancouver",
-        "meetup": "https://www.meetup.com/rladies-vancouver/",
+        "meetup": "rladies-vancouver",
         "organizers": ["Anna Posacka", "Marion Shadbol", "Nazlı Özüm Kafaee", "Raïssa Philibert", "Jasmine Lai", "Lucia Darrow", "Lisa Cao"],
         "email": "vancouver@rladies.org",
         "status": "Active",
@@ -779,7 +779,7 @@
       {
         "state.region": "British Columbia",
         "city": "Victoria",
-        "meetup": "https://www.meetup.com/rladies-victoria/",
+        "meetup": "rladies-victoria",
         "organizers": ["Lisa McEwen"],
         "email": "victoriabc@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -802,7 +802,7 @@
       {
         "state.region": "Ontario",
         "city": "London",
-        "meetup": "https://www.meetup.com/rladies-ldnont/",
+        "meetup": "rladies-ldnont",
         "organizers": ["Daryn Cushnie-Sparrow", "Caitlin Coughler", "Olivia Daub"],
         "email": "ldnont@rladies.org",
         "status": "Active",
@@ -817,7 +817,7 @@
       {
         "state.region": "Ontario",
         "city": "Ottawa",
-        "meetup": "https://www.meetup.com/rladies-ottawa/",
+        "meetup": "rladies-ottawa",
         "organizers": ["Michelle Fairbrother", "Stephanie Houle"],
         "email": "ottawa@rladies.org",
         "status": "Active",
@@ -828,7 +828,7 @@
       {
         "state.region": "Ontario",
         "city": "Toronto",
-        "meetup": "https://www.meetup.com/rladies-toronto/",
+        "meetup": "rladies-toronto",
         "organizers": ["Sharla Gelfand", "Monica Alexander", "Nicole Radziwill"],
         "email": "toronto@rladies.org",
         "status": "Active",
@@ -843,7 +843,7 @@
       {
         "state.region": "Ontario",
         "city": "Waterloo",
-        "meetup": "https://www.meetup.com/rladies-waterloo/",
+        "meetup": "rladies-waterloo",
         "organizers": ["Lauren Yee"],
         "email": "waterloo@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -856,7 +856,7 @@
       {
         "state.region": "Québec",
         "city": "Montréal",
-        "meetup": "https://www.meetup.com/rladies-montreal/",
+        "meetup": "rladies-montreal",
         "organizers": ["Corinne Riddell", "Kathryn Morrison"],
         "email": "montreal@rladies.org",
         "status": "Active",
@@ -876,7 +876,7 @@
       {
         "state.region": "Metropolitana",
         "city": "Santiago de Chile",
-        "meetup": "https://www.meetup.com/rladies-scl/",
+        "meetup": "rladies-scl",
         "organizers": ["Gabriela Sandoval", "Riva Quiroga", "Stephanie Orellana"],
         "email": "santiago@rladies.org",
         "status": "Active",
@@ -891,7 +891,7 @@
       {
         "state.region": "Valparaíso",
         "city": "Valparaíso",
-        "meetup": "https://www.meetup.com/rladies-valparaiso/",
+        "meetup": "rladies-valparaiso",
         "organizers": ["Riva Quiroga", "Lissy Arce"],
         "email": "valparaiso@rladies.org",
         "status": "Active",
@@ -904,7 +904,7 @@
       },
       {
         "city": "Concepción",
-        "meetup": "https://www.meetup.com/rladies-concepcion/",
+        "meetup": "rladies-concepcion",
         "organizers": ["Macarena Valenzuela Beltrán", "Camila Molina"],
         "email": "concepcion@rladies.org",
         "status": "Active",
@@ -914,7 +914,7 @@
       },
       {
         "city": "Talca",
-        "meetup": "https://www.meetup.com/rladies-talca/",
+        "meetup": "rladies-talca",
         "organizers": ["Alejandra Andrea Tapia Silva"],
         "email": "talca@rladies.org",
         "status": "Active",
@@ -930,7 +930,7 @@
     "chapters": [
       {
         "city": "Beijing",
-        "meetup": "https://www.meetup.com/rladies-beijing/",
+        "meetup": "rladies-beijing",
         "organizers": ["Xu Sabrina", "Zuqun WANG", "Hannah Rose Kirk", "Clara WANG", "Xiaolin LIU", "Yujie GUO", "Angelle LIU"],
         "email": "beijing@rladies.org",
         "status": "Active",
@@ -946,7 +946,7 @@
     "chapters": [
       {
         "city": "Barranquilla",
-        "meetup": "https://www.meetup.com/rladies-barranquilla/",
+        "meetup": "rladies-barranquilla",
         "organizers": ["Mary Rivero", "Isabel Vázquez", "Viviana Flórez", "Danisse Carrascal", "María Arrieta."],
         "email": "barranquilla@rladies.org",
         "status": "Active",
@@ -961,7 +961,7 @@
       },
       {
         "city": "Bogotá",
-        "meetup": "https://www.meetup.com/rladies-bogota/",
+        "meetup": "rladies-bogota",
         "organizers": ["Verónica Toro"],
         "email": "bogota@rladies.org",
         "status": "Active",
@@ -989,7 +989,7 @@
       },
       {
         "city": "Medellin",
-        "meetup": "https://www.meetup.com/rladies-medellin/",
+        "meetup": "rladies-medellin",
         "organizers": ["Angie Correa", "Valentina Clavijo", "Sara Garcés", "Olga Úsuga", "Carmen Patiño"],
         "email": "medellin@rladies.org",
         "status": "Active",
@@ -1007,7 +1007,7 @@
     "chapters": [
       {
         "city": "San José",
-        "meetup": "https://www.meetup.com/rladies-san-jose/",
+        "meetup": "rladies-san-jose",
         "organizers": ["Marcela Alfaro-Córdoba", "Fabiola Salazar", "Jimena Ruiz", "Andrea Vargas", "Daniely Hernández", "María Paula Mesen", "Paula Rodríguez"],
         "email": "sanjoseCR@rladies.org",
         "status": "Active",
@@ -1049,7 +1049,7 @@
       },
       {
         "city": "Copenhagen",
-        "meetup": "https://www.meetup.com/rladies-copenhagen/",
+        "meetup": "rladies-copenhagen",
         "organizers": ["Kristina Gregorio", "Diana Lucatero"],
         "email": "copenhagen@rladies.org",
         "status": "Active",
@@ -1081,7 +1081,7 @@
     "chapters": [
       {
         "city": "Guayaquil",
-        "meetup": "https://www.meetup.com/rladies-guayaquil/",
+        "meetup": "rladies-guayaquil",
         "organizers": ["Zulemma Bazurto", "Diana Minda"],
         "email": "guayaquil@rladies.org",
         "status": "Active",
@@ -1094,7 +1094,7 @@
       },
       {
         "city": "Puerto Ayora",
-        "meetup": "https://www.meetup.com/rladies-galapagos-islands/",
+        "meetup": "rladies-galapagos-islands",
         "organizers": ["Denisse Fierro Arcos"],
         "email": "galapagos@rladies.org",
         "status": "Active",
@@ -1107,7 +1107,7 @@
       },
       {
         "city": "Quito",
-        "meetup": "https://www.meetup.com/rladies-quito/",
+        "meetup": "rladies-quito",
         "organizers": ["Elena Chicaiza", "Carolina Cañizares", "Rosi Bolaños"],
         "email": "quito@rladies.org",
         "status": "Active",
@@ -1141,7 +1141,7 @@
     "chapters": [
       {
         "city": "Addis Ababa",
-        "meetup": "https://www.meetup.com/rladies-addis-ababa/",
+        "meetup": "rladies-addis-ababa",
         "organizers": ["Margareth Gfrerer"],
         "email": "addisababa@rladies.org",
         "status": "Active",
@@ -1168,7 +1168,7 @@
     "chapters": [
       {
         "city": "Helsinki",
-        "meetup": "https://www.meetup.com/rladies-helsinki/",
+        "meetup": "rladies-helsinki",
         "organizers": ["Suvi Vasama", "Eija-Leena Koponen"],
         "email": "helsinki@rladies.org",
         "status": "Active",
@@ -1195,7 +1195,7 @@
       },
       {
         "city": "Lyon",
-        "meetup": "https://www.meetup.com/rladies-lyon/",
+        "meetup": "rladies-lyon",
         "organizers": ["Shama Virani", "Hannah Lennon", "Citadel Cabasag", "Nada Assi", "Florence Guida"],
         "email": "lyon@rladies.org",
         "status": "Active",
@@ -1208,7 +1208,7 @@
       },
       {
         "city": "Montpellier",
-        "meetup": "https://www.meetup.com/rladies-montpellier/",
+        "meetup": "rladies-montpellier",
         "organizers": ["Cécile Sauder", "Criscely Luján"],
         "email": "montpellier@rladies.org",
         "status": "Active",
@@ -1220,7 +1220,7 @@
       },
       {
         "city": "Paris",
-        "meetup": "https://www.meetup.com/rladies-paris/",
+        "meetup": "rladies-paris",
         "organizers": ["Diane Beldame", "Christina Bergmann", "Sarah Hosking", "Stéphanie Terrasse"],
         "email": "paris@rladies.org",
         "status": "Active",
@@ -1234,7 +1234,7 @@
       },
       {
         "city": "Strasbourg",
-        "meetup": "https://www.meetup.com/rladies-strasbourg/",
+        "meetup": "rladies-strasbourg",
         "organizers": ["Rita Giordano"],
         "email": "strasbourg@rladies.org",
         "status": "Active",
@@ -1253,7 +1253,7 @@
     "chapters": [
       {
         "city": "Tbilisi",
-        "meetup": "https://www.meetup.com/rladies-tbilisi/",
+        "meetup": "rladies-tbilisi",
         "organizers": ["Liili Abuladze", "Tamuna Margievi", "Mariam Asatiani"],
         "email": "tbilisi@rladies.org",
         "status": "Active",
@@ -1274,7 +1274,7 @@
       {
         "state.region": "Hessen",
         "city": "Frankfurt",
-        "meetup": "https://www.meetup.com/rladies-frankfurt/",
+        "meetup": "rladies-frankfurt",
         "organizers": ["Sandra Pintor", "Myriam Traub", "Lara Vivian", "Natalie Filmann"],
         "email": "frankfurt@rladies.org",
         "status": "Active",
@@ -1287,7 +1287,7 @@
       },
       {
         "city": "Berlin",
-        "meetup": "https://www.meetup.com/rladies-berlin/",
+        "meetup": "rladies-berlin",
         "organizers": ["Christin Zasada", "Noa Tamir", "Hannah Tillmann"],
         "email": "berlin@rladies.org",
         "status": "Active",
@@ -1302,7 +1302,7 @@
       },
       {
         "city": "Freiburg",
-        "meetup": "https://www.meetup.com/rladies-freiburg/",
+        "meetup": "rladies-freiburg",
         "organizers": ["Divya Seernani", "Elisa Schneider", "Kyla McConnell"],
         "email": "freiburg@rladies.org",
         "status": "Active",
@@ -1350,7 +1350,7 @@
       },
       {
         "city": "Munich",
-        "meetup": "https://www.meetup.com/rladies-munich/",
+        "meetup": "rladies-munich",
         "organizers": ["Daloha Rodriguez-Molina", "Pamela Raquel Matias Garcia", "Dan Huang", "Choi Wai Maggie Chak"],
         "email": "munich@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -1400,7 +1400,7 @@
     "chapters": [
       {
         "city": "Hong Kong",
-        "meetup": "https://www.meetup.com/rladies-hong-kong/",
+        "meetup": "rladies-hong-kong",
         "organizers": ["Gabriela Mourão"],
         "email": "hongkong@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -1416,7 +1416,7 @@
     "chapters": [
       {
         "city": "Budapest",
-        "meetup": "https://www.meetup.com/rladies-budapest/",
+        "meetup": "rladies-budapest",
         "organizers": ["Ágnes Salánki", "Eszter Windhager-Pokol", "Zsuzsanna Szabó", "Rita Klein", "Berta Böjte", "Gerda Lukácsné Szabó"],
         "email": "budapest@rladies.org",
         "status": "Active",
@@ -1437,7 +1437,7 @@
       {
         "state.region": "Delhi",
         "city": "New Delhi",
-        "meetup": "https://www.meetup.com/rladies-new-delhi/",
+        "meetup": "rladies-new-delhi",
         "organizers": ["Anukriti Gupta", "Riya Gupta"],
         "email": "newdelhi@rladies.org",
         "status": "Active",
@@ -1460,7 +1460,7 @@
       {
         "state.region": "Karnataka",
         "city": "Bangalore",
-        "meetup": "https://www.meetup.com/rladies-bangalore/",
+        "meetup": "rladies-bangalore",
         "organizers": ["Adithi Upadhya", "Aparna Bindu", "Muthumari S", "Diksha Chawla", "Pragati Parikh", "Smruthi R", "Shefali Lokesh", "Radha Subramanian", "Dincy Mariyam"],
         "email": "bangalore@rladies.org",
         "status": "Active",
@@ -1471,7 +1471,7 @@
       {
         "state.region": "Maharashtra",
         "city": "Mumbai",
-        "meetup": "https://www.meetup.com/rladies-mumbai",
+        "meetup": "rladies-mumbai",
         "organizers": ["Heena Bhagat", "Manasi Mahadik"],
         "email": "mumbai@rladies.org",
         "status": "Active",
@@ -1482,7 +1482,7 @@
       {
         "state.region": "Maharashtra",
         "city": "Pune",
-        "meetup": "https://www.meetup.com/rladies-pune/",
+        "meetup": "rladies-pune",
         "organizers": ["Disha Patil", "Saranjeet Kaur"],
         "email": "pune@rladies.org",
         "status": "Active",
@@ -1496,7 +1496,7 @@
       {
         "state.region": "Tamil Nadu",
         "city": "Chennai",
-        "meetup": "https://www.meetup.com/rladies-chennai/",
+        "meetup": "rladies-chennai",
         "organizers": ["Praveena Mathews"],
         "email": "chennai@rladies.org",
         "status": "Active",
@@ -1510,7 +1510,7 @@
       {
         "state.region": "Tamil Nadu",
         "city": "Tiruchirappalli",
-        "meetup": "https://www.meetup.com/rladies-tiruchirappalli/",
+        "meetup": "rladies-tiruchirappalli",
         "organizers": ["Janani Selvaraj"],
         "email": "trichy@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -1554,7 +1554,7 @@
     "chapters": [
       {
         "city": "Banda Aceh",
-        "meetup": "https://www.meetup.com/rladies-banda-aceh/",
+        "meetup": "rladies-banda-aceh",
         "organizers": ["Salsabila Mahdi"],
         "email": "bandaaceh@rladies.org",
         "status": "Active",
@@ -1572,7 +1572,7 @@
       },
       {
         "city": "Bogor",
-        "meetup": "https://www.meetup.com/rladies-bogor/",
+        "meetup": "rladies-bogor",
         "organizers": ["Sabhrina Aninta", "Sheherazade", "Ulfah Mardhiah"],
         "email": "bogor@rladies.org",
         "status": "Active",
@@ -1582,7 +1582,7 @@
       },
       {
         "city": "Jakarta",
-        "meetup": "https://www.meetup.com/rladies-jakarta/",
+        "meetup": "rladies-jakarta",
         "organizers": ["Erika Siregar"],
         "email": "jakarta@rladies.org",
         "status": "Active",
@@ -1600,7 +1600,7 @@
     "chapters": [
       {
         "city": "Dublin",
-        "meetup": "https://www.meetup.com/rladies-dublin/",
+        "meetup": "rladies-dublin",
         "organizers": ["Jo Nie_"],
         "email": "dublin@rladies.org",
         "status": "Active",
@@ -1633,7 +1633,7 @@
     "chapters": [
       {
         "city": "Bari",
-        "meetup": "https://www.meetup.com/rladies-bari/",
+        "meetup": "rladies-bari",
         "organizers": ["Giovanna de Vincenzo", "Francesca Lamontanara"],
         "email": "bari@rladies.org",
         "status": "Active",
@@ -1655,7 +1655,7 @@
       },
       {
         "city": "Milan",
-        "meetup": "https://www.meetup.com/rladies-milan/",
+        "meetup": "rladies-milan",
         "organizers": ["Parvaneh Shafiei"],
         "email": "milan@rladies.org",
         "status": "Active",
@@ -1728,7 +1728,7 @@
       },
       {
         "city": "Nairobi",
-        "meetup": "https://www.meetup.com/rladies-nairobi/",
+        "meetup": "rladies-nairobi",
         "organizers": ["Lucy Njoki", "Maggie Wanjiru", "Faith Musili", "Shelmith Kariuki"],
         "email": "nairobi@rladies.org",
         "status": "Active",
@@ -1797,7 +1797,7 @@
     "chapters": [
       {
         "city": "Aguascalientes",
-        "meetup": "https://www.meetup.com/rladies-aguascalientes/",
+        "meetup": "rladies-aguascalientes",
         "organizers": ["Regina Isabel Medina", "Yadira Peralta"],
         "email": "aguascalientes@rladies.org",
         "status": "Active",
@@ -1823,7 +1823,7 @@
       },
       {
         "city": "Cuernavaca",
-        "meetup": "https://www.meetup.com/rladies-cuernavaca/",
+        "meetup": "rladies-cuernavaca",
         "organizers": ["Joselyn Chavez"],
         "email": "cuernavaca@rladies.org",
         "status": "Active",
@@ -1835,7 +1835,7 @@
       },
       {
         "city": "Guadalajara",
-        "meetup": "https://www.meetup.com/rladies-guadalajara/",
+        "meetup": "rladies-guadalajara",
         "organizers": ["Nancy Manzo", "Paola Manzo", "Agostina Porto"],
         "email": "guadalajara@rladies.org",
         "status": "Active",
@@ -1845,7 +1845,7 @@
       },
       {
         "city": "Mexico City",
-        "meetup": "https://www.meetup.com/rladies-cdmx/",
+        "meetup": "rladies-cdmx",
         "organizers": ["Silvia Eunice Gutiérrez de la Torre", "Maria Ortiz", "Mariana Carmona", "Mariana Godina"],
         "email": "cdmx@rladies.org",
         "status": "Active",
@@ -1860,7 +1860,7 @@
       },
       {
         "city": "Monterrey",
-        "meetup": "https://www.meetup.com/rladies-monterrey/",
+        "meetup": "rladies-monterrey",
         "organizers": ["Juana Martinez", "Verenice Amante"],
         "email": "monterrey@rladies.org",
         "status": "Active",
@@ -1886,7 +1886,7 @@
       },
       {
         "city": "Pachuca",
-        "meetup": "https://www.meetup.com/rladies-pachuca/",
+        "meetup": "rladies-pachuca",
         "organizers": ["Yesenia Jasso Arreola"],
         "email": "pachuca@rladies.org",
         "status": "Active",
@@ -1898,7 +1898,7 @@
       },
       {
         "city": "Puebla",
-        "meetup": "https://www.meetup.com/rladies-puebla/",
+        "meetup": "rladies-puebla",
         "organizers": ["Averi Giudicessi"],
         "email": "puebla@rladies.org",
         "status": "Active",
@@ -1910,7 +1910,7 @@
       },
       {
         "city": "Queretaro",
-        "meetup": "https://www.meetup.com/rladies-queretaro/",
+        "meetup": "rladies-queretaro",
         "organizers": ["Driselda Patricia Sánchez Aguirre", "Ana Betty Villaseñor", "Azalea Reyes Aguilar"],
         "email": "qro@rladies.org",
         "status": "Active",
@@ -1934,7 +1934,7 @@
       },
       {
         "city": "Xalapa",
-        "meetup": "https://www.meetup.com/rladies-xalapa/",
+        "meetup": "rladies-xalapa",
         "organizers": ["Marcela Dolores Guerra Osorno"],
         "email": "xalapa@rladies.org",
         "status": "Active",
@@ -1952,7 +1952,7 @@
     "chapters": [
       {
         "city": "Herceg Novi",
-        "meetup": "https://www.meetup.com/rladies-montenegro/",
+        "meetup": "rladies-montenegro",
         "organizers": ["Ivana Kecojevic"],
         "email": "montenegro@rladies.org",
         "status": "Retired on 01-04-2020",
@@ -1965,7 +1965,7 @@
       },
       {
         "city": "Podgorica",
-        "meetup": "https://www.meetup.com/rladies-podgorica/",
+        "meetup": "rladies-podgorica",
         "organizers": ["Elma Dervic"],
         "email": "podgorica@rladies.org",
         "status": "Active",
@@ -1981,7 +1981,7 @@
     "chapters": [
       {
         "city": "Rabat",
-        "meetup": "https://www.meetup.com/rladies-rabat/",
+        "meetup": "rladies-rabat",
         "organizers": ["Abir Alaoui"],
         "email": "rabat@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -1999,7 +1999,7 @@
     "chapters": [
       {
         "city": "Kathmandu",
-        "meetup": "https://www.meetup.com/rladies-kathmandu",
+        "meetup": "rladies-kathmandu",
         "organizers": ["Prakriti Dhungana", "Anupama Bishwokarma"],
         "email": "kathmandu@rladies.org",
         "status": "Active",
@@ -2025,7 +2025,7 @@
       },
       {
         "city": "Amsterdam",
-        "meetup": "https://www.meetup.com/rladies-amsterdam/",
+        "meetup": "rladies-amsterdam",
         "organizers": ["Tess Korthout", "Janine Khuc", "Iris de Vries"],
         "email": "amsterdam@rladies.org",
         "status": "Active",
@@ -2037,7 +2037,7 @@
       },
       {
         "city": "Den Bosch",
-        "meetup": "https://www.meetup.com/rladies-den-bosch/",
+        "meetup": "rladies-den-bosch",
         "organizers": ["Veerle van Son", "Luana Gomes Sousa"],
         "email": "denbosch@rladies.org",
         "status": "Active",
@@ -2071,7 +2071,7 @@
       },
       {
         "city": "Nijmegen",
-        "meetup": "https://www.meetup.com/rladies-nijmegen/",
+        "meetup": "rladies-nijmegen",
         "organizers": ["Sara Iacozza", "Eirini Zormpa"],
         "email": "nijmegen@rladies.org",
         "status": "Active",
@@ -2083,7 +2083,7 @@
       },
       {
         "city": "Rotterdam",
-        "meetup": "https://www.meetup.com/rladies-rotterdam/",
+        "meetup": "rladies-rotterdam",
         "organizers": ["Paloma Rojas", "Elena He", "Yalda Mohammadian", "Mădălina Naghi"],
         "email": "rotterdam@rladies.org",
         "status": "Active",
@@ -2105,7 +2105,7 @@
       },
       {
         "city": "Utrecht",
-        "meetup": "https://www.meetup.com/rladies-utrecht/",
+        "meetup": "rladies-utrecht",
         "organizers": ["Annelies Kers", "Dewi Koning"],
         "status": "Active",
         "socials": [
@@ -2116,7 +2116,7 @@
       },
       {
         "city": "Wageningen",
-        "meetup": "https://www.meetup.com/rladies-wageningen/",
+        "meetup": "rladies-wageningen",
         "organizers": ["Veronika Laine"],
         "email": "wageningen@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -2134,7 +2134,7 @@
     "chapters": [
       {
         "city": "Auckland",
-        "meetup": "https://www.meetup.com/rladies-auckland/",
+        "meetup": "rladies-auckland",
         "organizers": ["Kim Fitter", "Anna Fergusson", "Isabel Johnson"],
         "email": "auckland@rladies.org",
         "status": "Active",
@@ -2147,7 +2147,7 @@
       },
       {
         "city": "Christchurch",
-        "meetup": "https://www.meetup.com/rladies-christchurch/",
+        "meetup": "rladies-christchurch",
         "organizers": ["Vica Papp"],
         "email": "chch@rladies.org",
         "status": "Active",
@@ -2157,7 +2157,7 @@
       },
       {
         "city": "Nelson",
-        "meetup": "https://www.meetup.com/rladies-nelson/",
+        "meetup": "rladies-nelson",
         "organizers": ["Dana Briscoe"],
         "email": "nelson@rladies.org",
         "status": "Active",
@@ -2173,7 +2173,7 @@
     "chapters": [
       {
         "city": "Abuja",
-        "meetup": "https://www.meetup.com/rladies-abuja/",
+        "meetup": "rladies-abuja",
         "organizers": ["Bilikisu Wunmi Aderinto"],
         "email": "abuja@rladies.org",
         "status": "Active",
@@ -2193,7 +2193,7 @@
       },
       {
         "city": "Lagos",
-        "meetup": "https://www.meetup.com/rladies-lagos/",
+        "meetup": "rladies-lagos",
         "organizers": ["Alimi Eyitayo"],
         "email": "lagos@rladies.org",
         "status": "Active",
@@ -2217,7 +2217,7 @@
     "chapters": [
       {
         "city": "Bergen",
-        "meetup": "https://www.meetup.com/rladies-bergen",
+        "meetup": "rladies-bergen",
         "organizers": ["Jonelle Dickow Villar", "Julia Romanowska", "Astrid Lunde"],
         "email": "bergen@rladies.org",
         "status": "Active",
@@ -2229,7 +2229,7 @@
       },
       {
         "city": "Oslo",
-        "meetup": "https://www.meetup.com/rladies-oslo/",
+        "meetup": "rladies-oslo",
         "organizers": ["Athanasia Monika Mowinckel", "Lene Norderhaug Drosdal", "Aurora Voje"],
         "email": "oslo@rladies.org",
         "status": "Active",
@@ -2248,7 +2248,7 @@
     "chapters": [
       {
         "city": "Masqat",
-        "meetup": "https://www.meetup.com/rladies-masqat",
+        "meetup": "rladies-masqat",
         "organizers": ["Noora Said"],
         "email": "masqat@rladies.org",
         "status": "Active",
@@ -2264,7 +2264,7 @@
     "chapters": [
       {
         "city": "Asunción",
-        "meetup": "https://www.meetup.com/rladies-asuncion/",
+        "meetup": "rladies-asuncion",
         "organizers": ["Ivonne Aristizabal", "Flavia Sacco"],
         "email": "asuncion@rladies.org",
         "status": "Active",
@@ -2282,7 +2282,7 @@
     "chapters": [
       {
         "city": "Cusco",
-        "meetup": "https://www.meetup.com/rladies-cusco/",
+        "meetup": "rladies-cusco",
         "organizers": ["Karen Madeleine Marocho", "Joice K. Chavez", "Camila J. Vargas"],
         "email": "cusco@rladies.org",
         "status": "Active",
@@ -2292,7 +2292,7 @@
       },
       {
         "city": "Lima",
-        "meetup": "https://www.meetup.com/rladies-lima/",
+        "meetup": "rladies-lima",
         "organizers": ["Ivonne Rentería", "Vilma Romero", "Evelyn Gutierrez", "Yuriko Sosa", "Sherly Tarazona", "Luisa Quispe"],
         "email": "lima@rladies.org",
         "status": "Active",
@@ -2335,7 +2335,7 @@
       },
       {
         "city": "Warsaw",
-        "meetup": "http://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/",
+        "meetup": "http:www.meetup.comSpotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup",
         "organizers": ["Olga Mierzwa-Sulima", "Natalia Potocka", "Alicja Gosiewska", "Anna Kozak", "Katarzyna Woznica"],
         "email": "warsaw@rladies.org",
         "status": "Active",
@@ -2354,7 +2354,7 @@
     "chapters": [
       {
         "city": "Lisbon",
-        "meetup": "https://www.meetup.com/rladies-lisboa/",
+        "meetup": "rladies-lisboa",
         "organizers": ["Andreia Carlos", "Carolina Frias"],
         "email": "lisbon@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -2374,7 +2374,7 @@
     "chapters": [
       {
         "city": "Bucharest",
-        "meetup": "https://www.meetup.com/rladies-bucharest/",
+        "meetup": "rladies-bucharest",
         "organizers": ["Ines Teaca"],
         "email": "bucuresti@rladies.org",
         "status": "Active",
@@ -2440,7 +2440,7 @@
     "chapters": [
       {
         "city": "Belgrade",
-        "meetup": "https://www.meetup.com/rladies-belgrade/",
+        "meetup": "rladies-belgrade",
         "organizers": ["Nadica Miljkovic", "Vesna Oro", "Tatjana Kecojević"],
         "email": "belgrade@rladies.org",
         "status": "Active",
@@ -2452,7 +2452,7 @@
       },
       {
         "city": "Nis",
-        "meetup": "https://www.meetup.com/rladies-nis/",
+        "meetup": "rladies-nis",
         "organizers": ["Marija Veljković", "Andjela Todorović"],
         "email": "nis@rladies.org",
         "status": "Active",
@@ -2462,7 +2462,7 @@
       },
       {
         "city": "Novi Sad",
-        "meetup": "https://www.meetup.com/rladies-novi-sad/",
+        "meetup": "rladies-novi-sad",
         "organizers": ["Katica Ristic", "Tatjana Kecojević", "Olivera Grljević,Maja Pokusevski", "Ranka Medenica Todorović", "Milena Kresoja"],
         "email": "novisad@rladies.org",
         "status": "Active",
@@ -2480,7 +2480,7 @@
     "chapters": [
       {
         "city": "Cape Town",
-        "meetup": "https://www.meetup.com/rladies-cape-town/",
+        "meetup": "rladies-cape-town",
         "organizers": ["Theoni Photopoulou"],
         "email": "capetown@rladies.org",
         "status": "Active",
@@ -2501,7 +2501,7 @@
       },
       {
         "city": "Johannesburg",
-        "meetup": "https://www.meetup.com/rladies-johannesburg/",
+        "meetup": "rladies-johannesburg",
         "organizers": ["Vebashini Naidoo", "Retha Langa"],
         "email": "jozi@rladies.org",
         "status": "Active",
@@ -2520,7 +2520,7 @@
     "chapters": [
       {
         "city": "Barcelona",
-        "meetup": "http://www.meetup.com/rladies-barcelona/",
+        "meetup": "http:www.meetup.comrladies-barcelona",
         "organizers": ["Ania Alay", "Mireia Ramos", "Natalia Vilor,Sarah Bonnin"],
         "email": "bcn@rladies.org",
         "status": "Active",
@@ -2534,7 +2534,7 @@
       },
       {
         "city": "Bilbao",
-        "meetup": "https://www.meetup.com/rladies-bilbao/",
+        "meetup": "rladies-bilbao",
         "organizers": ["Diana Marcela Perez Valencia", "Lore Zumeta Olaskoaga", "Maria Xose Rodriguez Alvarez", "Amaia Abanda Elustondo", "Leire Citores Martinez", "Amaia Iparragirre", "Ainhoa Ochoa"],
         "email": "bilbao@rladies.org",
         "status": "Active",
@@ -2546,7 +2546,7 @@
       },
       {
         "city": "Madrid",
-        "meetup": "https://www.meetup.com/rladies-madrid/",
+        "meetup": "rladies-madrid",
         "organizers": ["Bea Hernández", "Inés Huertas", "Leticia Martín-Fuertes", "Elen Irazabal"],
         "email": "madrid@rladies.org",
         "status": "Active",
@@ -2575,7 +2575,7 @@
       },
       {
         "city": "Valencia",
-        "meetup": "https://www.meetup.com/rladies-valencia/",
+        "meetup": "rladies-valencia",
         "organizers": ["Lidia Contreras"],
         "email": "valencia@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -2593,7 +2593,7 @@
     "chapters": [
       {
         "city": "Colombo",
-        "meetup": "https://www.meetup.com/rladies-colombo/",
+        "meetup": "rladies-colombo",
         "organizers": ["Dilini Talagala", "Thiyanga Talagala"],
         "email": "colombo@rladies.org",
         "status": "Active",
@@ -2612,7 +2612,7 @@
     "chapters": [
       {
         "city": "Al-Khartum",
-        "meetup": "https://www.meetup.com/rladies-al-khartum",
+        "meetup": "rladies-al-khartum",
         "organizers": ["Sarah Abdelaziz", "Rana Ahmed", "Israa Abobaker"],
         "email": "al-khartum@rladies.org",
         "status": "Active",
@@ -2628,7 +2628,7 @@
     "chapters": [
       {
         "city": "Goteborg",
-        "meetup": "https://www.meetup.com/rladies-goteborg",
+        "meetup": "rladies-goteborg",
         "organizers": ["Erica Metheney", "Natalia Alvarado"],
         "email": "goteborg@rladies.org",
         "status": "Active",
@@ -2638,7 +2638,7 @@
       },
       {
         "city": "Stockholm",
-        "meetup": "https://www.meetup.com/rladies-stockholm/",
+        "meetup": "rladies-stockholm",
         "organizers": ["Elisabeth Dahlqwist", "Nina Lindell", "Maya Alsheh Ali", "Aminata Ndiaye", "Ana Turk", "Nissa Ferm", "Ashley Thompson"],
         "email": "stockholm@rladies.org",
         "status": "Active",
@@ -2657,7 +2657,7 @@
     "chapters": [
       {
         "city": "Lausanne",
-        "meetup": "https://www.meetup.com/rladies-lausanne/",
+        "meetup": "rladies-lausanne",
         "organizers": ["Ninon Mounier", "Liza Darrous"],
         "email": "rladieslausanne@gmail.com",
         "status": "Active",
@@ -2686,7 +2686,7 @@
     "chapters": [
       {
         "city": "Taipei",
-        "meetup": "https://www.meetup.com/rladies-taipei/",
+        "meetup": "rladies-taipei",
         "organizers": ["Juyin Tang", "Chiayi Yen", "Ning Chen"],
         "email": "taipei@rladies.org",
         "status": "Active",
@@ -2705,7 +2705,7 @@
     "chapters": [
       {
         "city": "Tunis",
-        "meetup": "https://www.meetup.com/rladies-tunis/",
+        "meetup": "rladies-tunis",
         "organizers": ["Hédia Tnani", "Haifa Ben Messaoud"],
         "email": "tunis@rladies.org",
         "status": "Active",
@@ -2721,7 +2721,7 @@
     "chapters": [
       {
         "city": "Ankara",
-        "meetup": "https://www.meetup.com/rladies-ankara/",
+        "meetup": "rladies-ankara",
         "organizers": ["Mubina Ipek"],
         "email": "ankara@rladies.org",
         "status": "Active",
@@ -2731,7 +2731,7 @@
       },
       {
         "city": "Eskisehir",
-        "meetup": "https://www.meetup.com/rladies-eskisehir",
+        "meetup": "rladies-eskisehir",
         "organizers": ["Betül KAN KILINÇ"],
         "email": "eskisehir@rladies.org",
         "status": "Active",
@@ -2744,7 +2744,7 @@
       },
       {
         "city": "Istanbul",
-        "meetup": "https://www.meetup.com/rladies-istanbul/",
+        "meetup": "rladies-istanbul",
         "organizers": ["Hazel Kavili"],
         "email": "istanbul@rladies.org",
         "status": "Active",
@@ -2757,7 +2757,7 @@
       },
       {
         "city": "Izmir",
-        "meetup": "https://www.meetup.com/rladies-izmir/",
+        "meetup": "rladies-izmir",
         "organizers": ["Necla Kayaalp"],
         "email": "izmir@rladies.org",
         "status": "Retired on 01-04-2020",
@@ -2808,7 +2808,7 @@
     "chapters": [
       {
         "city": "Kyiv",
-        "meetup": "https://www.meetup.com/rladies-kyiv/",
+        "meetup": "rladies-kyiv",
         "organizers": ["Iaroslava Mizai", "Tamara Koliada"],
         "email": "kyiv@rladies.org",
         "status": "Active",
@@ -2818,7 +2818,7 @@
       },
       {
         "city": "Lviv",
-        "meetup": "https://www.meetup.com/rladies-lviv/",
+        "meetup": "rladies-lviv",
         "organizers": ["Mariia Koliada"],
         "email": "lviv@rladies.org",
         "status": "Active",
@@ -2848,7 +2848,7 @@
     "chapters": [
       {
         "city": "Cambridge",
-        "meetup": "https://www.meetup.com/rladies-cambridge/",
+        "meetup": "rladies-cambridge",
         "organizers": ["Alexia Cardona"],
         "email": "cambridge@rladies.org",
         "status": "Active",
@@ -2861,7 +2861,7 @@
       },
       {
         "city": "Coventry",
-        "meetup": "https://www.meetup.com/rladies-coventry/",
+        "meetup": "rladies-coventry",
         "organizers": ["Marion Coumel", "Sophie Hardy"],
         "email": "coventry@rladies.org",
         "status": "Active",
@@ -2871,7 +2871,7 @@
       },
       {
         "city": "Edinburgh",
-        "meetup": "https://www.meetup.com/rladies-edinburgh/",
+        "meetup": "rladies-edinburgh",
         "organizers": ["Karim Rivera", "Alicia Forsberg"],
         "email": "edinburgh@rladies.org",
         "status": "Active",
@@ -2883,7 +2883,7 @@
       },
       {
         "city": "Exeter",
-        "meetup": "https://www.meetup.com/rladies-exeter/",
+        "meetup": "rladies-exeter",
         "organizers": ["Raluca Popp"],
         "email": "exeter@rladies.org",
         "status": "Retired on 09-04-2020",
@@ -2893,7 +2893,7 @@
       },
       {
         "city": "Glasgow",
-        "meetup": "https://www.meetup.com/rladies-glasgow/",
+        "meetup": "rladies-glasgow",
         "organizers": ["Kate Pyper"],
         "email": "glasgow@rladies.org",
         "status": "Active",
@@ -2903,7 +2903,7 @@
       },
       {
         "city": "Lancaster",
-        "meetup": "https://www.meetup.com/rladies-lancaster/",
+        "meetup": "rladies-lancaster",
         "organizers": ["Rhian Davies"],
         "email": "lancaster@rladies.org",
         "status": "Active",
@@ -2916,7 +2916,7 @@
       },
       {
         "city": "Liverpool",
-        "meetup": "https://www.meetup.com/rladies-liverpool/",
+        "meetup": "rladies-liverpool",
         "organizers": ["Diana Iserazo"],
         "email": "liverpool@rladies.org",
         "status": "Retired on 01-04-2020",
@@ -2928,7 +2928,7 @@
       },
       {
         "city": "London",
-        "meetup": "https://www.meetup.com/rladies-london/",
+        "meetup": "rladies-london",
         "organizers": ["Claudia Vitolo", "Hannah Frick", "Grace Meyer", "Kasia Kulma", "Agnes Salanki", "Emma Vestesson"],
         "email": "london@rladies.org",
         "status": "Active",
@@ -2942,7 +2942,7 @@
       },
       {
         "city": "Loughborough",
-        "meetup": "https://www.meetup.com/rladies-loughborough/",
+        "meetup": "rladies-loughborough",
         "organizers": ["Theresa Elise Wege", "Kerry Rosenthal", "Steph Farley"],
         "email": "loughborough@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -2955,7 +2955,7 @@
       },
       {
         "city": "Manchester",
-        "meetup": "https://www.meetup.com/rladies-manchester/",
+        "meetup": "rladies-manchester",
         "organizers": ["Ellen Talbot", "Bethan Blakeley"],
         "email": "manchester@rladies.org",
         "status": "Active",
@@ -2968,7 +2968,7 @@
       },
       {
         "city": "Newcastle",
-        "meetup": "https://www.meetup.com/rladies-newcastle/",
+        "meetup": "rladies-newcastle",
         "organizers": ["Jessica Ward", "Friederike Bolam", "Louise Mair", "Danielle Turton", "Lauren Ackerman", "Aoife O'Neill"],
         "email": "newcastle@rladies.org",
         "status": "Active",
@@ -2978,7 +2978,7 @@
       },
       {
         "city": "Oxford",
-        "meetup": "https://www.meetup.com/rladies-oxford/",
+        "meetup": "rladies-oxford",
         "organizers": ["Punam Amratia", "Kasia Kedzierska", "Fran Reynolds", "Varshita Sher"],
         "email": "oxford@rladies.org",
         "status": "Active",
@@ -3018,7 +3018,7 @@
     "chapters": [
       {
         "city": "Montevideo",
-        "meetup": "https://www.meetup.com/rladies-montevideo/",
+        "meetup": "rladies-montevideo",
         "organizers": ["Daniela Vázquez", "Natalia da Silva", "María Inés Fariello", "Paula Pereda"],
         "email": "montevideo@rladies.org",
         "status": "Active",
@@ -3039,7 +3039,7 @@
       {
         "state.region": "Alabama",
         "city": "Montgomery",
-        "meetup": "https://www.meetup.com/rladies-montgomery/",
+        "meetup": "rladies-montgomery",
         "organizers": ["Rachel Ramirez"],
         "status": "Retired on 29-09-2019",
         "socials": [
@@ -3049,7 +3049,7 @@
       {
         "state.region": "Arizona",
         "city": "Tucson",
-        "meetup": "https://www.meetup.com/rladies-tucson-az/",
+        "meetup": "rladies-tucson-az",
         "organizers": ["Adriana Picoral"],
         "email": "tuscon@rladies.org",
         "status": "Active",
@@ -3062,7 +3062,7 @@
       {
         "state.region": "Arkansas",
         "city": "Fayetteville",
-        "meetup": "https://www.meetup.com/rladies-fayetteville/",
+        "meetup": "rladies-fayetteville",
         "organizers": ["Morgan Middlebrooks"],
         "email": "fayetteville@rladies.org",
         "status": "Active",
@@ -3111,7 +3111,7 @@
       {
         "state.region": "California",
         "city": "Irvine",
-        "meetup": "https://www.meetup.com/rladies-irvine/",
+        "meetup": "rladies-irvine",
         "organizers": ["Alyssa Columbus", "Linda Palmer", "Madeline Bauer"],
         "email": "irvine@rladies.org",
         "status": "Active",
@@ -3127,7 +3127,7 @@
       {
         "state.region": "California",
         "city": "Los Angeles",
-        "meetup": "https://www.meetup.com/rladies-la/",
+        "meetup": "rladies-la",
         "organizers": ["Katie Leap", "Amanda Tilot"],
         "email": "la@rladies.org",
         "status": "Active",
@@ -3150,7 +3150,7 @@
       {
         "state.region": "California",
         "city": "Pasadena",
-        "meetup": "https://www.meetup.com/rladies-pasadena/",
+        "meetup": "rladies-pasadena",
         "organizers": ["Gail Peretsman-Clement", "Zhi Yang", "Donna Wrublewski"],
         "email": "pasadena@rladies.org",
         "status": "Active",
@@ -3161,7 +3161,7 @@
       {
         "state.region": "California",
         "city": "Riverside",
-        "meetup": "https://www.meetup.com/rladies-riverside/",
+        "meetup": "rladies-riverside",
         "organizers": ["Teresa Bohner", "Marilia Gaiarsa", "Daniela Cassol"],
         "email": "riverside@rladies.org",
         "status": "Active",
@@ -3175,7 +3175,7 @@
       {
         "state.region": "California",
         "city": "San Diego",
-        "meetup": "https://www.meetup.com/rladies-san-diego/",
+        "meetup": "rladies-san-diego",
         "organizers": ["Juliana Capitanio", "Viola Glenn", "Elke Patton"],
         "email": "sandiego@rladies.org",
         "status": "Active",
@@ -3190,7 +3190,7 @@
       {
         "state.region": "California",
         "city": "San Francisco",
-        "meetup": "https://www.meetup.com/rladies-san-francisco/",
+        "meetup": "rladies-san-francisco",
         "organizers": ["Gabriela de Queiroz", "Erin LeDell", "Ciera Martinez"],
         "email": "sf@rladies.org",
         "status": "Active",
@@ -3205,7 +3205,7 @@
       {
         "state.region": "California",
         "city": "Santa Barbara",
-        "meetup": "https://www.meetup.com/rladies-santa-barbara/",
+        "meetup": "rladies-santa-barbara",
         "organizers": ["Julia Stewart Lowndes", "Allison Horst", "Jamie Afflerbach", "Juliette Verstaen", "Sam Csik", "An Bui"],
         "email": "santabarbara@rladies.org",
         "status": "Active",
@@ -3228,7 +3228,7 @@
       {
         "state.region": "Colorado",
         "city": "Boulder",
-        "meetup": "https://www.meetup.com/rladies-boulder/",
+        "meetup": "rladies-boulder",
         "organizers": ["Lisa Moller", "Courtney Van Den Elzen", "Leigh Alexander", "Marta Jankowska"],
         "email": "boulder@rladies.org",
         "status": "Active",
@@ -3242,7 +3242,7 @@
       {
         "state.region": "Colorado",
         "city": "Denver",
-        "meetup": "https://www.meetup.com/rladies-denver/",
+        "meetup": "rladies-denver",
         "organizers": ["Erin Hodgess", "Evangeline Reynolds", "Meghan Sposato"],
         "status": "Active",
         "socials": [
@@ -3261,7 +3261,7 @@
       {
         "state.region": "Connecticut",
         "city": "Hartford",
-        "meetup": "https://www.meetup.com/rladies-connecticut/",
+        "meetup": "rladies-connecticut",
         "organizers": ["Erica Holdridge", "Jasmine Dumas"],
         "email": "hartford@rladies.org",
         "status": "Retired on 01-04-2020",
@@ -3283,7 +3283,7 @@
       {
         "state.region": "Florida",
         "city": "Gainesville",
-        "meetup": "https://www.meetup.com/rladies-gainesville/",
+        "meetup": "rladies-gainesville",
         "organizers": ["Geraldine Klarenberg", "Javiera Rudolph", "Kristen Sauby"],
         "email": "gainesville@rladies.org",
         "status": "Active",
@@ -3305,7 +3305,7 @@
       {
         "state.region": "Florida",
         "city": "Miami",
-        "meetup": "https://www.meetup.com/rladies-miami/",
+        "meetup": "rladies-miami",
         "organizers": ["Laura Gabrysiak Gómez", "Catalina Arango", "Layla Bouzoubaa"],
         "email": "miami@rladies.org",
         "status": "Active",
@@ -3319,7 +3319,7 @@
       {
         "state.region": "Florida",
         "city": "Orlando",
-        "meetup": "https://www.meetup.com/rladies-orlando/",
+        "meetup": "rladies-orlando",
         "organizers": ["Kathy Joshi", "Vanessa Eaton"],
         "email": "orlando@rladies.org",
         "status": "Active",
@@ -3333,7 +3333,7 @@
       {
         "state.region": "Florida",
         "city": "Sarasota",
-        "meetup": "https://www.meetup.com/rladies-sarasota/",
+        "meetup": "rladies-sarasota",
         "organizers": ["Fanny Chow"],
         "email": "sarasota@rladies.org",
         "status": "Retired on 01-04-2020",
@@ -3347,7 +3347,7 @@
       {
         "state.region": "Florida",
         "city": "Tallahassee",
-        "meetup": "https://www.meetup.com/rladies-tallahassee/",
+        "meetup": "rladies-tallahassee",
         "organizers": ["Abimbola Sanusi", "Beck"],
         "email": "tallahassee@rladies.org",
         "status": "Prospective",
@@ -3360,7 +3360,7 @@
       {
         "state.region": "Florida",
         "city": "Tampa",
-        "meetup": "https://www.meetup.com/rladies-tampa/",
+        "meetup": "rladies-tampa",
         "organizers": ["Gina Griffin", "Saarah Kison", "Nik Ford", "Heidi Bissell"],
         "email": "tampa@rladies.org",
         "status": "Active",
@@ -3374,7 +3374,7 @@
       {
         "state.region": "Georgia",
         "city": "Athens",
-        "meetup": "https://www.meetup.com/rladies-athens-ga/",
+        "meetup": "rladies-athens-ga",
         "organizers": ["Camila Livio Emidio"],
         "status": "Active",
         "socials": [
@@ -3386,7 +3386,7 @@
       {
         "state.region": "Georgia",
         "city": "Atlanta",
-        "meetup": "https://www.meetup.com/rladies-atlanta/",
+        "meetup": "rladies-atlanta",
         "organizers": ["Melinda Higgins", "Emilie Seena", "Patricia Castro"],
         "email": "atlanta@rladies.org",
         "status": "Active",
@@ -3426,7 +3426,7 @@
       {
         "state.region": "Illinois",
         "city": "Chicago",
-        "meetup": "https://www.meetup.com/rladies-chicago/",
+        "meetup": "rladies-chicago",
         "organizers": ["Angela Li", "Katherine Simeon", "Amy Yang", "Anne Corinne-Carroll", "Ola Giwa", "Caroline Williams", "Sushmita Gopalan", "Scarlett Winters", "Aarthi Vemuri"],
         "email": "chicago@rladies.org",
         "status": "Active",
@@ -3458,7 +3458,7 @@
       {
         "state.region": "Iowa",
         "city": "Ames",
-        "meetup": "https://www.meetup.com/rladies-ames/",
+        "meetup": "rladies-ames",
         "organizers": ["Anabelle Laurent", "Stephanie Reinders"],
         "email": "ames@rladies.org",
         "status": "Active",
@@ -3472,7 +3472,7 @@
       {
         "state.region": "Iowa",
         "city": "Des Moines",
-        "meetup": "https://www.meetup.com/rladies-des-moines/",
+        "meetup": "rladies-des-moines",
         "organizers": ["Amanda Rae"],
         "email": "desmoines@rladies.org",
         "status": "Active",
@@ -3483,7 +3483,7 @@
       {
         "state.region": "Iowa",
         "city": "Iowa City",
-        "meetup": "https://www.meetup.com/rladies-iowa-city/",
+        "meetup": "rladies-iowa-city",
         "organizers": ["Marie Ozanne", "Anna Reisetter", "Alexandra Curtis"],
         "email": "iowacity@rladies.org",
         "status": "Active",
@@ -3503,7 +3503,7 @@
       {
         "state.region": "Kentucky",
         "city": "Louisville",
-        "meetup": "https://www.meetup.com/rladies-louisville/",
+        "meetup": "rladies-louisville",
         "organizers": ["Samantha Carlisle"],
         "email": "louisville@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -3517,7 +3517,7 @@
       {
         "state.region": "Louisiana",
         "city": "New Orleans",
-        "meetup": "https://www.meetup.com/rladies-new-orleans/",
+        "meetup": "rladies-new-orleans",
         "organizers": ["Erin Cuyler", "Danielle Oberdier"],
         "status": "Active",
         "socials": [
@@ -3527,7 +3527,7 @@
       {
         "state.region": "Maine",
         "city": "Portland",
-        "meetup": "https://www.meetup.com/rladies-portland-maine/",
+        "meetup": "rladies-portland-maine",
         "organizers": ["Jennifer Fleck"],
         "email": "portland@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -3541,7 +3541,7 @@
       {
         "state.region": "Maryland",
         "city": "Baltimore",
-        "meetup": "https://www.meetup.com/rladies-baltimore/",
+        "meetup": "rladies-baltimore",
         "organizers": ["Stephanie Hicks", "Margaret Taub", "Rachel Sparklin"],
         "email": "bmore@rladies.org",
         "status": "Active",
@@ -3564,7 +3564,7 @@
       {
         "state.region": "Maryland",
         "city": "Lexington Park",
-        "meetup": "https://www.meetup.com/rladies-lexington-park/",
+        "meetup": "rladies-lexington-park",
         "organizers": ["Linden McBride", "Caitlin Eger"],
         "email": "lexingtonpark@rladies.org",
         "status": "Active",
@@ -3575,7 +3575,7 @@
       {
         "state.region": "Massachusetts",
         "city": "Boston",
-        "meetup": "https://www.meetup.com/rladies-boston/",
+        "meetup": "rladies-boston",
         "organizers": ["Marianna Foos", "Maria Elena Morales", "Phoebe Wong"],
         "email": "boston@rladies.org",
         "status": "Active",
@@ -3618,7 +3618,7 @@
       {
         "state.region": "Michigan",
         "city": "East Lansing",
-        "meetup": "https://www.meetup.com/rladies-east-lansing/",
+        "meetup": "rladies-east-lansing",
         "organizers": ["Janani Ravi & Camille Archer"],
         "email": "eastlansing@rladies.org",
         "status": "Active",
@@ -3635,7 +3635,7 @@
       {
         "state.region": "Minnesota",
         "city": "Minneapolis-Saint Paul",
-        "meetup": "https://www.meetup.com/rladies-tc/",
+        "meetup": "rladies-tc",
         "organizers": ["Christina Knudson", "Kierstin Catlett"],
         "email": "minneapolis-saintpaul@rladies.org",
         "status": "Active",
@@ -3666,7 +3666,7 @@
       {
         "state.region": "Missouri",
         "city": "Kansas City",
-        "meetup": "https://www.meetup.com/rladies-kansas-city/",
+        "meetup": "rladies-kansas-city",
         "organizers": ["Boryana Koseva", "Anna Pechenina", "Gabriela Cipriano"],
         "email": "kansascity@rladies.org",
         "status": "Active",
@@ -3679,7 +3679,7 @@
       {
         "state.region": "Missouri",
         "city": "Mid-Missouri",
-        "meetup": "https://www.meetup.com/rladies-mid-mo/",
+        "meetup": "rladies-mid-mo",
         "organizers": ["Hope Snyder", "Linda A. Landon", "Krista Galyen"],
         "email": "mid-missouri@rladies.org",
         "status": "Active",
@@ -3690,7 +3690,7 @@
       {
         "state.region": "Missouri",
         "city": "Springfield",
-        "meetup": "https://www.meetup.com/rladies-springfield/",
+        "meetup": "rladies-springfield",
         "organizers": ["Amber Gillenwaters"],
         "email": "springfieldmo@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -3701,7 +3701,7 @@
       {
         "state.region": "Missouri",
         "city": "St.Louis",
-        "meetup": "https://www.meetup.com/rladies-st-louis/",
+        "meetup": "rladies-st-louis",
         "organizers": ["Jenine Harris"],
         "status": "Active",
         "socials": [
@@ -3741,7 +3741,7 @@
       {
         "state.region": "New Jersey",
         "city": "Highland Park",
-        "meetup": "https://www.meetup.com/rladies-highland-park/",
+        "meetup": "rladies-highland-park",
         "organizers": ["Michelle Stuart", "Laura Fernandez Arroyo"],
         "email": "highlandpark@rladies.org",
         "status": "Active",
@@ -3770,7 +3770,7 @@
       {
         "state.region": "New York",
         "city": "Buffalo",
-        "meetup": "https://www.meetup.com/rladies-buffalo/",
+        "meetup": "rladies-buffalo",
         "organizers": ["Lori Shepherd"],
         "email": "buffalo@rladies.org",
         "status": "Active",
@@ -3792,7 +3792,7 @@
       {
         "state.region": "New York",
         "city": "New York City",
-        "meetup": "https://www.meetup.com/rladies-newyork/",
+        "meetup": "rladies-newyork",
         "organizers": ["Soumya Kalra"],
         "email": "nyc@rladies.org",
         "status": "Active",
@@ -3816,7 +3816,7 @@
       {
         "state.region": "New York",
         "city": "Syracuse",
-        "meetup": "https://www.meetup.com/rladies-syracuse/",
+        "meetup": "rladies-syracuse",
         "organizers": ["Heather Kropp", "Anna Talucci"],
         "email": "syracuse@rladies.org",
         "status": "Active",
@@ -3836,7 +3836,7 @@
       {
         "state.region": "North Carolina",
         "city": "RTP (Research Triangle Park)",
-        "meetup": "https://www.meetup.com/rladies-rtp/",
+        "meetup": "rladies-rtp",
         "organizers": ["Sheila Saia", "Elaine McVey"],
         "email": "rtp@rladies.org",
         "status": "Active",
@@ -3850,7 +3850,7 @@
       {
         "state.region": "Ohio",
         "city": "Cincinnati",
-        "meetup": "https://www.meetup.com/rladies-cincinnati/",
+        "meetup": "rladies-cincinnati",
         "organizers": ["Renata Gerecke"],
         "email": "cincinnati@rladies.org",
         "status": "Retired on 04-04-2020",
@@ -3863,7 +3863,7 @@
       {
         "state.region": "Ohio",
         "city": "Columbus",
-        "meetup": "https://www.meetup.com/rladies-columbus/",
+        "meetup": "rladies-columbus",
         "organizers": ["Ezgi Karaesmen", "Katie Sasso", "Genelle Denzin"],
         "email": "columbus@rladies.org",
         "status": "Active",
@@ -3877,7 +3877,7 @@
       {
         "state.region": "Ohio",
         "city": "Oxford",
-        "meetup": "https://www.meetup.com/rladies-oxford-ohio",
+        "meetup": "rladies-oxford-ohio",
         "organizers": ["Sandy Steiger", "Skyler Perry"],
         "email": "oxford-ohio@rladies.org",
         "status": "Active",
@@ -3888,7 +3888,7 @@
       {
         "state.region": "Oregon",
         "city": "Portland",
-        "meetup": "https://www.meetup.com/rladies-pdx/",
+        "meetup": "rladies-pdx",
         "organizers": ["Augustina Ragwitz", "Deeksha Thati", "Alison Presmanes Hill"],
         "email": "pdx@rladies.org",
         "status": "Active",
@@ -3911,7 +3911,7 @@
       {
         "state.region": "Pennsylvania",
         "city": "Philadelphia",
-        "meetup": "https://www.meetup.com/rladies-philly/",
+        "meetup": "rladies-philly",
         "organizers": ["Darina Chudnovskaya", "Karla Fettich", "Amy Goodwin Davies", "Jessie Pluto", "Chun Su", "Alice Walsh"],
         "email": "philly@rladies.org",
         "status": "Active",
@@ -3954,7 +3954,7 @@
       {
         "state.region": "Tennessee",
         "city": "Memphis",
-        "meetup": "https://www.meetup.com/rladies-memphis",
+        "meetup": "rladies-memphis",
         "organizers": ["Scarlett Evans"],
         "email": "memphis@rladies.org",
         "status": "Retired on 29-09-2019",
@@ -3967,7 +3967,7 @@
       {
         "state.region": "Tennessee",
         "city": "Nashville",
-        "meetup": "https://www.meetup.com/rladies-nashville/",
+        "meetup": "rladies-nashville",
         "organizers": ["Lucy D'Agostino McGowan", "Mary van Valkenburg"],
         "email": "nashville@rladies.org",
         "status": "Active",
@@ -3981,7 +3981,7 @@
       {
         "state.region": "Texas",
         "city": "Austin",
-        "meetup": "https://www.meetup.com/rladies-austin/",
+        "meetup": "rladies-austin",
         "organizers": ["Victoria Valencia", "Caitlin Hudon"],
         "email": "austin@rladies.org",
         "status": "Active",
@@ -3995,7 +3995,7 @@
       {
         "state.region": "Texas",
         "city": "Dallas",
-        "meetup": "https://www.meetup.com/rladies-dallas/",
+        "meetup": "rladies-dallas",
         "organizers": ["Sydeaka Watson"],
         "email": "dallas@rladies.org",
         "status": "Active",
@@ -4008,7 +4008,7 @@
       {
         "state.region": "Texas",
         "city": "El Paso",
-        "meetup": "https://www.meetup.com/rladies-el-paso/",
+        "meetup": "rladies-el-paso",
         "organizers": ["Grace Smith Vidaurre", "Marguerite Mauritz"],
         "email": "elpaso@rladies.org",
         "status": "Active",
@@ -4023,7 +4023,7 @@
       {
         "state.region": "Texas",
         "city": "Houston",
-        "meetup": "https://www.meetup.com/rladies-houston/",
+        "meetup": "rladies-houston",
         "organizers": ["Erin Hodgess", "Jennifer Cai", "Tulasi NARAYANAN Aayer"],
         "email": "houston@rladies.org",
         "status": "Active",
@@ -4054,7 +4054,7 @@
       {
         "state.region": "Virginia",
         "city": "Charlottesville",
-        "meetup": "https://www.meetup.com/rladies-charlottesville/",
+        "meetup": "rladies-charlottesville",
         "organizers": ["Samantha Toet"],
         "email": "charlottesville@rladies.org",
         "status": "Active",
@@ -4086,7 +4086,7 @@
       {
         "state.region": "Washington",
         "city": "D.C.",
-        "meetup": "https://www.meetup.com/rladies-dc/",
+        "meetup": "rladies-dc",
         "organizers": ["gwynn sturdevant", "Sam Tyner", "Simina Boca", "Kelly Obriant", "Pri Oberoi"],
         "email": "dc@rladies.org",
         "status": "Active",
@@ -4100,7 +4100,7 @@
       {
         "state.region": "Washington",
         "city": "Seattle",
-        "meetup": "https://www.meetup.com/rladies-seattle/",
+        "meetup": "rladies-seattle",
         "organizers": ["Chaya Eastwood Jones", "Monica Gerber", "Isabella Velásquez"],
         "email": "seattle@rladies.org",
         "status": "Active",
@@ -4153,7 +4153,7 @@
     "chapters": [
       {
         "city": "Ha Noi",
-        "meetup": "https://www.meetup.com/rladies-ha-noi/",
+        "meetup": "rladies-ha-noi",
         "organizers": ["Linh Dieu"],
         "status": "Active",
         "socials": [
@@ -4168,7 +4168,7 @@
     "chapters": [
       {
         "city": "Remote",
-        "meetup": "https://www.meetup.com/rladies-remote/",
+        "meetup": "rladies-remote",
         "organizers": ["Angela Castillo-Gill", "Auriel Fournier", "Charles T. Gray", "Abigail Lebrecht", "Steph De Silva", "Heather Turner"],
         "email": "remote@rladies.org",
         "status": "Active",
