@@ -25,7 +25,7 @@ jobs:
       - name: Write global-team.json
         run: Rscript R/write_global-team.R
       - name: Write global-team-alumni.json
-        run: Rscript R/write_global-team-alumni.R
+        run: Rscript R/write_global-alumni.R
       - name: Write chapters.json
         run: Rscript R/write_chapters_json.R
       - name: Commit results
