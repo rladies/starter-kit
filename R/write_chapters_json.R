@@ -5,6 +5,8 @@ names(data) <- tolower(names(data))
 data <- unique(data)
 
 data <- dplyr::arrange(data, country, city)
+data$organizers <- gsub("\n", " ", data$organizers )
+data$organizers <- strsplit(data$organizers, ", ")
 
 # replace empty cells with NA
 data[data == ""] <- NA
