@@ -26,5 +26,5 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git commit jsons/write_global-alumni.json -m 'Update global-team-alumni.json' || echo "No changes to commit"
+          git commit jsons/global-team-alumni.json -m 'Update jsons/global-team-alumni.json' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
