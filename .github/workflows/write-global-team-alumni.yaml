@@ -3,7 +3,7 @@ on:
     paths:
       - global-team-alumni.csv
 
-name: Write chapters.json
+name: global-team-alumni.json
 
 jobs:
   render:
