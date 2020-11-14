@@ -2,12 +2,13 @@ on:
   push:
     paths:
       - global-team.csv
+      - global-team-alumni.csv
 
-name: Write global-team.json
+name: Write global-team jsons
 
 jobs:
   render:
-    name: Write global-team.json
+    name: Write global-team jsons
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,9 +23,11 @@ jobs:
         shell: Rscript {0}
       - name: Write global-team.json
         run: Rscript R/write_global-team.R
+      - name: Write global-team-alumni.json
+        run: Rscript R/write_global-team-alumni.R
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git commit jsons/global-team.json -m 'Update jsons/global-team.json' || echo "No changes to commit"
+          git commit jsons/global-team* -m 'Update jsons/global-team.json' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
