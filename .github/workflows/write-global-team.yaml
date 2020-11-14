@@ -1,0 +1,30 @@
+on:
+  push:
+    paths:
+      - global-team.csv
+
+name: Write global-team.json
+
+jobs:
+  render:
+    name: Write chapters.json
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      #- uses: r-lib/actions/setup-pandoc@v1
+      - name: Install packages
+        run: |
+          install.packages("remotes")
+          #remotes::install_local(".")
+          remotes::install_cran("dplyr")
+          remotes::install_cran("jsonlite")
+        shell: Rscript {0}
+      - name: Write global-team.json
+        run: Rscript R/write_global-team.R
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit chapters.json -m 'Update global-team.json' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
