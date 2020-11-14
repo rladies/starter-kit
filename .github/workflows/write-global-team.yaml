@@ -7,7 +7,7 @@ name: Write global-team.json
 
 jobs:
   render:
-    name: Write chapters.json
+    name: Write global-team.json
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
@@ -26,5 +26,5 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git commit jsons/global-team.json -m 'Update global-team.json' || echo "No changes to commit"
+          git commit jsons/global-team.json -m 'Update jsons/global-team.json' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
