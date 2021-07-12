@@ -184,6 +184,9 @@ _***Toda mención a Mujeres o Femenino en este documento es utilizada de forma i
 
 - **Administración dirigida por la comunidad, independiente de las influencias externas:** R-Ladies no tiene vínculos permanentes con patrocinadores o terceras partes. El sponsoreo y apoyo externo es bienvenido, siempre y cuando no busque dictar o influir en la misión, actividades y toma de decisiones de R-Ladies, sino que permita mejorar dichas actividades y ayude a lograr un mayor impacto en la comunidad. Se alienta a las organizadoras locales de R-Ladies a obtener apoyos adecuados que no comprometan la independencia de la comunidad.
 
+- **Sin agenda comercial:** los capítulos son iniciados por personas, no por empresas. Los capítulos pueden asociarse con empresas para el patrocinio en diferentes formas (espacio para los eventos, comida u otros suministros). Los capítulos y eventos no pueden ser "utilizados" por una corporación como un vehículo comercial para fines privados. Esto también significa que los oradores no pueden dar charlas sobre productos/servicios pagos, incluso si no trabajan en la empresa que ofrece el producto/servicio.
+
+
 ## Capítulos
 
 Los capítulos son creados por líderes femeninas\* en ciudades alrededor del mundo. Existe un [kit de inicio](https://github.com/rladies/starter-kit) para los nuevos capítulos que contiene instrucciones para poder empezar (todavía falta traducir al español algunas cosas). Se espera que cada capítulo de R-Ladies se comporte de acuerdo con las siguientes reglas:
