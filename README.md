@@ -1,5 +1,3 @@
-<img src="./logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="./logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
-
 # R-Ladies Starter Kit for New Chapters
 
 Welcome! This repository holds a few precious files but you'll find more information by browsing
