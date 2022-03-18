@@ -1,5 +1,11 @@
 [
   {
+    "country": "Active",
+    "chapters": [
+      {}
+    ]
+  },
+  {
     "country": "Algeria",
     "chapters": [
       {
@@ -477,7 +483,7 @@
         "facebook": "https://www.facebook.com/rladiesrio",
         "instagram": "https://www.instagram.com/Rladiesrio/",
         "github": "https://github.com/rladies/meetup-presentations_rio",
-        "organizers": "Andrea Sánchez-Tapia, Beatriz Pinna, Clemencia Mora, Priscila Hohberg, Sara Mortara, Noele Ribeiro",
+        "organizers": "Beatriz Pinna, Clemencia Mora, Priscila Hohberg, Sara Mortara, Noele Ribeiro",
         "status": "Active"
       },
       {
@@ -740,6 +746,11 @@
         "status": "Prospective"
       },
       {
+        "city": "Cali",
+        "organizers": "Isabel Cristina Garcia Arboleda",
+        "status": "Prospective"
+      },
+      {
         "city": "Manizales",
         "organizers": "Beatriz Mira",
         "status": "Prospective"
@@ -970,8 +981,8 @@
       {
         "city": "Cologne",
         "meetup": "https://www.meetup.com/rladies-cologne/",
-        "organizers": "Cosima Meyer",
-        "status": "Active"
+        "organizers": "Cosima Meyer, Luciana Imbiriba",
+        "status": "Gabe Winter"
       },
       {
         "state.region": "Hessen",
@@ -1271,6 +1282,11 @@
         "status": "Prospective"
       },
       {
+        "city": "Rome",
+        "organizers": "Federica Gazzelloni",
+        "status": "Active"
+      },
+      {
         "city": "Trento",
         "organizers": "Teresa Del Bianco",
         "status": "Prospective"
@@ -1337,6 +1353,16 @@
     ]
   },
   {
+    "country": "Malawi",
+    "chapters": [
+      {
+        "city": "Blantyre",
+        "organizers": "Angeziwa Chirambo",
+        "status": "Prospective"
+      }
+    ]
+  },
+  {
     "country": "Malaysia",
     "chapters": [
       {
@@ -1372,11 +1398,17 @@
         "status": "Prospective"
       },
       {
+        "city": "Ciudad Obregón",
+        "meetup": "https://www.meetup.com/rladies-ciudad-obregon/",
+        "organizers": "Rubí Navarro",
+        "status": "Active"
+      },
+      {
         "city": "Cuernavaca",
         "meetup": "https://www.meetup.com/rladies-cuernavaca/",
         "twitter": "https://twitter.com/RLadiesCuerna",
         "email": "cuernavaca@rladies.org",
-        "organizers": "Joselyn Chavez, Verónica Jiménez Jacinto, Leticia Vega Alvarado",
+        "organizers": "Joselyn Chavez, Verónica Jiménez Jacinto, Leticia Vega Alvarado, Elizabeth Ernestina Godoy Lozano, Aurora Labastida",
         "status": "Active"
       },
       {
@@ -1406,8 +1438,9 @@
       },
       {
         "city": "Morelia",
-        "organizers": "Irais Avila Eulogio. Thomai Tsiftsi",
-        "status": "Prospective"
+        "meetup": "https://www.meetup.com/rladies-morelia/",
+        "organizers": "Nelly Selem, Irais Avila Eulogio, Thomai Tsiftsi",
+        "status": "Active"
       },
       {
         "city": "Nezahualcoyotl",
@@ -1982,6 +2015,11 @@
         "github": "https://github.com/rladies/meetup-presentations_stockholm",
         "organizers": "Elisabeth Dahlqwist, Nina Lindell, Maya Alsheh Ali, Aminata Ndiaye, Ana Turk, Nissa Ferm, Ashley Thompson",
         "status": "Active"
+      },
+      {
+        "city": "Uppsala ",
+        "organizers": "Sarah Trochemowitz, Cecilia Natalie Strom",
+        "status": "Prospective"
       }
     ]
   },
@@ -1997,7 +2035,7 @@
         "github": "https://github.com/rladies/meetup-presentations_lausanne",
         "website": "https://rladieslausanne.github.io/",
         "organizers": "Ninon Mounier, Liza Darrous",
-        "status": "Active"
+        "status": "Retired on 12-02-2022"
       },
       {
         "city": "Zurich",
@@ -2369,7 +2407,7 @@
         "meetup": "https://www.meetup.com/rladies-buffalo/",
         "twitter": "https://twitter.com/RLadiesBuff",
         "email": "buffalo@rladies.org",
-        "organizers": "Lori Shepherd",
+        "organizers": "Lori Shepherd, Meghan Harris",
         "status": "Active"
       },
       {
@@ -2442,7 +2480,7 @@
         "twitter": "https://twitter.com/RLadiesDC",
         "email": "dc@rladies.org",
         "github": "https://github.com/rladies/meetup-presentations_dc",
-        "organizers": "gwynn sturdevant, Sam Tyner, Simina Boca, Kelly Obriant, Pri Oberoi",
+        "organizers": "gwynn sturdevant, Sam Tyner, Simina Boca, Kelly Obriant, Pri Oberoi, Federica Gazzelloni",
         "status": "Active"
       },
       {
@@ -2486,7 +2524,7 @@
         "github": "https://github.com/rladies-eastlansing",
         "website": "https://rladies-eastlansing.github.io",
         "slack": "https://rladies-eastlansing.slack.com",
-        "organizers": "Janani Ravi & Camille Archer",
+        "organizers": "Janani Ravi, Kayla Johnson, Stephanie Hickey",
         "status": "Active"
       },
       {
@@ -2623,8 +2661,9 @@
         "state.region": "Maryland",
         "city": "Lexington Park",
         "meetup": "https://www.meetup.com/rladies-lexington-park/",
+        "twitter": "https://twitter.com/RLadiesLexPark",
         "email": "lexingtonpark@rladies.org",
-        "organizers": "Linden McBride, Caitlin Eger",
+        "organizers": "Linden McBride, Caitlin Eger, Cassie Gurbisz",
         "status": "Active"
       },
       {
@@ -2774,6 +2813,12 @@
         "email": "orlando@rladies.org",
         "github": "https://github.com/rladies/meetup-presentations_orlando",
         "organizers": "Kathy Joshi, Vanessa Eaton",
+        "status": "Active"
+      },
+      {
+        "state.region": "Missisippi",
+        "city": "Oxford",
+        "organizers": "Mariana Strawn",
         "status": "Active"
       },
       {
@@ -3071,7 +3116,7 @@
         "twitter": "https://twitter.com/rladiesremote",
         "email": "remote@rladies.org",
         "slack": "https://rladies-remote.slack.com",
-        "organizers": "Angela Castillo-Gill, Auriel Fournier, Charles T. Gray, Abigail Lebrecht, Steph De Silva, Heather Turner",
+        "organizers": "Azadeh Gishani, Katie Lee, Frie Preu, Heather Turner",
         "status": "Active"
       }
     ]
