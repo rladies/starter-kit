@@ -1529,7 +1529,7 @@
         "twitter": "https://twitter.com/RLadiesRabat",
         "email": "rabat@rladies.org",
         "organizers": "Abir Alaoui",
-        "status": "Retired on 04-04-2020"
+        "status": "Active"
       }
     ]
   },
@@ -1650,6 +1650,11 @@
         "email": "nelson@rladies.org",
         "organizers": "Dana Briscoe",
         "status": "Active"
+      },
+      {
+        "city": "Wellington",
+        "organizers": "Silvina Pugliese",
+        "status": "Prospective"
       }
     ]
   },
@@ -2593,8 +2598,9 @@
       {
         "state.region": "Hawaii",
         "city": "Honolulu",
-        "organizers": "Emily E. Conklin",
-        "status": "Prospective"
+        "meetup": "https://www.meetup.com/rladies-honolulu/",
+        "organizers": "Emily E. Conklin, Juliette Verstaen, Jayslen Serrano",
+        "status": "Active"
       },
       {
         "state.region": "Texas",
