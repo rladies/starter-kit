@@ -583,6 +583,12 @@
         "status": "Prospective"
       },
       {
+        "state.region": "Nova Scotia",
+        "city": "Halifax",
+        "organizers": "Emily O'Grady",
+        "status": "Prospective"
+      },
+      {
         "state.region": "Ontario",
         "city": "Kingston",
         "meetup": "https://www.meetup.com/rladies-kingston/",
@@ -1389,7 +1395,7 @@
       },
       {
         "city": "Chiapas",
-        "organizers": "Cristina Alex",
+        "organizers": "Cristina Alex, Anahí Canedo, Mirna Vázquez Rosas Landa, Cristina Dominguez Mendoza",
         "status": "Prospective"
       },
       {
@@ -1529,7 +1535,7 @@
         "twitter": "https://twitter.com/RLadiesRabat",
         "email": "rabat@rladies.org",
         "organizers": "Abir Alaoui",
-        "status": "Retired on 04-04-2020"
+        "status": "Active"
       }
     ]
   },
@@ -1650,6 +1656,11 @@
         "email": "nelson@rladies.org",
         "organizers": "Dana Briscoe",
         "status": "Active"
+      },
+      {
+        "city": "Wellington",
+        "organizers": "Silvina Pugliese",
+        "status": "Prospective"
       }
     ]
   },
@@ -2593,8 +2604,9 @@
       {
         "state.region": "Hawaii",
         "city": "Honolulu",
-        "organizers": "Emily E. Conklin",
-        "status": "Prospective"
+        "meetup": "https://www.meetup.com/rladies-honolulu/",
+        "organizers": "Emily E. Conklin, Juliette Verstaen, Jayslen Serrano",
+        "status": "Active"
       },
       {
         "state.region": "Texas",
