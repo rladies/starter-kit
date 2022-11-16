@@ -47,7 +47,7 @@
         "facebook": "https://www.facebook.com/RLadiesCba",
         "github": "https://github.com/rladies/meetup-presentations_cordoba",
         "slack": "rladies-cordoba.slack.com",
-        "current_organizers": "Juliana Benitez, Fernanda Garc<ed>a, Marina\n\n\n\nCompagnuci",
+        "current_organizers": "Juliana Benitez, Fernanda Garc<ed>a, Marina Compagnuci",
         "status": "Active"
       },
       {
@@ -1000,7 +1000,7 @@
         "twitter": "https://twitter.com/rladies_cologne",
         "email": "cologne@rladies.org",
         "linkedin": "https://www.linkedin.com/company/r-ladies-cologne/",
-        "current_organizers": "Cosima Meyer, Gabe Winter",
+        "current_organizers": "Cosima Meyer, Gabe Winter, Paula Nemcova",
         "former_organizers": "Luciana Imbiriba",
         "status": "Active"
       },
@@ -1315,7 +1315,10 @@
       },
       {
         "city": "Rome",
+        "meetup": "https://www.meetup.com/rladies-rome/",
+        "email": "rome@rladies.org",
         "current_organizers": "Federica Gazzelloni",
+        "former_organizers": "Nina Deliu",
         "status": "Active"
       },
       {
@@ -1753,6 +1756,11 @@
         "github": "https://github.com/rladies/meetup-presentations_oslo",
         "current_organizers": "Anne Claire Fouilloux, Athanasia Monika Mowinckel, Lene Norderhaug Drosdal, Aurora Voje, Isabelle Valette",
         "status": "Active"
+      },
+      {
+        "city": "Trondheim",
+        "current_organizers": "Emma Sofie Skarstein, Susan Anyosa",
+        "status": "Prospective"
       }
     ]
   },
@@ -1951,7 +1959,7 @@
         "city": "Ljubljana",
         "meetup": "https://www.meetup.com/rladies-ljubljana/",
         "current_organizers": "Tanja <U+008E>lender, Ur<U+009A>a Miklavcic",
-        "status": "Prospective"
+        "status": "Active"
       }
     ]
   },
@@ -2341,6 +2349,11 @@
         "status": "Active"
       },
       {
+        "city": "Sheffield",
+        "current_organizers": "Harriet AB Patrick",
+        "status": "Prospective"
+      },
+      {
         "city": "St. Andrews",
         "current_organizers": "Chia Liu",
         "status": "Prospective"
@@ -2635,7 +2648,7 @@
       {
         "state.region": "Colorado",
         "city": "Fort Collins",
-        "current_organizers": "Kathleen Wendt",
+        "current_organizers": "Katie Willi,Caitlin Mothes,Kathleen Wendt",
         "status": "Prospective"
       },
       {
@@ -3165,7 +3178,8 @@
         "meetup": "https://www.meetup.com/rladies-tucson-az/",
         "twitter": "https://twitter.com/RLadiesTucson",
         "email": "tuscon@rladies.org",
-        "current_organizers": "Adriana Picoral",
+        "current_organizers": "Amy Margaret Banka",
+        "former_organizers": "Adriana Picoral",
         "status": "Active"
       },
       {
